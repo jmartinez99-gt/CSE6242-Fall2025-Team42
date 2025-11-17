@@ -1,6 +1,5 @@
 # Data Files
 
-
 ## Address Data 
 HD2024.csv
 - contains data on addresses and coordinates for each NCAA school
@@ -13,6 +12,7 @@ All_Data_Combined_2004_2005_2006_2007_2008_2009_2010_2011_2012_2013_2014_2015_20
 - contains num people in each sport + costs & revenue of each sport for each NCAA school
 
 <https://ope.ed.gov/athletics/#/>
+
 
 ## Football Spending
 CustomReportingResultsData_FBS.xlsx
