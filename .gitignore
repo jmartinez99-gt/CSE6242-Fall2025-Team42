@@ -14,8 +14,15 @@ venv/
 
 # Large Project Files
 /data/processed/**
+!/data/processed/.gitkeep
+
 /data/merged/**
+!/data/merged/.gitkeep
+
 /data/raw/**/*.csv
 /data/raw/College_Scorecard_Raw_Data_05192025/
 /data/raw/College_Scorecard_Raw_Data_05192025/Crosswalks
+!/data/raw/.gitkeep
+
 /data/tableau/**/*.csv
+!/data/tableau/.gitkeep
