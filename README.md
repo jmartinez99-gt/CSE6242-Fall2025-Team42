@@ -2,13 +2,20 @@
 CSE 6242 Fall 2025 Final Project code repository for Team 42
 
 ## Instructions
-Only the raw data is uploaded to GitHub, run each Jupyter Notebook in directories in the following order
-1. setup
-2. preprocessing
-2. merging
 
-Optionally run
-- exploratory_data_analysis
+### Obtain just the results 
+To just get the CSV files needed for the dashboards
+1. Run `setup/compress_and_decompress_tableau_csvs.py`
+2. Open `tableau/**`
+
+### Run Entire Project
+To run the whole project from scratch, run code from these directories in the following order
+1. `setup\**`
+2. `preprocessing\**`
+3. `merging\**`
+4. `exploratory_data_analysis\**`
+5. `analysis\**`
+6. `tableau\**`
 
 ## To Do
 - number of students on specific sport team / num students in state
