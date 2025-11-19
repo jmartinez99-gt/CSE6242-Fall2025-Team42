@@ -1,0 +1,1124 @@
+Division,Gender,Sport,Year,UNITID,Champion,INSTNM,Champion_NORM,INSTNM_NORM,type_of_match
+D1,Men,Wrestling,2023,214777,Penn State,Pennsylvania State University-Main Campus,pennsylvania state university main campus,pennsylvania state university main campus,exact
+D1,Men,Wrestling,2022,214777,Penn State,Pennsylvania State University-Main Campus,pennsylvania state university main campus,pennsylvania state university main campus,exact
+D1,Men,Wrestling,2021,153658,Iowa,University of Iowa,iowa,university of iowa,alias
+D1,Men,Wrestling,2019,214777,Penn State,Pennsylvania State University-Main Campus,pennsylvania state university main campus,pennsylvania state university main campus,exact
+D1,Men,Wrestling,2018,214777,Penn State,Pennsylvania State University-Main Campus,pennsylvania state university main campus,pennsylvania state university main campus,exact
+D1,Men,Wrestling,2017,214777,Penn State,Pennsylvania State University-Main Campus,pennsylvania state university main campus,pennsylvania state university main campus,exact
+D1,Men,Wrestling,2016,214777,Penn State,Pennsylvania State University-Main Campus,pennsylvania state university main campus,pennsylvania state university main campus,exact
+D1,Men,Wrestling,2015,204796,Ohio State,Ohio State University-Main Campus,ohio state university main campus,ohio state university main campus,exact
+D1,Men,Wrestling,2014,214777,Penn State,Pennsylvania State University-Main Campus,pennsylvania state university main campus,pennsylvania state university main campus,exact
+D1,Men,Wrestling,2013,214777,Penn State,Pennsylvania State University-Main Campus,pennsylvania state university main campus,pennsylvania state university main campus,exact
+D1,Men,Wrestling,2012,214777,Penn State,Pennsylvania State University-Main Campus,pennsylvania state university main campus,pennsylvania state university main campus,exact
+D1,Men,Wrestling,2011,214777,Penn State,Pennsylvania State University-Main Campus,pennsylvania state university main campus,pennsylvania state university main campus,exact
+D1,Men,Wrestling,2010,153658,Iowa,University of Iowa,iowa,university of iowa,alias
+D1,Men,Wrestling,2009,153658,Iowa,University of Iowa,iowa,university of iowa,alias
+D1,Men,Wrestling,2008,153658,Iowa,University of Iowa,iowa,university of iowa,alias
+D1,Men,Wrestling,2007,174066,Minnesota,University of Minnesota-Twin Cities,university of minnesota twin cities,university of minnesota twin cities,exact
+D1,Men,Wrestling,2006,207388,Oklahoma State,Oklahoma State University-Main Campus,oklahoma state university main campus,oklahoma state university main campus,exact
+D1,Men,Wrestling,2005,207388,Oklahoma State,Oklahoma State University-Main Campus,oklahoma state university main campus,oklahoma state university main campus,exact
+D1,Men,Wrestling,2004,207388,Oklahoma State,Oklahoma State University-Main Campus,oklahoma state university main campus,oklahoma state university main campus,exact
+D2,Women,Volleyball,2023,110592,Cal State LA,California State University-Los Angeles,cal state la,california state university los angeles,alias
+D2,Women,Volleyball,2021,137847,Tampa,The University of Tampa,tampa,university of tampa,fuzzy
+D2,Women,Volleyball,2019,110510,Cal State San Bernardino,California State University-San Bernardino,cal state san bernardino,california state university san bernardino,alias
+D2,Women,Volleyball,2018,137847,Tampa,The University of Tampa,tampa,university of tampa,fuzzy
+D2,Women,Volleyball,2017,173328,Concordia-St. Paul,Concordia University-Saint Paul,concordia st paul,concordia university saint paul,alias
+D2,Women,Volleyball,2016,173328,Concordia-St. Paul,Concordia University-Saint Paul,concordia st paul,concordia university saint paul,alias
+D2,Women,Volleyball,2014,137847,Tampa,The University of Tampa,tampa,university of tampa,fuzzy
+D2,Women,Volleyball,2013,173328,Concordia-St. Paul,Concordia University-Saint Paul,concordia st paul,concordia university saint paul,alias
+D2,Women,Volleyball,2012,173328,Concordia-St. Paul,Concordia University-Saint Paul,concordia st paul,concordia university saint paul,alias
+D2,Women,Volleyball,2011,173328,Concordia-St. Paul,Concordia University-Saint Paul,concordia st paul,concordia university saint paul,alias
+D2,Women,Volleyball,2010,173328,Concordia-St. Paul,Concordia University-Saint Paul,concordia st paul,concordia university saint paul,alias
+D2,Women,Volleyball,2009,173328,Concordia-St. Paul,Concordia University-Saint Paul,concordia st paul,concordia university saint paul,alias
+D2,Women,Volleyball,2008,173328,Concordia-St. Paul,Concordia University-Saint Paul,concordia st paul,concordia university saint paul,alias
+D2,Women,Volleyball,2007,173328,Concordia-St. Paul,Concordia University-Saint Paul,concordia st paul,concordia university saint paul,alias
+D2,Women,Volleyball,2006,137847,Tampa,The University of Tampa,tampa,university of tampa,fuzzy
+D2,Women,Volleyball,2005,170082,Grand Valley State,Grand Valley State University,grand valley state,grand valley state university,fuzzy
+D2,Women,Volleyball,2004,132471,Barry,Barry University,barry,barry university,fuzzy
+D3,Women,Basketball,2023,157818,Transylvania,Transylvania University,transylvania,transylvania university,fuzzy
+D3,Women,Basketball,2022,170301,Hope,Hope College,hope college,hope college,exact
+D3,Women,Basketball,2019,157809,Thomas More,Thomas More University,thomas more,thomas more university,alias
+D3,Women,Basketball,2018,164465,Amherst,Amherst College,amherst,amherst college,fuzzy
+D3,Women,Basketball,2017,164465,Amherst,Amherst College,amherst,amherst college,fuzzy
+D3,Women,Basketball,2016,157809,Thomas More,Thomas More University,thomas more,thomas more university,alias
+D3,Women,Basketball,2015,157809,Thomas More,Thomas More University,thomas more,thomas more university,alias
+D3,Women,Basketball,2013,150400,DePauw,DePauw University,depauw,depauw university,alias
+D3,Women,Basketball,2012,145646,Illinois Wesleyan,Illinois Wesleyan University,illinois wesleyan,illinois wesleyan university,fuzzy
+D3,Women,Basketball,2011,164465,Amherst,Amherst College,amherst,amherst college,fuzzy
+D3,Women,Basketball,2009,208822,George Fox,George Fox University,george fox,george fox university,fuzzy
+D3,Women,Basketball,2008,225548,Howard Payne,Howard Payne University,howard payne,howard payne university,fuzzy
+D3,Women,Basketball,2007,150400,DePauw,DePauw University,depauw,depauw university,alias
+D3,Women,Basketball,2006,170301,Hope,Hope College,hope college,hope college,exact
+D2,Women,Indoor Track & Field,2023,126182,Adams State,Adams State University,adams state,adams state university,fuzzy
+D2,Women,Indoor Track & Field,2022,428453,Minnesota State,Minnesota State Colleges and Universities System Office,minnesota state,minnesota state colleges and universities system office,alias
+D2,Women,Indoor Track & Field,2021,170082,Grand Valley State,Grand Valley State University,grand valley state,grand valley state university,fuzzy
+D2,Women,Indoor Track & Field,2019,126182,Adams State,Adams State University,adams state,adams state university,fuzzy
+D2,Women,Indoor Track & Field,2017,126182,Adams State,Adams State University,adams state,adams state university,fuzzy
+D2,Women,Indoor Track & Field,2015,176965,Central Missouri,University of Central Missouri,central missouri,university of central missouri,fuzzy
+D2,Women,Indoor Track & Field,2014,126182,Adams State,Adams State University,adams state,adams state university,fuzzy
+D2,Women,Indoor Track & Field,2013,108232,Academy of Art,Academy of Art University,academy of art,academy of art university,fuzzy
+D2,Women,Indoor Track & Field,2012,170082,Grand Valley State,Grand Valley State University,grand valley state,grand valley state university,fuzzy
+D2,Women,Indoor Track & Field,2011,170082,Grand Valley State,Grand Valley State University,grand valley state,grand valley state university,fuzzy
+D2,Women,Indoor Track & Field,2008,126182,Adams State,Adams State University,adams state,adams state university,fuzzy
+D1,Women,Swimming & Diving,2023,234076,Virginia,University of Virginia-Main Campus,university of virginia-main campus,university of virginia main campus,fuzzy
+D1,Women,Swimming & Diving,2022,234076,Virginia,University of Virginia-Main Campus,university of virginia-main campus,university of virginia main campus,fuzzy
+D1,Women,Swimming & Diving,2021,234076,Virginia,University of Virginia-Main Campus,university of virginia-main campus,university of virginia main campus,fuzzy
+D1,Women,Swimming & Diving,2019,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+D1,Women,Swimming & Diving,2018,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+D1,Women,Swimming & Diving,2017,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+D1,Women,Swimming & Diving,2016,139959,Georgia,University of Georgia,university of georgia,university of georgia,exact
+D1,Women,Swimming & Diving,2015,110635,California,University of California-Berkeley,university of california berkeley,university of california berkeley,exact
+D1,Women,Swimming & Diving,2014,139959,Georgia,University of Georgia,university of georgia,university of georgia,exact
+D1,Women,Swimming & Diving,2013,139959,Georgia,University of Georgia,university of georgia,university of georgia,exact
+D1,Women,Swimming & Diving,2012,110635,California,University of California-Berkeley,university of california berkeley,university of california berkeley,exact
+D1,Women,Swimming & Diving,2011,110635,California,University of California-Berkeley,university of california berkeley,university of california berkeley,exact
+D1,Women,Swimming & Diving,2010,134130,Florida,University of Florida,university of florida,university of florida,exact
+D1,Women,Swimming & Diving,2009,110635,California,University of California-Berkeley,university of california berkeley,university of california berkeley,exact
+D1,Women,Swimming & Diving,2008,104179,Arizona,University of Arizona,university of arizona,university of arizona,exact
+D1,Women,Swimming & Diving,2007,100858,Auburn,Auburn University,auburn university,auburn university,exact
+D1,Women,Swimming & Diving,2006,100858,Auburn,Auburn University,auburn university,auburn university,exact
+D1,Women,Swimming & Diving,2005,139959,Georgia,University of Georgia,university of georgia,university of georgia,exact
+D1,Women,Swimming & Diving,2004,100858,Auburn,Auburn University,auburn university,auburn university,exact
+D1,Men,Soccer,2023,217882,Clemson,Clemson University,clemson university,clemson university,exact
+D1,Men,Soccer,2022,196413,Syracuse,Syracuse University,syracuse university,syracuse university,exact
+D1,Men,Soccer,2021,217882,Clemson,Clemson University,clemson university,clemson university,exact
+D1,Men,Soccer,2020,237525,Marshall,Marshall University,marshall university,marshall university,exact
+D1,Men,Soccer,2019,131496,Georgetown,Georgetown University,georgetown,georgetown university,fuzzy
+D1,Men,Soccer,2018,163286,Maryland,University of Maryland-College Park,university of maryland college park,university of maryland college park,exact
+D1,Men,Soccer,2017,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+D1,Men,Soccer,2016,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+D1,Men,Soccer,2015,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+D1,Men,Soccer,2014,234076,Virginia,University of Virginia-Main Campus,university of virginia-main campus,university of virginia main campus,fuzzy
+D1,Men,Soccer,2013,152080,Notre Dame,University of Notre Dame,university of notre dame,university of notre dame,exact
+D1,Men,Soccer,2012,151351,Indiana,Indiana University-Bloomington,indiana university bloomington,indiana university bloomington,exact
+D1,Men,Soccer,2011,199120,North Carolina,University of North Carolina at Chapel Hill,university of north carolina at chapel hill,university of north carolina at chapel hill,exact
+D1,Men,Soccer,2010,200800,Akron,University of Akron Main Campus,university of akron main campus,university of akron main campus,exact
+D1,Men,Soccer,2009,234076,*Virginia,University of Virginia-Main Campus,university of virginia-main campus,university of virginia main campus,fuzzy
+D1,Men,Soccer,2008,163286,Maryland,University of Maryland-College Park,university of maryland college park,university of maryland college park,exact
+D1,Men,Soccer,2007,199847,Wake Forest,Wake Forest University,wake forest,wake forest university,fuzzy
+D1,Men,Soccer,2005,163286,Maryland,University of Maryland-College Park,university of maryland college park,university of maryland college park,exact
+D1,Men,Soccer,2004,151351,*Indiana,Indiana University-Bloomington,indiana university bloomington,indiana university bloomington,exact
+D1,Men,Baseball,2023,159391,LSU,Louisiana State University and Agricultural & Mechanical College,louisiana state university and agricultural mechanical college,louisiana state university and agricultural  mechanical college,fuzzy
+D1,Men,Baseball,2022,176017,Ole Miss,University of Mississippi,university of mississippi,university of mississippi,exact
+D1,Men,Baseball,2021,176080,Mississippi State,Mississippi State University,mississippi state,mississippi state university,fuzzy
+D1,Men,Baseball,2019,221999,Vanderbilt,Vanderbilt University,vanderbilt,vanderbilt university,fuzzy
+D1,Men,Baseball,2018,209542,Oregon State,Oregon State University,oregon state,oregon state university,fuzzy
+D1,Men,Baseball,2017,134130,Florida,University of Florida,university of florida,university of florida,exact
+D1,Men,Baseball,2016,218724,Coastal Carolina,Coastal Carolina University,coastal carolina,coastal carolina university,fuzzy
+D1,Men,Baseball,2015,234076,Virginia,University of Virginia-Main Campus,university of virginia-main campus,university of virginia main campus,fuzzy
+D1,Men,Baseball,2014,221999,Vanderbilt,Vanderbilt University,vanderbilt,vanderbilt university,fuzzy
+D1,Men,Baseball,2013,110662,* UCLA,University of California-Los Angeles,university of california los angeles,university of california los angeles,exact
+D1,Men,Baseball,2012,104179,* Arizona,University of Arizona,university of arizona,university of arizona,exact
+D1,Men,Baseball,2011,218663,* South Carolina,University of South Carolina-Columbia,university of south carolina columbia,university of south carolina columbia,exact
+D1,Men,Baseball,2010,218663,South Carolina,University of South Carolina-Columbia,university of south carolina columbia,university of south carolina columbia,exact
+D1,Men,Baseball,2009,159391,LSU,Louisiana State University and Agricultural & Mechanical College,louisiana state university and agricultural mechanical college,louisiana state university and agricultural  mechanical college,fuzzy
+D1,Men,Baseball,2007,209542,* Oregon State,Oregon State University,oregon state,oregon state university,fuzzy
+D1,Men,Baseball,2006,209542,Oregon State,Oregon State University,oregon state,oregon state university,fuzzy
+D1,Men,Baseball,2005,228778,* Texas,The University of Texas at Austin,university of texas at austin,university of texas at austin,exact
+D1,Women,Cross Country,2020,230038,BYU,Brigham Young University,brigham young university,brigham young university,exact
+D1,Women,Cross Country,2019,106245,Arkansas,University of Arkansas at Little Rock,arkansas,university of arkansas at little rock,fuzzy
+D1,Women,Cross Country,2018,126580,Colorado,University of Colorado Colorado Springs,colorado,university of colorado colorado springs,fuzzy
+D1,Women,Cross Country,2017,187648,New Mexico,Eastern New Mexico University-Main Campus,new mexico,eastern new mexico university main campus,fuzzy
+D1,Women,Cross Country,2016,209551,Oregon,University of Oregon,university of oregon,university of oregon,exact
+D1,Women,Cross Country,2015,187648,New Mexico,Eastern New Mexico University-Main Campus,new mexico,eastern new mexico university main campus,fuzzy
+D1,Women,Cross Country,2014,171100,Michigan State,Michigan State University,michigan state,michigan state university,fuzzy
+D1,Women,Cross Country,2013,180258,Providence,University of Providence,providence,university of providence,fuzzy
+D1,Women,Cross Country,2012,209551,Oregon,University of Oregon,university of oregon,university of oregon,exact
+D1,Women,Cross Country,2011,131496,Georgetown,Georgetown University,georgetown,georgetown university,fuzzy
+D1,Women,Cross Country,2010,216597,Villanova,Villanova University,villanova,villanova university,fuzzy
+D1,Women,Cross Country,2009,216597,Villanova,Villanova University,villanova,villanova university,fuzzy
+D1,Women,Cross Country,2008,131469,Washington,George Washington University,washington,george washington university,fuzzy
+D1,Women,Cross Country,2007,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+D1,Women,Cross Country,2006,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+D1,Women,Cross Country,2005,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+D1,Women,Cross Country,2004,126580,Colorado,University of Colorado Colorado Springs,colorado,university of colorado colorado springs,fuzzy
+D2,Men,Indoor Track & Field,2023,155681,Pittsburg State,Pittsburg State University,pittsburg state,pittsburg state university,fuzzy
+D2,Men,Indoor Track & Field,2022,170082,Grand Valley State,Grand Valley State University,grand valley state,grand valley state university,fuzzy
+D2,Men,Indoor Track & Field,2021,201104,Ashland,Ashland University,ashland,ashland university,fuzzy
+D2,Men,Indoor Track & Field,2019,201104,Ashland,Ashland University,ashland,ashland university,fuzzy
+D2,Men,Indoor Track & Field,2018,155681,Pittsburg State,Pittsburg State University,pittsburg state,pittsburg state university,fuzzy
+D2,Men,Indoor Track & Field,2017,206048,Tiffin,Tiffin University,tiffin,tiffin university,fuzzy
+D2,Men,Indoor Track & Field,2016,206048,Tiffin,Tiffin University,tiffin,tiffin university,fuzzy
+D2,Men,Indoor Track & Field,2015,126182,Adams State,Adams State University,adams state,adams state university,fuzzy
+D2,Men,Indoor Track & Field,2012,104717,Grand Canyon,Grand Canyon University,grand canyon,grand canyon university,fuzzy
+D2,Men,Indoor Track & Field,2011,222178,Abilene Christian,Abilene Christian University,abilene christian,abilene christian university,fuzzy
+D2,Men,Indoor Track & Field,2010,126182,Adams State,Adams State University,adams state,adams state university,fuzzy
+D2,Men,Indoor Track & Field,2005,222178,Abilene Christian,Abilene Christian University,abilene christian,abilene christian university,fuzzy
+D2,Men,Indoor Track & Field,2004,222178,Abilene Christian,Abilene Christian University,abilene christian,abilene christian university,fuzzy
+D1,Women,Softball,2023,207500,*Oklahoma,University of Oklahoma-Norman Campus,university of oklahoma norman campus,university of oklahoma norman campus,exact
+D1,Women,Softball,2022,207500,*Oklahoma,University of Oklahoma-Norman Campus,university of oklahoma norman campus,university of oklahoma norman campus,exact
+D1,Women,Softball,2021,207500,Oklahoma,University of Oklahoma-Norman Campus,university of oklahoma norman campus,university of oklahoma norman campus,exact
+D1,Women,Softball,2019,110662,*UCLA,University of California-Los Angeles,university of california los angeles,university of california los angeles,exact
+D1,Women,Softball,2018,134097,*Florida State,Florida State University,florida state university,florida state university,exact
+D1,Women,Softball,2017,207500,*Oklahoma,University of Oklahoma-Norman Campus,university of oklahoma norman campus,university of oklahoma norman campus,exact
+D1,Women,Softball,2016,207500,Oklahoma,University of Oklahoma-Norman Campus,university of oklahoma norman campus,university of oklahoma norman campus,exact
+D1,Women,Softball,2015,134130,Florida,University of Florida,university of florida,university of florida,exact
+D1,Women,Softball,2014,134130,*Florida,University of Florida,university of florida,university of florida,exact
+D1,Women,Softball,2013,207500,*Oklahoma,University of Oklahoma-Norman Campus,university of oklahoma norman campus,university of oklahoma norman campus,exact
+D1,Women,Softball,2012,100751,Alabama,The University of Alabama,university of alabama,university of alabama,exact
+D1,Women,Softball,2011,104151,*Arizona State,Arizona State University Campus Immersion,arizona state,arizona state university campus immersion,fuzzy
+D1,Women,Softball,2010,110662,*UCLA,University of California-Los Angeles,university of california los angeles,university of california los angeles,exact
+D1,Women,Softball,2009,131469,Washington,George Washington University,washington,george washington university,fuzzy
+D1,Women,Softball,2008,104151,*Arizona State,Arizona State University Campus Immersion,arizona state,arizona state university campus immersion,fuzzy
+D1,Women,Softball,2007,104179,Arizona,University of Arizona,university of arizona,university of arizona,exact
+D1,Women,Softball,2006,104179,Arizona,University of Arizona,university of arizona,university of arizona,exact
+D1,Women,Softball,2005,170976,Michigan,University of Michigan-Ann Arbor,university of michigan ann arbor,university of michigan ann arbor,exact
+D1,Women,Softball,2004,110662,UCLA,University of California-Los Angeles,university of california los angeles,university of california los angeles,exact
+D3,Men,Tennis,2023,201645,Case Western,Case Western Reserve University,case western,case western reserve university,fuzzy
+D3,Men,Tennis,2021,139658,Emory,Emory University,emory,emory university,fuzzy
+D3,Men,Tennis,2019,139658,Emory,Emory University,emory,emory university,fuzzy
+D3,Men,Tennis,2018,119058,Middlebury,Middlebury Institute of International Studies at Monterey,middlebury,middlebury institute of international studies at monterey,fuzzy
+D3,Men,Tennis,2017,139658,Emory,Emory University,emory,emory university,fuzzy
+D3,Men,Tennis,2016,161004,Bowdoin,Bowdoin College,bowdoin,bowdoin college,fuzzy
+D3,Men,Tennis,2014,164465,Amherst,Amherst College,amherst,amherst college,fuzzy
+D3,Men,Tennis,2013,168342,Williams,Williams College,williams college,williams college,exact
+D3,Men,Tennis,2012,139658,Emory,Emory University,emory,emory university,fuzzy
+D3,Men,Tennis,2011,164465,Amherst,Amherst College,amherst,amherst college,fuzzy
+D3,Men,Tennis,2010,119058,Middlebury,Middlebury Institute of International Studies at Monterey,middlebury,middlebury institute of international studies at monterey,fuzzy
+D3,Men,Tennis,2009,110714,UC Santa Cruz,University of California-Santa Cruz,uc santa cruz,university of california santa cruz,alias
+D3,Men,Tennis,2007,110714,UC Santa Cruz,University of California-Santa Cruz,uc santa cruz,university of california santa cruz,alias
+D3,Men,Tennis,2006,139658,Emory,Emory University,emory,emory university,fuzzy
+D3,Men,Tennis,2005,110714,UC Santa Cruz,University of California-Santa Cruz,uc santa cruz,university of california santa cruz,alias
+D3,Men,Tennis,2004,119058,Middlebury,Middlebury Institute of International Studies at Monterey,middlebury,middlebury institute of international studies at monterey,fuzzy
+D3,Men,Football,2023,196149,Cortland,State University of New York at Cortland,cortland,state university of new york at cortland,fuzzy
+D3,Men,Football,2021,226471,Mary Hardin-Baylor,University of Mary Hardin-Baylor,mary hardin baylor,university of mary hardin baylor,fuzzy
+D3,Men,Football,2018,226471,Mary Hardin-Baylor,University of Mary Hardin-Baylor,mary hardin baylor,university of mary hardin baylor,fuzzy
+D3,Men,Football,2017,204185,Mount Union,University of Mount Union,mount union,university of mount union,fuzzy
+D3,Men,Football,2016,226471,Mary Hardin-Baylor,University of Mary Hardin-Baylor,mary hardin baylor,university of mary hardin baylor,fuzzy
+D3,Men,Football,2015,204185,Mount Union,University of Mount Union,mount union,university of mount union,fuzzy
+D3,Men,Football,2014,240189,Wisconsin-Whitewater,University of Wisconsin-Whitewater,wisconsin whitewater,university of wisconsin whitewater,fuzzy
+D3,Men,Football,2013,240189,Wisconsin-Whitewater,University of Wisconsin-Whitewater,wisconsin whitewater,university of wisconsin whitewater,fuzzy
+D3,Men,Football,2012,204185,Mount Union,University of Mount Union,mount union,university of mount union,fuzzy
+D3,Men,Football,2011,240189,Wisconsin-Whitewater,University of Wisconsin-Whitewater,wisconsin whitewater,university of wisconsin whitewater,fuzzy
+D3,Men,Football,2010,240189,Wisconsin-Whitewater,University of Wisconsin-Whitewater,wisconsin whitewater,university of wisconsin whitewater,fuzzy
+D3,Men,Football,2009,240189,Wisconsin-Whitewater,University of Wisconsin-Whitewater,wisconsin whitewater,university of wisconsin whitewater,fuzzy
+D3,Men,Football,2008,204185,Mount Union,University of Mount Union,mount union,university of mount union,fuzzy
+D3,Men,Football,2007,240189,Wisconsin-Whitewater,University of Wisconsin-Whitewater,wisconsin whitewater,university of wisconsin whitewater,fuzzy
+D3,Men,Football,2006,204185,Mount Union,University of Mount Union,mount union,university of mount union,fuzzy
+D3,Men,Football,2005,204185,Mount Union,University of Mount Union,mount union,university of mount union,fuzzy
+D3,Men,Football,2004,209065,Linfield,Linfield University,linfield,linfield university,fuzzy
+D1,Women,Golf,2023,199847,Wake Forest,Wake Forest University,wake forest,wake forest university,fuzzy
+D1,Women,Golf,2022,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+D1,Women,Golf,2021,176017,Ole Miss,University of Mississippi,university of mississippi,university of mississippi,exact
+D1,Women,Golf,2019,198419,Duke,Duke University,duke,duke university,fuzzy
+D1,Women,Golf,2018,104179,Arizona,University of Arizona,university of arizona,university of arizona,exact
+D1,Women,Golf,2017,104151,Arizona State,Arizona State University Campus Immersion,arizona state,arizona state university campus immersion,fuzzy
+D1,Women,Golf,2016,131469,Washington,George Washington University,washington,george washington university,fuzzy
+D1,Women,Golf,2015,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+D1,Women,Golf,2014,198419,Duke,Duke University,duke,duke university,fuzzy
+D1,Women,Golf,2013,123961,Southern California,University of Southern California,university of southern california,university of southern california,exact
+D1,Women,Golf,2012,100751,Alabama,The University of Alabama,university of alabama,university of alabama,exact
+D1,Women,Golf,2011,110662,UCLA,University of California-Los Angeles,university of california los angeles,university of california los angeles,exact
+D1,Women,Golf,2010,151102,Purdue,Purdue University Fort Wayne,purdue,purdue university fort wayne,fuzzy
+D1,Women,Golf,2009,104151,Arizona State,Arizona State University Campus Immersion,arizona state,arizona state university campus immersion,fuzzy
+D1,Women,Golf,2008,123961,Southern California,University of Southern California,university of southern california,university of southern california,exact
+D1,Women,Golf,2007,198419,Duke,Duke University,duke,duke university,fuzzy
+D1,Women,Golf,2006,198419,Duke,Duke University,duke,duke university,fuzzy
+D1,Women,Golf,2005,198419,Duke,Duke University,duke,duke university,fuzzy
+D1,Women,Golf,2004,110662,UCLA,University of California-Los Angeles,university of california los angeles,university of california los angeles,exact
+D3,Women,Indoor Track & Field,2023,240329,Wisconsin-La Crosse,University of Wisconsin-La Crosse,wisconsin la crosse,university of wisconsin la crosse,fuzzy
+D3,Women,Indoor Track & Field,2022,153825,Loras,Loras College,loras,loras college,fuzzy
+D3,Women,Indoor Track & Field,2019,168342,Williams,Williams College,williams college,williams college,exact
+D3,Women,Indoor Track & Field,2016,201195,Baldwin Wallace,Baldwin Wallace University,baldwin wallace,baldwin wallace university,fuzzy
+D3,Women,Indoor Track & Field,2015,240329,Wisconsin-La Crosse,University of Wisconsin-La Crosse,wisconsin la crosse,university of wisconsin la crosse,fuzzy
+D3,Women,Indoor Track & Field,2014,240365,Wisconsin-Oshkosh,University of Wisconsin-Oshkosh,wisconsin oshkosh,university of wisconsin oshkosh,fuzzy
+D3,Women,Indoor Track & Field,2013,240365,Wisconsin-Oshkosh,University of Wisconsin-Oshkosh,wisconsin oshkosh,university of wisconsin oshkosh,fuzzy
+D3,Women,Indoor Track & Field,2012,154527,Wartburg,Wartburg College,wartburg,wartburg college,fuzzy
+D3,Women,Indoor Track & Field,2011,240365,Wisconsin-Oshkosh,University of Wisconsin-Oshkosh,wisconsin oshkosh,university of wisconsin oshkosh,fuzzy
+D3,Women,Indoor Track & Field,2010,154527,Wartburg,Wartburg College,wartburg,wartburg college,fuzzy
+D3,Women,Indoor Track & Field,2009,154527,Wartburg,Wartburg College,wartburg,wartburg college,fuzzy
+D3,Women,Indoor Track & Field,2008,145646,Illinois Wesleyan,Illinois Wesleyan University,illinois wesleyan,illinois wesleyan university,fuzzy
+D3,Women,Indoor Track & Field,2007,168342,Williams,Williams College,williams college,williams college,exact
+D3,Women,Indoor Track & Field,2006,240365,Wisconsin-Oshkosh,University of Wisconsin-Oshkosh,wisconsin oshkosh,university of wisconsin oshkosh,fuzzy
+D3,Women,Indoor Track & Field,2005,240365,Wisconsin-Oshkosh,University of Wisconsin-Oshkosh,wisconsin oshkosh,university of wisconsin oshkosh,fuzzy
+D3,Women,Indoor Track & Field,2004,240365,Wisconsin-Oshkosh,University of Wisconsin-Oshkosh,wisconsin oshkosh,university of wisconsin oshkosh,fuzzy
+D2,Women,Tennis,2023,132471,Barry,Barry University,barry,barry university,fuzzy
+D2,Women,Tennis,2022,132471,Barry,Barry University,barry,barry university,fuzzy
+D2,Women,Tennis,2021,132471,Barry,Barry University,barry,barry university,fuzzy
+D2,Women,Tennis,2019,132471,Barry,Barry University,barry,barry university,fuzzy
+D2,Women,Tennis,2018,132471,Barry,Barry University,barry,barry university,fuzzy
+D2,Women,Tennis,2017,132471,Barry,Barry University,barry,barry university,fuzzy
+D2,Women,Tennis,2014,132471,Barry,Barry University,barry,barry university,fuzzy
+D2,Women,Tennis,2011,132471,Barry,Barry University,barry,barry university,fuzzy
+D3,Men,Basketball,2023,231712,Christopher Newport,Christopher Newport University,christopher newport,christopher newport university,fuzzy
+D3,Men,Basketball,2022,233295,Randolph-Macon,Randolph-Macon College,randolph macon,randolph macon college,alias
+D3,Men,Basketball,2019,240365,Wisconsin-Oshkosh,University of Wisconsin-Oshkosh,wisconsin oshkosh,university of wisconsin oshkosh,fuzzy
+D3,Men,Basketball,2018,181446,Nebraska Wesleyan,Nebraska Wesleyan University,nebraska wesleyan,nebraska wesleyan university,fuzzy
+D3,Men,Basketball,2017,164580,Babson,Babson College,babson,babson college,fuzzy
+D3,Men,Basketball,2015,240480,Wisconsin-Stevens Point,University of Wisconsin-Stevens Point,wisconsin stevens point,university of wisconsin stevens point,fuzzy
+D3,Men,Basketball,2014,240189,Wisconsin-Whitewater,University of Wisconsin-Whitewater,wisconsin whitewater,university of wisconsin whitewater,fuzzy
+D3,Men,Basketball,2013,164465,Amherst,Amherst College,amherst,amherst college,fuzzy
+D3,Men,Basketball,2012,240189,Wisconsin-Whitewater,University of Wisconsin-Whitewater,wisconsin whitewater,university of wisconsin whitewater,fuzzy
+D3,Men,Basketball,2011,137476,St. Thomas,St. Thomas University,st thomas,st thomas university,fuzzy
+D3,Men,Basketball,2010,240480,Wisconsin-Stevens Point,University of Wisconsin-Stevens Point,wisconsin stevens point,university of wisconsin stevens point,fuzzy
+D3,Men,Basketball,2007,164465,Amherst,Amherst College,amherst,amherst college,fuzzy
+D3,Men,Basketball,2006,234173,Virginia Wesleyan,Virginia Wesleyan University,virginia wesleyan,virginia wesleyan university,fuzzy
+D3,Men,Basketball,2005,240480,Wisconsin-Stevens Point,University of Wisconsin-Stevens Point,wisconsin stevens point,university of wisconsin stevens point,fuzzy
+D3,Men,Basketball,2004,240480,Wisconsin-Stevens Point,University of Wisconsin-Stevens Point,wisconsin stevens point,university of wisconsin stevens point,fuzzy
+D2,Women,Softball,2023,482680,*North Georgia,University of North Georgia,north georgia,university of north georgia,fuzzy
+D2,Women,Softball,2022,207661,Rogers State,Rogers State University,rogers state,rogers state university,fuzzy
+D2,Women,Softball,2018,151306,*Southern Indiana,University of Southern Indiana,southern indiana,university of southern indiana,fuzzy
+D2,Women,Softball,2017,428453,*Minnesota State,Minnesota State Colleges and Universities System Office,minnesota state,minnesota state colleges and universities system office,alias
+D2,Women,Softball,2016,101879,North Alabama,University of North Alabama,north alabama,university of north alabama,fuzzy
+D2,Women,Softball,2015,482680,North Georgia,University of North Georgia,north georgia,university of north georgia,fuzzy
+D2,Women,Softball,2013,206941,*Central Oklahoma,University of Central Oklahoma,central oklahoma,university of central oklahoma,fuzzy
+D2,Women,Softball,2012,141264,Valdosta State,Valdosta State University,valdosta state,valdosta state university,fuzzy
+D2,Women,Softball,2010,141644,*Hawaii Pacific,Hawaii Pacific University,hawaii pacific,hawaii pacific university,fuzzy
+D2,Women,Softball,2005,132657,* **Lynn,Lynn University,lynn,lynn university,fuzzy
+D2,Women,Softball,2004,222831,Angelo State,Angelo State University,angelo state,angelo state university,alias
+D2,Women,Outdoor Track & Field,2023,109785,Azusa Pacific,Azusa Pacific University,azusa pacific,azusa pacific university,fuzzy
+D2,Women,Outdoor Track & Field,2021,109785,Azusa Pacific,Azusa Pacific University,azusa pacific,azusa pacific university,fuzzy
+D2,Women,Outdoor Track & Field,2016,155681,Pittsburg State,Pittsburg State University,pittsburg state,pittsburg state university,fuzzy
+D2,Women,Outdoor Track & Field,2015,176965,Central Missouri,University of Central Missouri,central missouri,university of central missouri,fuzzy
+D2,Women,Outdoor Track & Field,2013,108232,Academy of Art,Academy of Art University,academy of art,academy of art university,fuzzy
+D2,Women,Outdoor Track & Field,2012,170082,Grand Valley State,Grand Valley State University,grand valley state,grand valley state university,fuzzy
+D2,Women,Outdoor Track & Field,2011,170082,Grand Valley State,Grand Valley State University,grand valley state,grand valley state university,fuzzy
+D2,Women,Outdoor Track & Field,2010,222831,Angelo State,Angelo State University,angelo state,angelo state university,alias
+D2,Women,Outdoor Track & Field,2008,222178,Abilene Christian,Abilene Christian University,abilene christian,abilene christian university,fuzzy
+NC,Men,Gymnastics,2023,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+NC,Men,Gymnastics,2022,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+NC,Men,Gymnastics,2021,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+NC,Men,Gymnastics,2019,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+NC,Men,Gymnastics,2018,207500,Oklahoma,University of Oklahoma-Norman Campus,university of oklahoma norman campus,university of oklahoma norman campus,exact
+NC,Men,Gymnastics,2017,207500,Oklahoma,University of Oklahoma-Norman Campus,university of oklahoma norman campus,university of oklahoma norman campus,exact
+NC,Men,Gymnastics,2016,207500,Oklahoma,University of Oklahoma-Norman Campus,university of oklahoma norman campus,university of oklahoma norman campus,exact
+NC,Men,Gymnastics,2015,207500,Oklahoma,University of Oklahoma-Norman Campus,university of oklahoma norman campus,university of oklahoma norman campus,exact
+NC,Men,Gymnastics,2014,170976,Michigan,University of Michigan-Ann Arbor,university of michigan ann arbor,university of michigan ann arbor,exact
+NC,Men,Gymnastics,2013,170976,Michigan,University of Michigan-Ann Arbor,university of michigan ann arbor,university of michigan ann arbor,exact
+NC,Men,Gymnastics,2012,144892,Illinois,Eastern Illinois University,illinois,eastern illinois university,fuzzy
+NC,Men,Gymnastics,2011,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+NC,Men,Gymnastics,2010,170976,Michigan,University of Michigan-Ann Arbor,university of michigan ann arbor,university of michigan ann arbor,exact
+NC,Men,Gymnastics,2009,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+NC,Men,Gymnastics,2008,207500,Oklahoma,University of Oklahoma-Norman Campus,university of oklahoma norman campus,university of oklahoma norman campus,exact
+NC,Men,Gymnastics,2007,214777,Penn State,Pennsylvania State University-Main Campus,pennsylvania state university main campus,pennsylvania state university main campus,exact
+NC,Men,Gymnastics,2006,207500,Oklahoma,University of Oklahoma-Norman Campus,university of oklahoma norman campus,university of oklahoma norman campus,exact
+NC,Men,Gymnastics,2005,207500,Oklahoma,University of Oklahoma-Norman Campus,university of oklahoma norman campus,university of oklahoma norman campus,exact
+NC,Men,Gymnastics,2004,214777,Penn State,Pennsylvania State University-Main Campus,pennsylvania state university main campus,pennsylvania state university main campus,exact
+D3,Men,Cross Country,2022,129774,MIT,Mitchell College,mit,mitchell college,fuzzy
+D3,Men,Cross Country,2015,240268,Wisconsin-Eau Claire,University of Wisconsin-Eau Claire,wisconsin eau claire,university of wisconsin eau claire,fuzzy
+D3,Men,Cross Country,2013,174844,St. Olaf,St Olaf College,st olaf,st olaf college,fuzzy
+D3,Men,Cross Country,2010,212911,Haverford,Haverford College,haverford,haverford college,fuzzy
+D3,Men,Cross Country,2008,196149,SUNY Cortland,State University of New York at Cortland,suny cortland,state university of new york at cortland,alias
+D3,Men,Cross Country,2007,193900,New York University,New York University,new york university,new york university,exact
+D3,Men,Cross Country,2006,169080,Calvin,Calvin University,calvin,calvin university,alias
+D3,Men,Cross Country,2005,240329,Wisconsin-La Crosse,University of Wisconsin-La Crosse,wisconsin la crosse,university of wisconsin la crosse,fuzzy
+D3,Men,Cross Country,2004,169080,Calvin,Calvin University,calvin,calvin university,alias
+D3,Women,Outdoor Track & Field,2023,240329,Wisconsin La-Crosse,University of Wisconsin-La Crosse,wisconsin la crosse,university of wisconsin la crosse,fuzzy
+D3,Women,Outdoor Track & Field,2022,153825,Loras,Loras College,loras,loras college,fuzzy
+D3,Women,Outdoor Track & Field,2021,153825,Loras,Loras College,loras,loras college,fuzzy
+D3,Women,Outdoor Track & Field,2019,153825,Loras,Loras College,loras,loras college,fuzzy
+D3,Women,Outdoor Track & Field,2016,145646,Illinois Wesleyan,Illinois Wesleyan University,illinois wesleyan,illinois wesleyan university,fuzzy
+D3,Women,Outdoor Track & Field,2015,240329,Wisconsin-La Crosse,University of Wisconsin-La Crosse,wisconsin la crosse,university of wisconsin la crosse,fuzzy
+D3,Women,Outdoor Track & Field,2014,154527,Wartburg,Wartburg College,wartburg,wartburg college,fuzzy
+D3,Women,Outdoor Track & Field,2013,154527,Wartburg,Wartburg College,wartburg,wartburg college,fuzzy
+D3,Women,Outdoor Track & Field,2012,154527,Wartburg,Wartburg College,wartburg,wartburg college,fuzzy
+D3,Women,Outdoor Track & Field,2011,240365,Wisconsin-Oshkosh,University of Wisconsin-Oshkosh,wisconsin oshkosh,university of wisconsin oshkosh,fuzzy
+D3,Women,Outdoor Track & Field,2010,145646,Illinois Wesleyan,Illinois Wesleyan University,illinois wesleyan,illinois wesleyan university,fuzzy
+D3,Women,Outdoor Track & Field,2009,154527,Wartburg,Wartburg College,wartburg,wartburg college,fuzzy
+D3,Women,Outdoor Track & Field,2007,240365,Wisconsin-Oshkosh,University of Wisconsin-Oshkosh,wisconsin oshkosh,university of wisconsin oshkosh,fuzzy
+D3,Women,Outdoor Track & Field,2006,240365,Wisconsin-Oshkosh,University of Wisconsin-Oshkosh,wisconsin oshkosh,university of wisconsin oshkosh,fuzzy
+D3,Women,Outdoor Track & Field,2005,154527,Wartburg,Wartburg College,wartburg,wartburg college,fuzzy
+D3,Women,Outdoor Track & Field,2004,240365,Wisconsin-Oshkosh,University of Wisconsin-Oshkosh,wisconsin oshkosh,university of wisconsin oshkosh,fuzzy
+D1,Women,Outdoor Track & Field,2023,228778,Texas,The University of Texas at Austin,university of texas at austin,university of texas at austin,exact
+D1,Women,Outdoor Track & Field,2022,134130,Florida,University of Florida,university of florida,university of florida,exact
+D1,Women,Outdoor Track & Field,2021,123961,Southern California,University of Southern California,university of southern california,university of southern california,exact
+D1,Women,Outdoor Track & Field,2019,106245,Arkansas,University of Arkansas at Little Rock,arkansas,university of arkansas at little rock,fuzzy
+D1,Women,Outdoor Track & Field,2018,123961,Southern California,University of Southern California,university of southern california,university of southern california,exact
+D1,Women,Outdoor Track & Field,2017,209551,Oregon,University of Oregon,university of oregon,university of oregon,exact
+D1,Women,Outdoor Track & Field,2016,106245,Arkansas,University of Arkansas at Little Rock,arkansas,university of arkansas at little rock,fuzzy
+D1,Women,Outdoor Track & Field,2015,209551,Oregon,University of Oregon,university of oregon,university of oregon,exact
+D1,Women,Outdoor Track & Field,2014,228723,Texas A&M,Texas A&M University-College Station,texas am university college station,texas am university college station,exact
+D1,Women,Outdoor Track & Field,2013,155317,Kansas,University of Kansas,university of kansas,university of kansas,exact
+D1,Women,Outdoor Track & Field,2012,159391,#LSU,Louisiana State University and Agricultural & Mechanical College,louisiana state university and agricultural mechanical college,louisiana state university and agricultural  mechanical college,fuzzy
+D1,Women,Outdoor Track & Field,2011,228723,Texas A&M,Texas A&M University-College Station,texas am university college station,texas am university college station,exact
+D1,Women,Outdoor Track & Field,2010,228723,Texas A&M,Texas A&M University-College Station,texas am university college station,texas am university college station,exact
+D1,Women,Outdoor Track & Field,2009,228723,Texas A&M,Texas A&M University-College Station,texas am university college station,texas am university college station,exact
+D1,Women,Outdoor Track & Field,2008,159391,LSU,Louisiana State University and Agricultural & Mechanical College,louisiana state university and agricultural mechanical college,louisiana state university and agricultural  mechanical college,fuzzy
+D1,Women,Outdoor Track & Field,2007,104151,Arizona State,Arizona State University Campus Immersion,arizona state,arizona state university campus immersion,fuzzy
+D1,Women,Outdoor Track & Field,2006,100858,Auburn,Auburn University,auburn university,auburn university,exact
+D1,Women,Outdoor Track & Field,2005,228778,Texas,The University of Texas at Austin,university of texas at austin,university of texas at austin,exact
+D1,Women,Outdoor Track & Field,2004,110662,UCLA,University of California-Los Angeles,university of california los angeles,university of california los angeles,exact
+D3,Women,Tennis,2021,139658,Emory,Emory University,emory,emory university,fuzzy
+D3,Women,Tennis,2017,168342,Williams,Williams College,williams college,williams college,exact
+D3,Women,Tennis,2016,139658,Emory,Emory University,emory,emory university,fuzzy
+D3,Women,Tennis,2015,168342,Williams,Williams College,williams college,williams college,exact
+D3,Women,Tennis,2014,139658,Emory,Emory University,emory,emory university,fuzzy
+D3,Women,Tennis,2013,168342,Williams,Williams College,williams college,williams college,exact
+D3,Women,Tennis,2012,168342,Williams,Williams College,williams college,williams college,exact
+D3,Women,Tennis,2011,168342,Williams,Williams College,williams college,williams college,exact
+D3,Women,Tennis,2010,168342,Williams,Williams College,williams college,williams college,exact
+D3,Women,Tennis,2009,168342,Williams,Williams College,williams college,williams college,exact
+D3,Women,Tennis,2008,168342,Williams,Williams College,williams college,williams college,exact
+D3,Women,Tennis,2007,234207,Washington and Lee,Washington and Lee University,washington and lee,washington and lee university,fuzzy
+D3,Women,Tennis,2006,139658,Emory,Emory University,emory,emory university,fuzzy
+D3,Women,Tennis,2005,139658,Emory,Emory University,emory,emory university,fuzzy
+D3,Women,Tennis,2004,139658,Emory,Emory University,emory,emory university,fuzzy
+D2,Women,Basketball,2023,201104,Ashland,Ashland University,ashland,ashland university,fuzzy
+D2,Women,Basketball,2022,237385,Glenville State,Glenville State University,glenville state,glenville state university,fuzzy
+D2,Women,Basketball,2021,226383,Lubbock Christian,Lubbock Christian University,lubbock christian,lubbock christian university,fuzzy
+D2,Women,Basketball,2019,226383,Lubbock Christian,Lubbock Christian University,lubbock christian,lubbock christian university,fuzzy
+D2,Women,Basketball,2018,176965,Central Missouri,University of Central Missouri,central missouri,university of central missouri,fuzzy
+D2,Women,Basketball,2017,201104,Ashland,Ashland University,ashland,ashland university,fuzzy
+D2,Women,Basketball,2016,226383,Lubbock Christian,Lubbock Christian University,lubbock christian,lubbock christian university,fuzzy
+D2,Women,Basketball,2015,498571,California (Pa.),Pennsylvania Western University,pennsylvania western university,pennsylvania western university,exact
+D2,Women,Basketball,2014,164739,Bentley,Bentley University,bentley,bentley university,alias
+D2,Women,Basketball,2013,201104,Ashland,Ashland University,ashland,ashland university,fuzzy
+D2,Women,Basketball,2012,199643,Shaw,Shaw University,shaw,shaw university,fuzzy
+D2,Women,Basketball,2010,155025,Emporia State,Emporia State University,emporia state,emporia state university,fuzzy
+D2,Women,Basketball,2009,173920,Minnesota State-Mankato,Minnesota State University-Mankato,minnesota state mankato,minnesota state university mankato,fuzzy
+D2,Women,Basketball,2008,157447,Northern Kentucky,Northern Kentucky University,northern kentucky,northern kentucky university,fuzzy
+D2,Women,Basketball,2007,130493,Southern Connecticut State,Southern Connecticut State University,southern connecticut state,southern connecticut state university,fuzzy
+D2,Women,Basketball,2006,170082,Grand Valley State,Grand Valley State University,grand valley state,grand valley state university,fuzzy
+D2,Women,Basketball,2005,156082,Washburn,Washburn University,washburn,washburn university,fuzzy
+D2,Women,Basketball,2004,498571,California (PA),Pennsylvania Western University,pennsylvania western university,pennsylvania western university,exact
+NC,Women,Gymnastics,2023,207500,Oklahoma,University of Oklahoma-Norman Campus,university of oklahoma norman campus,university of oklahoma norman campus,exact
+NC,Women,Gymnastics,2022,207500,Oklahoma,University of Oklahoma-Norman Campus,university of oklahoma norman campus,university of oklahoma norman campus,exact
+NC,Women,Gymnastics,2021,170976,Michigan,University of Michigan-Ann Arbor,university of michigan ann arbor,university of michigan ann arbor,exact
+NC,Women,Gymnastics,2019,207500,Oklahoma,University of Oklahoma-Norman Campus,university of oklahoma norman campus,university of oklahoma norman campus,exact
+NC,Women,Gymnastics,2018,110662,UCLA,University of California-Los Angeles,university of california los angeles,university of california los angeles,exact
+NC,Women,Gymnastics,2017,207500,Oklahoma,University of Oklahoma-Norman Campus,university of oklahoma norman campus,university of oklahoma norman campus,exact
+NC,Women,Gymnastics,2016,207500,Oklahoma,University of Oklahoma-Norman Campus,university of oklahoma norman campus,university of oklahoma norman campus,exact
+NC,Women,Gymnastics,2015,134130,Florida,University of Florida,university of florida,university of florida,exact
+NC,Women,Gymnastics,2013,134130,Florida,University of Florida,university of florida,university of florida,exact
+NC,Women,Gymnastics,2012,100751,Alabama,The University of Alabama,university of alabama,university of alabama,exact
+NC,Women,Gymnastics,2011,100751,Alabama,The University of Alabama,university of alabama,university of alabama,exact
+NC,Women,Gymnastics,2010,110662,UCLA,University of California-Los Angeles,university of california los angeles,university of california los angeles,exact
+NC,Women,Gymnastics,2009,139959,Georgia,University of Georgia,university of georgia,university of georgia,exact
+NC,Women,Gymnastics,2008,139959,Georgia,University of Georgia,university of georgia,university of georgia,exact
+NC,Women,Gymnastics,2007,139959,Georgia,University of Georgia,university of georgia,university of georgia,exact
+NC,Women,Gymnastics,2006,139959,Georgia,University of Georgia,university of georgia,university of georgia,exact
+NC,Women,Gymnastics,2005,139959,Georgia,University of Georgia,university of georgia,university of georgia,exact
+NC,Women,Gymnastics,2004,110662,UCLA,University of California-Los Angeles,university of california los angeles,university of california los angeles,exact
+D3,Women,Volleyball,2023,213251,Juniata,Juniata College,juniata,juniata college,fuzzy
+D3,Women,Volleyball,2022,213251,Juniata,Juniata College,juniata,juniata college,fuzzy
+D3,Women,Volleyball,2021,240268,Wisconsin-Eau Claire,University of Wisconsin-Eau Claire,wisconsin eau claire,university of wisconsin eau claire,fuzzy
+D3,Women,Volleyball,2019,162928,Johns Hopkins,Johns Hopkins University,johns hopkins,johns hopkins university,alias
+D3,Women,Volleyball,2018,139658,Emory,Emory University,emory,emory university,fuzzy
+D3,Women,Volleyball,2016,169080,Calvin,Calvin University,calvin,calvin university,alias
+D3,Women,Volleyball,2014,170301,Hope,Hope College,hope college,hope college,exact
+D3,Women,Volleyball,2013,169080,Calvin,Calvin University,calvin,calvin university,alias
+D3,Women,Volleyball,2011,206525,Wittenberg,Wittenberg University,wittenberg,wittenberg university,fuzzy
+D3,Women,Volleyball,2010,169080,Calvin,Calvin University,calvin,calvin university,alias
+D3,Women,Volleyball,2008,139658,Emory,Emory University,emory,emory university,fuzzy
+D3,Women,Volleyball,2006,213251,Juniata,Juniata College,juniata,juniata college,fuzzy
+D3,Women,Volleyball,2005,240189,Wisconsin-Whitewater,University of Wisconsin-Whitewater,wisconsin whitewater,university of wisconsin whitewater,fuzzy
+D3,Women,Volleyball,2004,213251,Juniata,Juniata College,juniata,juniata college,fuzzy
+D1,Women,Lacrosse,2023,147767,Northwestern,Northwestern University,northwestern,northwestern university,fuzzy
+D1,Women,Lacrosse,2022,199120,North Carolina,University of North Carolina at Chapel Hill,university of north carolina at chapel hill,university of north carolina at chapel hill,exact
+D1,Women,Lacrosse,2021,164924,Boston College,Boston College,boston college,boston college,exact
+D1,Women,Lacrosse,2019,163286,Maryland,University of Maryland-College Park,university of maryland college park,university of maryland college park,exact
+D1,Women,Lacrosse,2018,232423,James Madison,James Madison University,james madison,james madison university,fuzzy
+D1,Women,Lacrosse,2017,163286,Maryland,University of Maryland-College Park,university of maryland college park,university of maryland college park,exact
+D1,Women,Lacrosse,2016,199120,North Carolina,University of North Carolina at Chapel Hill,university of north carolina at chapel hill,university of north carolina at chapel hill,exact
+D1,Women,Lacrosse,2015,163286,Maryland,University of Maryland-College Park,university of maryland college park,university of maryland college park,exact
+D1,Women,Lacrosse,2014,163286,Maryland,University of Maryland-College Park,university of maryland college park,university of maryland college park,exact
+D1,Women,Lacrosse,2013,199120,North Carolina,University of North Carolina at Chapel Hill,university of north carolina at chapel hill,university of north carolina at chapel hill,exact
+D1,Women,Lacrosse,2012,147767,Northwestern,Northwestern University,northwestern,northwestern university,fuzzy
+D1,Women,Lacrosse,2011,147767,Northwestern,Northwestern University,northwestern,northwestern university,fuzzy
+D1,Women,Lacrosse,2010,163286,Maryland,University of Maryland-College Park,university of maryland college park,university of maryland college park,exact
+D1,Women,Lacrosse,2009,147767,Northwestern,Northwestern University,northwestern,northwestern university,fuzzy
+D1,Women,Lacrosse,2008,147767,Northwestern,Northwestern University,northwestern,northwestern university,fuzzy
+D1,Women,Lacrosse,2007,147767,Northwestern,Northwestern University,northwestern,northwestern university,fuzzy
+D1,Women,Lacrosse,2006,147767,Northwestern,Northwestern University,northwestern,northwestern university,fuzzy
+D1,Women,Lacrosse,2005,147767,Northwestern,Northwestern University,northwestern,northwestern university,fuzzy
+D1,Women,Lacrosse,2004,234076,Virginia,University of Virginia-Main Campus,university of virginia-main campus,university of virginia main campus,fuzzy
+D3,Men,Indoor Track & Field,2023,240329,Wisconsin-La Crosse,University of Wisconsin-La Crosse,wisconsin la crosse,university of wisconsin la crosse,fuzzy
+D3,Men,Indoor Track & Field,2018,204185,Mount Union,University of Mount Union,mount union,university of mount union,fuzzy
+D3,Men,Indoor Track & Field,2016,240268,Wisconsin-Eau Claire,University of Wisconsin-Eau Claire,wisconsin eau claire,university of wisconsin eau claire,fuzzy
+D3,Men,Indoor Track & Field,2015,240268,Wisconsin-Eau Claire,University of Wisconsin-Eau Claire,wisconsin eau claire,university of wisconsin eau claire,fuzzy
+D3,Men,Indoor Track & Field,2014,240329,Wisconsin-La Crosse,University of Wisconsin-La Crosse,wisconsin la crosse,university of wisconsin la crosse,fuzzy
+D3,Men,Indoor Track & Field,2013,240329,Wisconsin-La Crosse,University of Wisconsin-La Crosse,wisconsin la crosse,university of wisconsin la crosse,fuzzy
+D3,Men,Indoor Track & Field,2008,240329,Wisconsin-La Crosse,University of Wisconsin-La Crosse,wisconsin la crosse,university of wisconsin la crosse,fuzzy
+D3,Men,Indoor Track & Field,2006,240329,Wisconsin-La Crosse,University of Wisconsin-La Crosse,wisconsin la crosse,university of wisconsin la crosse,fuzzy
+D3,Men,Indoor Track & Field,2005,240329,Wisconsin-La Crosse,University of Wisconsin-La Crosse,wisconsin la crosse,university of wisconsin la crosse,fuzzy
+D3,Men,Indoor Track & Field,2004,240329,Wisconsin-La Crosse,University of Wisconsin-La Crosse,wisconsin la crosse,university of wisconsin la crosse,fuzzy
+D2,Men,Outdoor Track & Field,2023,155681,Pittsburg State,Pittsburg State University,pittsburg state,pittsburg state university,fuzzy
+D2,Men,Outdoor Track & Field,2022,155681,Pittsburg State,Pittsburg State University,pittsburg state,pittsburg state university,fuzzy
+D2,Men,Outdoor Track & Field,2021,170082,Grand Valley State,Grand Valley State University,grand valley state,grand valley state university,fuzzy
+D2,Men,Outdoor Track & Field,2019,201104,Ashland,Ashland University,ashland,ashland university,fuzzy
+D2,Men,Outdoor Track & Field,2018,228705,Texas A&M-Kingsville,Texas A&M University-Kingsville,texas am kingsville,texas am university kingsville,alias
+D2,Men,Outdoor Track & Field,2012,126182,Adams State,Adams State University,adams state,adams state university,fuzzy
+D2,Men,Outdoor Track & Field,2011,222178,Abilene Christian,Abilene Christian University,abilene christian,abilene christian university,fuzzy
+D2,Men,Outdoor Track & Field,2008,222178,Abilene Christian,Abilene Christian University,abilene christian,abilene christian university,fuzzy
+D2,Men,Outdoor Track & Field,2007,222178,Abilene Christian,Abilene Christian University,abilene christian,abilene christian university,fuzzy
+D2,Men,Outdoor Track & Field,2006,222178,Abilene Christian,Abilene Christian University,abilene christian,abilene christian university,fuzzy
+D2,Men,Outdoor Track & Field,2005,222178,Abilene Christian,Abilene Christian University,abilene christian,abilene christian university,fuzzy
+D2,Men,Outdoor Track & Field,2004,222178,Abilene Christian,Abilene Christian University,abilene christian,abilene christian university,fuzzy
+D3,Men,Swimming & Diving,2023,139658,Emory,Emory University,emory,emory university,fuzzy
+D3,Men,Swimming & Diving,2022,139658,Emory,Emory University,emory,emory university,fuzzy
+D3,Men,Swimming & Diving,2019,202523,Denison,Denison University,denison,denison university,fuzzy
+D3,Men,Swimming & Diving,2018,202523,Denison,Denison University,denison,denison university,fuzzy
+D3,Men,Swimming & Diving,2017,139658,Emory,Emory University,emory,emory university,fuzzy
+D3,Men,Swimming & Diving,2016,202523,Denison,Denison University,denison,denison university,fuzzy
+D3,Men,Swimming & Diving,2015,203535,Kenyon,Kenyon College,kenyon,kenyon college,alias
+D3,Men,Swimming & Diving,2014,203535,Kenyon,Kenyon College,kenyon,kenyon college,alias
+D3,Men,Swimming & Diving,2013,203535,Kenyon,Kenyon College,kenyon,kenyon college,alias
+D3,Men,Swimming & Diving,2012,202523,Denison,Denison University,denison,denison university,fuzzy
+D3,Men,Swimming & Diving,2011,202523,Denison,Denison University,denison,denison university,fuzzy
+D3,Men,Swimming & Diving,2010,203535,Kenyon,Kenyon College,kenyon,kenyon college,alias
+D3,Men,Swimming & Diving,2009,203535,Kenyon,Kenyon College,kenyon,kenyon college,alias
+D3,Men,Swimming & Diving,2008,203535,Kenyon,Kenyon College,kenyon,kenyon college,alias
+D3,Men,Swimming & Diving,2007,203535,Kenyon,Kenyon College,kenyon,kenyon college,alias
+D3,Men,Swimming & Diving,2006,203535,Kenyon,Kenyon College,kenyon,kenyon college,alias
+D3,Men,Swimming & Diving,2005,203535,Kenyon,Kenyon College,kenyon,kenyon college,alias
+D3,Men,Swimming & Diving,2004,203535,Kenyon,Kenyon College,kenyon,kenyon college,alias
+D1,Women,Soccer,2023,134097,Florida State,Florida State University,florida state university,florida state university,exact
+D1,Women,Soccer,2022,110662,UCLA,University of California-Los Angeles,university of california los angeles,university of california los angeles,exact
+D1,Women,Soccer,2021,134097,Florida State,Florida State University,florida state university,florida state university,exact
+D1,Women,Soccer,2020,122931,Santa Clara,Santa Clara University,santa clara,santa clara university,fuzzy
+D1,Women,Soccer,2019,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+D1,Women,Soccer,2018,134097,Florida State,Florida State University,florida state university,florida state university,exact
+D1,Women,Soccer,2017,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+D1,Women,Soccer,2016,123961,Southern California,University of Southern California,university of southern california,university of southern california,exact
+D1,Women,Soccer,2015,214777,Penn State,Pennsylvania State University-Main Campus,pennsylvania state university main campus,pennsylvania state university main campus,exact
+D1,Women,Soccer,2014,134097,Florida State,Florida State University,florida state university,florida state university,exact
+D1,Women,Soccer,2013,110662,UCLA,University of California-Los Angeles,university of california los angeles,university of california los angeles,exact
+D1,Women,Soccer,2012,199120,North Carolina,University of North Carolina at Chapel Hill,university of north carolina at chapel hill,university of north carolina at chapel hill,exact
+D1,Women,Soccer,2011,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+D1,Women,Soccer,2010,152080,Notre Dame,University of Notre Dame,university of notre dame,university of notre dame,exact
+D1,Women,Soccer,2009,199120,North Carolina,University of North Carolina at Chapel Hill,university of north carolina at chapel hill,university of north carolina at chapel hill,exact
+D1,Women,Soccer,2008,199120,North Carolina,University of North Carolina at Chapel Hill,university of north carolina at chapel hill,university of north carolina at chapel hill,exact
+D1,Women,Soccer,2007,123961,Southern California,University of Southern California,university of southern california,university of southern california,exact
+D1,Women,Soccer,2006,199120,North Carolina,University of North Carolina at Chapel Hill,university of north carolina at chapel hill,university of north carolina at chapel hill,exact
+D1,Women,Soccer,2005,209807,Portland,Portland State University,portland,portland state university,fuzzy
+D1,Women,Soccer,2004,152080,*Notre Dame,University of Notre Dame,university of notre dame,university of notre dame,exact
+D3,Men,Volleyball,2023,186867,Stevens Institute,Stevens Institute of Technology,stevens institute,stevens institute of technology,fuzzy
+D3,Men,Volleyball,2022,238476,Carthage,Carthage College,carthage,carthage college,alias
+D3,Men,Volleyball,2021,238476,Carthage,Carthage College,carthage,carthage college,alias
+D3,Men,Volleyball,2018,148654,Springfield,University of Illinois Springfield,springfield,university of illinois springfield,fuzzy
+D3,Men,Volleyball,2017,148654,Springfield,University of Illinois Springfield,springfield,university of illinois springfield,fuzzy
+D3,Men,Volleyball,2015,186867,Stevens Institute,Stevens Institute of Technology,stevens institute,stevens institute of technology,fuzzy
+D3,Men,Volleyball,2014,148654,Springfield,University of Illinois Springfield,springfield,university of illinois springfield,fuzzy
+D3,Men,Volleyball,2013,148654,Springfield,University of Illinois Springfield,springfield,university of illinois springfield,fuzzy
+D3,Men,Volleyball,2012,148654,Springfield,University of Illinois Springfield,springfield,university of illinois springfield,fuzzy
+D2,Women,Lacrosse,2023,194310,Pace,Pace University,pace,pace university,fuzzy
+D2,Women,Lacrosse,2022,151263,UIndy,University of Indianapolis,uindy,university of indianapolis,alias
+D2,Women,Lacrosse,2019,188429,Adelphi,Adelphi University,adelphi,adelphi university,fuzzy
+D2,Women,Lacrosse,2018,192323,Le Moyne,Le Moyne College,le moyne,le moyne college,fuzzy
+D2,Women,Lacrosse,2017,188429,Adelphi,Adelphi University,adelphi,adelphi university,fuzzy
+D2,Women,Lacrosse,2016,134079,Florida Southern,Florida Southern College,florida southern,florida southern college,fuzzy
+D2,Women,Lacrosse,2015,188429,Adelphi,Adelphi University,adelphi,adelphi university,fuzzy
+D2,Women,Lacrosse,2014,188429,Adelphi,Adelphi University,adelphi,adelphi university,fuzzy
+D2,Women,Lacrosse,2011,188429,Adelphi,Adelphi University,adelphi,adelphi university,fuzzy
+D2,Women,Lacrosse,2010,188429,Adelphi,Adelphi University,adelphi,adelphi university,fuzzy
+D2,Women,Lacrosse,2009,188429,Adelphi,Adelphi University,adelphi,adelphi university,fuzzy
+D2,Women,Lacrosse,2008,216764,West Chester,West Chester University of Pennsylvania,west chester,west chester university of pennsylvania,fuzzy
+D2,Women,Lacrosse,2006,188429,Adelphi,Adelphi University,adelphi,adelphi university,fuzzy
+D2,Women,Lacrosse,2005,167996,Stonehill,Stonehill College,stonehill,stonehill college,fuzzy
+D2,Women,Lacrosse,2004,188429,Adelphi,Adelphi University,adelphi,adelphi university,fuzzy
+D2,Men,Tennis,2023,132471,Barry,Barry University,barry,barry university,fuzzy
+D2,Men,Tennis,2022,132471,Barry,Barry University,barry,barry university,fuzzy
+D2,Men,Tennis,2021,132471,Barry,Barry University,barry,barry university,fuzzy
+D2,Men,Tennis,2019,132471,Barry,Barry University,barry,barry university,fuzzy
+D2,Men,Tennis,2018,139366,Columbus State,Columbus State University,columbus state,columbus state university,fuzzy
+D2,Men,Tennis,2017,138354,West Florida,University of West Florida,university of west florida,university of west florida,exact
+D2,Men,Tennis,2016,141644,Hawaii Pacific,Hawaii Pacific University,hawaii pacific,hawaii pacific university,fuzzy
+D2,Men,Tennis,2015,132471,Barry,Barry University,barry,barry university,fuzzy
+D2,Men,Tennis,2014,138354,West Florida,University of West Florida,university of west florida,university of west florida,exact
+D2,Men,Tennis,2013,132471,Barry,Barry University,barry,barry university,fuzzy
+D2,Men,Tennis,2011,141264,Valdosta State,Valdosta State University,valdosta state,valdosta state university,fuzzy
+D2,Men,Tennis,2010,132471,Barry,Barry University,barry,barry university,fuzzy
+D2,Men,Tennis,2007,132657,Lynn,Lynn University,lynn,lynn university,fuzzy
+D2,Men,Tennis,2006,141264,Valdosta State,Valdosta State University,valdosta state,valdosta state university,fuzzy
+D2,Women,Cross Country,2023,170082,Grand Valley State,Grand Valley State University,grand valley state,grand valley state university,fuzzy
+D2,Women,Cross Country,2022,126182,Adams State,Adams State University,adams state,adams state university,fuzzy
+D2,Women,Cross Country,2021,126182,Adams State,Adams State University,adams state,adams state university,fuzzy
+D2,Women,Cross Country,2019,126182,Adams State,Adams State University,adams state,adams state university,fuzzy
+D2,Women,Cross Country,2018,170082,Grand Valley State,Grand Valley State University,grand valley state,grand valley state university,fuzzy
+D2,Women,Cross Country,2017,126182,Adams State,Adams State University,adams state,adams state university,fuzzy
+D2,Women,Cross Country,2016,170082,Grand Valley State,Grand Valley State University,grand valley state,grand valley state university,fuzzy
+D2,Women,Cross Country,2015,126182,Adams State,Adams State University,adams state,adams state university,fuzzy
+D2,Women,Cross Country,2014,170082,Grand Valley State,Grand Valley State University,grand valley state,grand valley state university,fuzzy
+D2,Women,Cross Country,2013,170082,Grand Valley State,Grand Valley State University,grand valley state,grand valley state university,fuzzy
+D2,Women,Cross Country,2012,170082,Grand Valley State,Grand Valley State University,grand valley state,grand valley state university,fuzzy
+D2,Women,Cross Country,2010,170082,Grand Valley State,Grand Valley State University,grand valley state,grand valley state university,fuzzy
+D2,Women,Cross Country,2009,126182,Adams State,Adams State University,adams state,adams state university,fuzzy
+D2,Women,Cross Country,2008,126182,Adams State,Adams State University,adams state,adams state university,fuzzy
+D2,Women,Cross Country,2007,126182,Adams State,Adams State University,adams state,adams state university,fuzzy
+D2,Women,Cross Country,2006,126182,Adams State,Adams State University,adams state,adams state university,fuzzy
+D2,Women,Cross Country,2005,126182,Adams State,Adams State University,adams state,adams state university,fuzzy
+D2,Women,Cross Country,2004,126182,Adams State,Adams State University,adams state,adams state university,fuzzy
+D1,Men,Outdoor Track & Field,2023,134130,Florida,University of Florida,university of florida,university of florida,exact
+D1,Men,Outdoor Track & Field,2022,134130,Florida,University of Florida,university of florida,university of florida,exact
+D1,Men,Outdoor Track & Field,2021,159391,LSU,Louisiana State University and Agricultural & Mechanical College,louisiana state university and agricultural mechanical college,louisiana state university and agricultural  mechanical college,fuzzy
+D1,Men,Outdoor Track & Field,2019,229115,Texas Tech,Texas Tech University,texas tech,texas tech university,fuzzy
+D1,Men,Outdoor Track & Field,2018,139959,Georgia,University of Georgia,university of georgia,university of georgia,exact
+D1,Men,Outdoor Track & Field,2017,134130,Florida,University of Florida,university of florida,university of florida,exact
+D1,Men,Outdoor Track & Field,2016,134130,Florida,University of Florida,university of florida,university of florida,exact
+D1,Men,Outdoor Track & Field,2015,209551,Oregon,University of Oregon,university of oregon,university of oregon,exact
+D1,Men,Outdoor Track & Field,2014,209551,Oregon,University of Oregon,university of oregon,university of oregon,exact
+D1,Men,Outdoor Track & Field,2012,134130,Florida,University of Florida,university of florida,university of florida,exact
+D1,Men,Outdoor Track & Field,2011,228723,Texas A&M,Texas A&M University-College Station,texas am university college station,texas am university college station,exact
+D1,Men,Outdoor Track & Field,2010,228723,Texas A&M,Texas A&M University-College Station,texas am university college station,texas am university college station,exact
+D1,Men,Outdoor Track & Field,2009,228723,Texas A&M,Texas A&M University-College Station,texas am university college station,texas am university college station,exact
+D1,Men,Outdoor Track & Field,2008,134097,Florida State,Florida State University,florida state university,florida state university,exact
+D1,Men,Outdoor Track & Field,2007,134097,&Florida State,Florida State University,florida state university,florida state university,exact
+D1,Men,Outdoor Track & Field,2006,134097,Florida State,Florida State University,florida state university,florida state university,exact
+D1,Men,Outdoor Track & Field,2005,106245,&Arkansas,University of Arkansas at Little Rock,arkansas,university of arkansas at little rock,fuzzy
+D1,Men,Outdoor Track & Field,2004,106245,&Arkansas,University of Arkansas at Little Rock,arkansas,university of arkansas at little rock,fuzzy
+D2,Men,Football,2023,107044,Harding,Harding University,harding,harding university,fuzzy
+D2,Men,Football,2022,169910,Ferris State,Ferris State University,ferris state,ferris state university,fuzzy
+D2,Men,Football,2021,169910,Ferris State,Ferris State University,ferris state,ferris state university,fuzzy
+D2,Men,Football,2019,138354,West Florida,University of West Florida,university of west florida,university of west florida,exact
+D2,Men,Football,2018,141264,Valdosta State,Valdosta State University,valdosta state,valdosta state university,fuzzy
+D2,Men,Football,2016,178624,Northwest Missouri State,Northwest Missouri State University,northwest missouri state,northwest missouri state university,fuzzy
+D2,Men,Football,2015,178624,Northwest Missouri State,Northwest Missouri State University,northwest missouri state,northwest missouri state university,fuzzy
+D2,Men,Football,2013,178624,Northwest Missouri State,Northwest Missouri State University,northwest missouri state,northwest missouri state university,fuzzy
+D2,Men,Football,2012,141264,Valdosta State,Valdosta State University,valdosta state,valdosta state university,fuzzy
+D2,Men,Football,2011,155681,Pittsburg State,Pittsburg State University,pittsburg state,pittsburg state university,fuzzy
+D2,Men,Football,2010,174233,Minnesota-Duluth,University of Minnesota-Duluth,minnesota duluth,university of minnesota duluth,fuzzy
+D2,Men,Football,2009,178624,Northwest Missouri State,Northwest Missouri State University,northwest missouri state,northwest missouri state university,fuzzy
+D2,Men,Football,2008,174233,Minnesota-Duluth,University of Minnesota-Duluth,minnesota duluth,university of minnesota duluth,fuzzy
+D2,Men,Football,2007,141264,Valdosta State,Valdosta State University,valdosta state,valdosta state university,fuzzy
+D2,Men,Football,2006,170082,Grand Valley State,Grand Valley State University,grand valley state,grand valley state university,fuzzy
+D2,Men,Football,2005,170082,Grand Valley State,Grand Valley State University,grand valley state,grand valley state university,fuzzy
+D2,Men,Football,2004,141264,Valdosta State,Valdosta State University,valdosta state,valdosta state university,fuzzy
+D2,Men,Cross Country,2023,199962,Wingate,Wingate University,wingate,wingate university,fuzzy
+D2,Men,Cross Country,2021,170082,Grand Valley State,Grand Valley State University,grand valley state,grand valley state university,fuzzy
+D2,Men,Cross Country,2018,170082,Grand Valley State,Grand Valley State University,grand valley state,grand valley state university,fuzzy
+D2,Men,Cross Country,2017,126182,Adams State,Adams State University,adams state,adams state university,fuzzy
+D2,Men,Cross Country,2016,126182,Adams State,Adams State University,adams state,adams state university,fuzzy
+D2,Men,Cross Country,2014,126182,Adams State,Adams State University,adams state,adams state university,fuzzy
+D2,Men,Cross Country,2013,126182,Adams State,Adams State University,adams state,adams state university,fuzzy
+D2,Men,Cross Country,2012,126182,Adams State,Adams State University,adams state,adams state university,fuzzy
+D2,Men,Cross Country,2011,133508,Western State,Florida SouthWestern State College,western state,florida southwestern state college,fuzzy
+D2,Men,Cross Country,2010,126182,Adams State,Adams State University,adams state,adams state university,fuzzy
+D2,Men,Cross Country,2009,126182,Adams State,Adams State University,adams state,adams state university,fuzzy
+D2,Men,Cross Country,2008,126182,Adams State,Adams State University,adams state,adams state university,fuzzy
+D2,Men,Cross Country,2007,222178,Abilene Christian,Abilene Christian University,abilene christian,abilene christian university,fuzzy
+D2,Men,Cross Country,2006,222178,Abilene Christian,Abilene Christian University,abilene christian,abilene christian university,fuzzy
+D2,Men,Cross Country,2005,133508,Western State,Florida SouthWestern State College,western state,florida southwestern state college,fuzzy
+D2,Men,Cross Country,2004,133508,Western State,Florida SouthWestern State College,western state,florida southwestern state college,fuzzy
+D1,Men,Golf,2023,134130,Florida,University of Florida,university of florida,university of florida,exact
+D1,Men,Golf,2022,228778,Texas,The University of Texas at Austin,university of texas at austin,university of texas at austin,exact
+D1,Men,Golf,2021,121150,Pepperdine,Pepperdine University,pepperdine,pepperdine university,fuzzy
+D1,Men,Golf,2019,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+D1,Men,Golf,2018,207388,Oklahoma State,Oklahoma State University-Main Campus,oklahoma state university main campus,oklahoma state university main campus,exact
+D1,Men,Golf,2017,207500,Oklahoma,University of Oklahoma-Norman Campus,university of oklahoma norman campus,university of oklahoma norman campus,exact
+D1,Men,Golf,2016,209551,Oregon,University of Oregon,university of oregon,university of oregon,exact
+D1,Men,Golf,2015,159391,LSU,Louisiana State University and Agricultural & Mechanical College,louisiana state university and agricultural mechanical college,louisiana state university and agricultural  mechanical college,fuzzy
+D1,Men,Golf,2014,100751,Alabama,The University of Alabama,university of alabama,university of alabama,exact
+D1,Men,Golf,2013,100751,Alabama,The University of Alabama,university of alabama,university of alabama,exact
+D1,Men,Golf,2012,228778,Texas,The University of Texas at Austin,university of texas at austin,university of texas at austin,exact
+D1,Men,Golf,2009,228723,Texas A&M,Texas A&M University-College Station,texas am university college station,texas am university college station,exact
+D1,Men,Golf,2008,110662,UCLA,University of California-Los Angeles,university of california los angeles,university of california los angeles,exact
+D1,Men,Golf,2007,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+D1,Men,Golf,2006,207388,Oklahoma State,Oklahoma State University-Main Campus,oklahoma state university main campus,oklahoma state university main campus,exact
+D1,Men,Golf,2005,139959,Georgia,University of Georgia,university of georgia,university of georgia,exact
+D1,Men,Golf,2004,110635,California,University of California-Berkeley,university of california berkeley,university of california berkeley,exact
+NC,Men,Volleyball,2023,110662,UCLA,University of California-Los Angeles,university of california los angeles,university of california los angeles,exact
+NC,Men,Volleyball,2022,141565,Hawaii,University of Hawaii at Hilo,hawaii,university of hawaii at hilo,fuzzy
+NC,Men,Volleyball,2021,141565,Hawaii,University of Hawaii at Hilo,hawaii,university of hawaii at hilo,fuzzy
+NC,Men,Volleyball,2017,204796,Ohio State,Ohio State University-Main Campus,ohio state university main campus,ohio state university main campus,exact
+NC,Men,Volleyball,2016,204796,Ohio State,Ohio State University-Main Campus,ohio state university main campus,ohio state university main campus,exact
+NC,Men,Volleyball,2011,204796,Ohio State,Ohio State University-Main Campus,ohio state university main campus,ohio state university main campus,exact
+NC,Men,Volleyball,2010,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+NC,Men,Volleyball,2008,214777,Penn State,Pennsylvania State University-Main Campus,pennsylvania state university main campus,pennsylvania state university main campus,exact
+NC,Men,Volleyball,2006,110662,UCLA,University of California-Los Angeles,university of california los angeles,university of california los angeles,exact
+NC,Men,Volleyball,2005,121150,Pepperdine,Pepperdine University,pepperdine,pepperdine university,fuzzy
+NC,Men,Volleyball,2004,230038,BYU,Brigham Young University,brigham young university,brigham young university,exact
+D3,Women,Lacrosse,2023,119058,Middlebury,Middlebury Institute of International Studies at Monterey,middlebury,middlebury institute of international studies at monterey,fuzzy
+D3,Women,Lacrosse,2022,119058,Middlebury,Middlebury Institute of International Studies at Monterey,middlebury,middlebury institute of international studies at monterey,fuzzy
+D3,Women,Lacrosse,2021,163851,Salisbury,Salisbury University,salisbury,salisbury university,fuzzy
+D3,Women,Lacrosse,2019,119058,Middlebury,Middlebury Institute of International Studies at Monterey,middlebury,middlebury institute of international studies at monterey,fuzzy
+D3,Women,Lacrosse,2018,212674,Gettysburg,Gettysburg College,gettysburg,gettysburg college,fuzzy
+D3,Women,Lacrosse,2017,212674,Gettysburg,Gettysburg College,gettysburg,gettysburg college,fuzzy
+D3,Women,Lacrosse,2016,119058,Middlebury,Middlebury Institute of International Studies at Monterey,middlebury,middlebury institute of international studies at monterey,fuzzy
+D3,Women,Lacrosse,2015,196149,SUNY Cortland,State University of New York at Cortland,suny cortland,state university of new york at cortland,alias
+D3,Women,Lacrosse,2014,163851,Salisbury,Salisbury University,salisbury,salisbury university,fuzzy
+D3,Women,Lacrosse,2013,163851,Salisbury,Salisbury University,salisbury,salisbury university,fuzzy
+D3,Women,Lacrosse,2011,212674,Gettysburg,Gettysburg College,gettysburg,gettysburg college,fuzzy
+D3,Women,Lacrosse,2010,163851,Salisbury,Salisbury University,salisbury,salisbury university,fuzzy
+D3,Women,Lacrosse,2008,191515,Hamilton,Hamilton College,hamilton,hamilton college,fuzzy
+D3,Women,Lacrosse,2006,187134,TCNJ,The College of New Jersey,tcnj,college of new jersey,alias
+D3,Women,Lacrosse,2005,187134,TCNJ,The College of New Jersey,tcnj,college of new jersey,alias
+D3,Women,Lacrosse,2004,119058,Middlebury,Middlebury Institute of International Studies at Monterey,middlebury,middlebury institute of international studies at monterey,fuzzy
+D3,Women,Swimming & Diving,2023,202523,Denison,Denison University,denison,denison university,fuzzy
+D3,Women,Swimming & Diving,2022,203535,Kenyon,Kenyon College,kenyon,kenyon college,alias
+D3,Women,Swimming & Diving,2019,139658,Emory,Emory University,emory,emory university,fuzzy
+D3,Women,Swimming & Diving,2018,139658,Emory,Emory University,emory,emory university,fuzzy
+D3,Women,Swimming & Diving,2017,139658,Emory,Emory University,emory,emory university,fuzzy
+D3,Women,Swimming & Diving,2016,139658,Emory,Emory University,emory,emory university,fuzzy
+D3,Women,Swimming & Diving,2015,139658,Emory,Emory University,emory,emory university,fuzzy
+D3,Women,Swimming & Diving,2014,139658,Emory,Emory University,emory,emory university,fuzzy
+D3,Women,Swimming & Diving,2013,139658,Emory,Emory University,emory,emory university,fuzzy
+D3,Women,Swimming & Diving,2012,139658,Emory,Emory University,emory,emory university,fuzzy
+D3,Women,Swimming & Diving,2011,139658,Emory,Emory University,emory,emory university,fuzzy
+D3,Women,Swimming & Diving,2010,139658,Emory,Emory University,emory,emory university,fuzzy
+D3,Women,Swimming & Diving,2009,203535,Kenyon,Kenyon College,kenyon,kenyon college,alias
+D3,Women,Swimming & Diving,2008,203535,Kenyon,Kenyon College,kenyon,kenyon college,alias
+D3,Women,Swimming & Diving,2007,203535,Kenyon,Kenyon College,kenyon,kenyon college,alias
+D3,Women,Swimming & Diving,2006,139658,Emory,Emory University,emory,emory university,fuzzy
+D3,Women,Swimming & Diving,2005,139658,Emory,Emory University,emory,emory university,fuzzy
+D3,Women,Swimming & Diving,2004,203535,Kenyon,Kenyon College,kenyon,kenyon college,alias
+D3,Men,Lacrosse,2023,163851,Salisbury,Salisbury University,salisbury,salisbury university,fuzzy
+D1,Men,Swimming & Diving,2023,110635,California,University of California-Berkeley,university of california berkeley,university of california berkeley,exact
+D1,Men,Swimming & Diving,2022,110635,California,University of California-Berkeley,university of california berkeley,university of california berkeley,exact
+D1,Men,Swimming & Diving,2021,228778,Texas,The University of Texas at Austin,university of texas at austin,university of texas at austin,exact
+D1,Men,Swimming & Diving,2019,110635,California,University of California-Berkeley,university of california berkeley,university of california berkeley,exact
+D1,Men,Swimming & Diving,2018,228778,Texas,The University of Texas at Austin,university of texas at austin,university of texas at austin,exact
+D1,Men,Swimming & Diving,2017,228778,Texas,The University of Texas at Austin,university of texas at austin,university of texas at austin,exact
+D1,Men,Swimming & Diving,2016,228778,Texas,The University of Texas at Austin,university of texas at austin,university of texas at austin,exact
+D1,Men,Swimming & Diving,2015,228778,Texas,The University of Texas at Austin,university of texas at austin,university of texas at austin,exact
+D1,Men,Swimming & Diving,2014,110635,California,University of California-Berkeley,university of california berkeley,university of california berkeley,exact
+D1,Men,Swimming & Diving,2013,170976,Michigan,University of Michigan-Ann Arbor,university of michigan ann arbor,university of michigan ann arbor,exact
+D1,Men,Swimming & Diving,2012,110635,California,University of California-Berkeley,university of california berkeley,university of california berkeley,exact
+D1,Men,Swimming & Diving,2011,110635,California,University of California-Berkeley,university of california berkeley,university of california berkeley,exact
+D1,Men,Swimming & Diving,2010,228778,Texas,The University of Texas at Austin,university of texas at austin,university of texas at austin,exact
+D1,Men,Swimming & Diving,2009,100858,Auburn,Auburn University,auburn university,auburn university,exact
+D1,Men,Swimming & Diving,2008,104179,Arizona,University of Arizona,university of arizona,university of arizona,exact
+D1,Men,Swimming & Diving,2007,100858,Auburn,Auburn University,auburn university,auburn university,exact
+D1,Men,Swimming & Diving,2006,100858,Auburn,Auburn University,auburn university,auburn university,exact
+D1,Men,Swimming & Diving,2005,100858,Auburn,Auburn University,auburn university,auburn university,exact
+D1,Men,Swimming & Diving,2004,100858,Auburn,Auburn University,auburn university,auburn university,exact
+D1,Women,Tennis,2023,199120,North Carolina,University of North Carolina at Chapel Hill,university of north carolina at chapel hill,university of north carolina at chapel hill,exact
+D1,Women,Tennis,2022,228778,Texas,The University of Texas at Austin,university of texas at austin,university of texas at austin,exact
+D1,Women,Tennis,2021,228778,Texas,The University of Texas at Austin,university of texas at austin,university of texas at austin,exact
+D1,Women,Tennis,2019,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+D1,Women,Tennis,2018,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+D1,Women,Tennis,2017,134130,Florida,University of Florida,university of florida,university of florida,exact
+D1,Women,Tennis,2016,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+D1,Women,Tennis,2015,221999,Vanderbilt,Vanderbilt University,vanderbilt,vanderbilt university,fuzzy
+D1,Women,Tennis,2014,110662,UCLA,University of California-Los Angeles,university of california los angeles,university of california los angeles,exact
+D1,Women,Tennis,2013,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+D1,Women,Tennis,2012,134130,Florida,University of Florida,university of florida,university of florida,exact
+D1,Women,Tennis,2011,134130,Florida,University of Florida,university of florida,university of florida,exact
+D1,Women,Tennis,2010,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+D1,Women,Tennis,2009,198419,Duke,Duke University,duke,duke university,fuzzy
+D1,Women,Tennis,2008,110662,UCLA,University of California-Los Angeles,university of california los angeles,university of california los angeles,exact
+D1,Women,Tennis,2007,139755,Georgia Tech,Georgia Institute of Technology-Main Campus,georgia institute of technology main campus,georgia institute of technology main campus,exact
+D1,Women,Tennis,2006,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+D1,Women,Tennis,2005,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+D1,Women,Tennis,2004,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+D1,Women,Basketball,2023,159391,LSU,Louisiana State University and Agricultural & Mechanical College,louisiana state university and agricultural mechanical college,louisiana state university and agricultural  mechanical college,fuzzy
+D1,Women,Basketball,2022,218663,South Carolina,University of South Carolina-Columbia,university of south carolina columbia,university of south carolina columbia,exact
+D1,Women,Basketball,2021,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+D1,Women,Basketball,2019,223232,Baylor,Baylor University,baylor,baylor university,fuzzy
+D1,Women,Basketball,2018,152080,Notre Dame,University of Notre Dame,university of notre dame,university of notre dame,exact
+D1,Women,Basketball,2017,218663,South Carolina,University of South Carolina-Columbia,university of south carolina columbia,university of south carolina columbia,exact
+D1,Women,Basketball,2016,129020,Connecticut,University of Connecticut,university of connecticut,university of connecticut,exact
+D1,Women,Basketball,2015,129020,Connecticut,University of Connecticut,university of connecticut,university of connecticut,exact
+D1,Women,Basketball,2014,129020,Connecticut,University of Connecticut,university of connecticut,university of connecticut,exact
+D1,Women,Basketball,2013,129020,Connecticut,University of Connecticut,university of connecticut,university of connecticut,exact
+D1,Women,Basketball,2012,223232,Baylor,Baylor University,baylor,baylor university,fuzzy
+D1,Women,Basketball,2011,228723,Texas A&M,Texas A&M University-College Station,texas am university college station,texas am university college station,exact
+D1,Women,Basketball,2010,129020,Connecticut,University of Connecticut,university of connecticut,university of connecticut,exact
+D1,Women,Basketball,2009,129020,Connecticut,University of Connecticut,university of connecticut,university of connecticut,exact
+D1,Women,Basketball,2008,221759,Tennessee,The University of Tennessee-Knoxville,university of tennessee knoxville,university of tennessee knoxville,exact
+D1,Women,Basketball,2007,221759,Tennessee,The University of Tennessee-Knoxville,university of tennessee knoxville,university of tennessee knoxville,exact
+D1,Women,Basketball,2006,163286,Maryland,University of Maryland-College Park,university of maryland college park,university of maryland college park,exact
+D1,Women,Basketball,2005,223232,Baylor,Baylor University,baylor,baylor university,fuzzy
+D1,Women,Basketball,2004,129020,Connecticut,University of Connecticut,university of connecticut,university of connecticut,exact
+D3,Women,Soccer,2022,162928,Johns Hopkins,Johns Hopkins University,johns hopkins,johns hopkins university,alias
+D3,Women,Soccer,2021,231712,Christopher Newport,Christopher Newport University,christopher newport,christopher newport university,fuzzy
+D3,Women,Soccer,2019,213996,Messiah,Messiah University,messiah,messiah university,fuzzy
+D3,Women,Soccer,2018,168342,Williams,Williams College,williams college,williams college,exact
+D3,Women,Soccer,2017,168342,Williams,Williams College,williams college,williams college,exact
+D3,Women,Soccer,2015,168342,Williams,Williams College,williams college,williams college,exact
+D3,Women,Soccer,2014,232609,*Lynchburg,University of Lynchburg,lynchburg,university of lynchburg,alias
+D3,Women,Soccer,2013,191630,William Smith,Hobart William Smith Colleges,william smith,hobart william smith colleges,fuzzy
+D3,Women,Soccer,2012,213996,Messiah,Messiah University,messiah,messiah university,fuzzy
+D3,Women,Soccer,2011,213996,Messiah,Messiah University,messiah,messiah university,fuzzy
+D3,Women,Soccer,2010,225247,Hardin-Simmons,Hardin-Simmons University,hardin simmons,hardin simmons university,fuzzy
+D3,Women,Soccer,2009,213996,Messiah,Messiah University,messiah,messiah university,fuzzy
+D3,Women,Soccer,2008,213996,Messiah,Messiah University,messiah,messiah university,fuzzy
+D3,Women,Soccer,2005,213996,Messiah,Messiah University,messiah,messiah university,fuzzy
+D2,Women,Golf,2023,224226,DBU,Dallas Baptist University,dbu,dallas baptist university,alias
+D2,Women,Golf,2022,202763,Findlay,The University of Findlay,findlay,university of findlay,fuzzy
+D2,Women,Golf,2021,224226,DBU,Dallas Baptist University,dbu,dallas baptist university,alias
+D2,Women,Golf,2019,133881,Florida Tech,Florida Institute of Technology,florida tech,florida institute of technology,alias
+D2,Women,Golf,2018,151111,Indianapolis,Indiana University-Indianapolis,indianapolis,indiana university indianapolis,fuzzy
+D2,Women,Golf,2017,132471,Barry,Barry University,barry,barry university,fuzzy
+D2,Women,Golf,2016,136950,Rollins,Rollins College,rollins,rollins college,alias
+D2,Women,Golf,2015,151111,Indianapolis,Indiana University-Indianapolis,indianapolis,indiana university indianapolis,fuzzy
+D2,Women,Golf,2014,132657,Lynn,Lynn University,lynn,lynn university,fuzzy
+D2,Women,Golf,2013,132657,Lynn,Lynn University,lynn,lynn university,fuzzy
+D2,Women,Golf,2012,136215,Nova Southeastern,Nova Southeastern University,nova southeastern,nova southeastern university,fuzzy
+D2,Women,Golf,2011,136215,Nova Southeastern,Nova Southeastern University,nova southeastern,nova southeastern university,fuzzy
+D2,Women,Golf,2010,136215,Nova Southeastern,Nova Southeastern University,nova southeastern,nova southeastern university,fuzzy
+D2,Women,Golf,2009,136215,Nova Southeastern,Nova Southeastern University,nova southeastern,nova southeastern university,fuzzy
+D2,Women,Golf,2008,136950,Rollins,Rollins College,rollins,rollins college,alias
+D2,Women,Golf,2007,134079,Florida Southern,Florida Southern College,florida southern,florida southern college,fuzzy
+D2,Women,Golf,2006,136950,*Rollins,Rollins College,rollins,rollins college,alias
+D2,Women,Golf,2005,136950,Rollins,Rollins College,rollins,rollins college,alias
+D2,Women,Golf,2004,136950,Rollins,Rollins College,rollins,rollins college,alias
+D1,Men,Cross Country,2023,207388,Oklahoma State,Oklahoma State University-Main Campus,oklahoma state university main campus,oklahoma state university main campus,exact
+D1,Men,Cross Country,2022,105330,Northern Arizona,Northern Arizona University,northern arizona,northern arizona university,fuzzy
+D1,Men,Cross Country,2021,105330,Northern Arizona,Northern Arizona University,northern arizona,northern arizona university,fuzzy
+D1,Men,Cross Country,2020,105330,Northern Arizona,Northern Arizona University,northern arizona,northern arizona university,fuzzy
+D1,Men,Cross Country,2019,230038,BYU,Brigham Young University,brigham young university,brigham young university,exact
+D1,Men,Cross Country,2018,105330,Northern Arizona,Northern Arizona University,northern arizona,northern arizona university,fuzzy
+D1,Men,Cross Country,2017,105330,Northern Arizona,Northern Arizona University,northern arizona,northern arizona university,fuzzy
+D1,Men,Cross Country,2016,105330,Northern Arizona,Northern Arizona University,northern arizona,northern arizona university,fuzzy
+D1,Men,Cross Country,2015,196413,Syracuse,Syracuse University,syracuse university,syracuse university,exact
+D1,Men,Cross Country,2014,126580,Colorado,University of Colorado Colorado Springs,colorado,university of colorado colorado springs,fuzzy
+D1,Men,Cross Country,2013,126580,Colorado,University of Colorado Colorado Springs,colorado,university of colorado colorado springs,fuzzy
+D1,Men,Cross Country,2012,207388,Oklahoma State,Oklahoma State University-Main Campus,oklahoma state university main campus,oklahoma state university main campus,exact
+D1,Men,Cross Country,2011,238616,Wisconsin,Concordia University-Wisconsin,wisconsin,concordia university wisconsin,fuzzy
+D1,Men,Cross Country,2010,207388,Oklahoma State,Oklahoma State University-Main Campus,oklahoma state university main campus,oklahoma state university main campus,exact
+D1,Men,Cross Country,2009,207388,Oklahoma State,Oklahoma State University-Main Campus,oklahoma state university main campus,oklahoma state university main campus,exact
+D1,Men,Cross Country,2008,209551,Oregon,University of Oregon,university of oregon,university of oregon,exact
+D1,Men,Cross Country,2007,209551,Oregon,University of Oregon,university of oregon,university of oregon,exact
+D1,Men,Cross Country,2006,126580,Colorado,University of Colorado Colorado Springs,colorado,university of colorado colorado springs,fuzzy
+D1,Men,Cross Country,2005,238616,Wisconsin,Concordia University-Wisconsin,wisconsin,concordia university wisconsin,fuzzy
+D1,Men,Cross Country,2004,126580,Colorado,University of Colorado Colorado Springs,colorado,university of colorado colorado springs,fuzzy
+D2,Men,Soccer,2023,182795,Franklin Pierce,Franklin Pierce University,franklin pierce,franklin pierce university,fuzzy
+D2,Men,Soccer,2022,182795,Franklin Pierce,Franklin Pierce University,franklin pierce,franklin pierce university,fuzzy
+D2,Men,Soccer,2021,110592,Cal State LA,California State University-Los Angeles,cal state la,california state university los angeles,alias
+D2,Men,Soccer,2018,132471,Barry,Barry University,barry,barry university,fuzzy
+D2,Men,Soccer,2016,199962,Wingate,Wingate University,wingate,wingate university,fuzzy
+D2,Men,Soccer,2015,199306,Pfeiffer,Pfeiffer University,pfeiffer,pfeiffer university,fuzzy
+D2,Men,Soccer,2014,132657,Lynn,Lynn University,lynn,lynn university,fuzzy
+D2,Men,Soccer,2012,132657,Lynn,Lynn University,lynn,lynn university,fuzzy
+D2,Men,Soccer,2011,127185,Fort Lewis,Fort Lewis College,fort lewis,fort lewis college,fuzzy
+D2,Men,Soccer,2010,157447,Northern Kentucky,Northern Kentucky University,northern kentucky,northern kentucky university,fuzzy
+D2,Men,Soccer,2009,127185,Fort Lewis,Fort Lewis College,fort lewis,fort lewis college,fuzzy
+D2,Men,Soccer,2007,182795,Franklin Pierce,Franklin Pierce University,franklin pierce,franklin pierce university,fuzzy
+D2,Men,Soccer,2005,127185,Fort Lewis,Fort Lewis College,fort lewis,fort lewis college,fuzzy
+D2,Men,Soccer,2004,234915,Seattle,City University of Seattle,seattle,city university of seattle,fuzzy
+D3,Men,Wrestling,2023,173045,Augsburg,Augsburg University,augsburg,augsburg university,fuzzy
+D3,Men,Wrestling,2022,154527,Wartburg,Wartburg College,wartburg,wartburg college,fuzzy
+D3,Men,Wrestling,2019,173045,Augsburg,Augsburg University,augsburg,augsburg university,fuzzy
+D3,Men,Wrestling,2018,154527,Wartburg,Wartburg College,wartburg,wartburg college,fuzzy
+D3,Men,Wrestling,2017,154527,Wartburg,Wartburg College,wartburg,wartburg college,fuzzy
+D3,Men,Wrestling,2016,154527,Wartburg,Wartburg College,wartburg,wartburg college,fuzzy
+D3,Men,Wrestling,2015,173045,Augsburg,Augsburg University,augsburg,augsburg university,fuzzy
+D3,Men,Wrestling,2014,154527,Wartburg,Wartburg College,wartburg,wartburg college,fuzzy
+D3,Men,Wrestling,2013,154527,Wartburg,Wartburg College,wartburg,wartburg college,fuzzy
+D3,Men,Wrestling,2012,154527,Wartburg,Wartburg College,wartburg,wartburg college,fuzzy
+D3,Men,Wrestling,2011,154527,Wartburg,Wartburg College,wartburg,wartburg college,fuzzy
+D3,Men,Wrestling,2010,173045,Augsburg,Augsburg University,augsburg,augsburg university,fuzzy
+D3,Men,Wrestling,2009,154527,Wartburg,Wartburg College,wartburg,wartburg college,fuzzy
+D3,Men,Wrestling,2008,154527,Wartburg,Wartburg College,wartburg,wartburg college,fuzzy
+D3,Men,Wrestling,2007,173045,Augsburg,Augsburg University,augsburg,augsburg university,fuzzy
+D3,Men,Wrestling,2006,154527,Wartburg,Wartburg College,wartburg,wartburg college,fuzzy
+D3,Men,Wrestling,2005,173045,Augsburg,Augsburg University,augsburg,augsburg university,fuzzy
+D3,Men,Wrestling,2004,154527,Wartburg,Wartburg College,wartburg,wartburg college,fuzzy
+FBS,Men,Football,2023,170976,Michigan,University of Michigan-Ann Arbor,university of michigan ann arbor,university of michigan ann arbor,exact
+FBS,Men,Football,2022,139959,Georgia,University of Georgia,university of georgia,university of georgia,exact
+FBS,Men,Football,2021,139959,Georgia,University of Georgia,university of georgia,university of georgia,exact
+FBS,Men,Football,2020,100751,Alabama,The University of Alabama,university of alabama,university of alabama,exact
+FBS,Men,Football,2019,159391,LSU,Louisiana State University and Agricultural & Mechanical College,louisiana state university and agricultural mechanical college,louisiana state university and agricultural  mechanical college,fuzzy
+FBS,Men,Football,2018,217882,Clemson,Clemson University,clemson university,clemson university,exact
+FBS,Men,Football,2017,100751,Alabama,The University of Alabama,university of alabama,university of alabama,exact
+FBS,Men,Football,2016,217882,Clemson,Clemson University,clemson university,clemson university,exact
+FBS,Men,Football,2015,100751,Alabama,The University of Alabama,university of alabama,university of alabama,exact
+FBS,Men,Football,2014,204796,Ohio State,Ohio State University-Main Campus,ohio state university main campus,ohio state university main campus,exact
+FBS,Men,Football,2013,134097,Florida State,Florida State University,florida state university,florida state university,exact
+FBS,Men,Football,2012,100751,Alabama,The University of Alabama,university of alabama,university of alabama,exact
+FBS,Men,Football,2011,100751,Alabama,The University of Alabama,university of alabama,university of alabama,exact
+FBS,Men,Football,2010,100858,Auburn,Auburn University,auburn university,auburn university,exact
+FBS,Men,Football,2009,100751,Alabama,The University of Alabama,university of alabama,university of alabama,exact
+FBS,Men,Football,2008,134130,Florida,University of Florida,university of florida,university of florida,exact
+FBS,Men,Football,2007,159391,LSU,Louisiana State University and Agricultural & Mechanical College,louisiana state university and agricultural mechanical college,louisiana state university and agricultural  mechanical college,fuzzy
+FBS,Men,Football,2006,134130,Florida,University of Florida,university of florida,university of florida,exact
+FBS,Men,Football,2005,228778,Texas,The University of Texas at Austin,university of texas at austin,university of texas at austin,exact
+FBS,Men,Football,2004,123961,Southern California*,University of Southern California,university of southern california,university of southern california,exact
+D2,Men,Golf,2023,136215,Nova Southeastern,Nova Southeastern University,nova southeastern,nova southeastern university,fuzzy
+D2,Men,Golf,2022,164748,Lee,Berklee College of Music,lee,berklee college of music,fuzzy
+D2,Men,Golf,2021,106467,Arkansas Tech,Arkansas Tech University,arkansas tech,arkansas tech university,fuzzy
+D2,Men,Golf,2019,132657,Lynn,Lynn University,lynn,lynn university,fuzzy
+D2,Men,Golf,2018,132657,Lynn,Lynn University,lynn,lynn university,fuzzy
+D2,Men,Golf,2017,134079,Florida Southern,Florida Southern College,florida southern,florida southern college,fuzzy
+D2,Men,Golf,2016,137032,Saint Leo,Saint Leo University,saint leo,saint leo university,fuzzy
+D2,Men,Golf,2015,136215,Nova Southeastern,Nova Southeastern University,nova southeastern,nova southeastern university,fuzzy
+D2,Men,Golf,2014,132471,Barry,Barry University,barry,barry university,fuzzy
+D2,Men,Golf,2013,132471,Barry,Barry University,barry,barry university,fuzzy
+D2,Men,Golf,2012,136215,Nova Southeastern,Nova Southeastern University,nova southeastern,nova southeastern university,fuzzy
+D2,Men,Golf,2010,134079,Florida Southern,Florida Southern College,florida southern,florida southern college,fuzzy
+D2,Men,Golf,2009,123572,Sonoma State,Sonoma State University,sonoma state,sonoma state university,fuzzy
+D2,Men,Golf,2008,138354,West Florida,University of West Florida,university of west florida,university of west florida,exact
+D2,Men,Golf,2007,132471,Barry,Barry University,barry,barry university,fuzzy
+D2,Men,Golf,2006,218645,South Carolina Aiken,University of South Carolina Aiken,south carolina aiken,university of south carolina aiken,fuzzy
+D2,Men,Golf,2005,218645,South Carolina Aiken,University of South Carolina Aiken,south carolina aiken,university of south carolina aiken,fuzzy
+D2,Men,Golf,2004,218645,South Carolina Aiken,University of South Carolina Aiken,south carolina aiken,university of south carolina aiken,fuzzy
+D2,Men,Baseball,2023,222831,*Angelo State,Angelo State University,angelo state,angelo state university,alias
+D2,Men,Baseball,2022,218441,*North Greenville,North Greenville University,north greenville,north greenville university,fuzzy
+D2,Men,Baseball,2021,199962,Wingate,Wingate University,wingate,wingate university,fuzzy
+D2,Men,Baseball,2019,137847,*Tampa,The University of Tampa,tampa,university of tampa,fuzzy
+D2,Men,Baseball,2017,216764,*West Chester,West Chester University of Pennsylvania,west chester,west chester university of pennsylvania,fuzzy
+D2,Men,Baseball,2016,136215,*Nova Southeastern,Nova Southeastern University,nova southeastern,nova southeastern university,fuzzy
+D2,Men,Baseball,2015,137847,Tampa,The University of Tampa,tampa,university of tampa,fuzzy
+D2,Men,Baseball,2014,151306,Southern Indiana,University of Southern Indiana,southern indiana,university of southern indiana,fuzzy
+D2,Men,Baseball,2013,137847,Tampa,The University of Tampa,tampa,university of tampa,fuzzy
+D2,Men,Baseball,2012,216764,West Chester,West Chester University of Pennsylvania,west chester,west chester university of pennsylvania,fuzzy
+D2,Men,Baseball,2011,138354,West Florida,University of West Florida,university of west florida,university of west florida,exact
+D2,Men,Baseball,2010,151306,Southern Indiana,University of Southern Indiana,southern indiana,university of southern indiana,fuzzy
+D2,Men,Baseball,2009,132657,Lynn,Lynn University,lynn,lynn university,fuzzy
+D2,Men,Baseball,2008,199069,*Mount Olive,University of Mount Olive,mount olive,university of mount olive,fuzzy
+D2,Men,Baseball,2007,137847,*Tampa,The University of Tampa,tampa,university of tampa,fuzzy
+D2,Men,Baseball,2006,137847,*Tampa,The University of Tampa,tampa,university of tampa,fuzzy
+D2,Men,Baseball,2005,134079,Florida Southern,Florida Southern College,florida southern,florida southern college,fuzzy
+D2,Men,Baseball,2004,175616,Delta State,Delta State University,delta state,delta state university,fuzzy
+D2,Men,Basketball,2023,136215,Nova Southeastern,Nova Southeastern University,nova southeastern,nova southeastern university,fuzzy
+D2,Men,Basketball,2022,178624,Northwest Missouri State,Northwest Missouri State University,northwest missouri state,northwest missouri state university,fuzzy
+D2,Men,Basketball,2021,178624,Northwest Missouri State,Northwest Missouri State University,northwest missouri state,northwest missouri state university,fuzzy
+D2,Men,Basketball,2019,178624,Northwest Missouri State,Northwest Missouri State University,northwest missouri state,northwest missouri state university,fuzzy
+D2,Men,Basketball,2018,169910,Ferris State,Ferris State University,ferris state,ferris state university,fuzzy
+D2,Men,Basketball,2017,178624,Northwest Missouri St.,Northwest Missouri State University,northwest missouri st,northwest missouri state university,fuzzy
+D2,Men,Basketball,2015,134079,Florida Southern,Florida Southern College,florida southern,florida southern college,fuzzy
+D2,Men,Basketball,2014,176965,Central Missouri,University of Central Missouri,central missouri,university of central missouri,fuzzy
+D2,Men,Basketball,2013,177214,Drury,Drury University,drury,drury university,fuzzy
+D2,Men,Basketball,2012,237011,Western Washington,Western Washington University,western washington,western washington university,fuzzy
+D2,Men,Basketball,2011,156286,Bellarmine,Bellarmine University,bellarmine,bellarmine university,fuzzy
+D2,Men,Basketball,2009,202763,Findlay,The University of Findlay,findlay,university of findlay,fuzzy
+D2,Men,Basketball,2008,175272,Winona State,Winona State University,winona state,winona state university,fuzzy
+D2,Men,Basketball,2007,197911,Barton,Barton College,barton,barton college,fuzzy
+D2,Men,Basketball,2006,175272,Winona State,Winona State University,winona state,winona state university,fuzzy
+D2,Men,Basketball,2005,234164,Virginia Union,Virginia Union University,virginia union,virginia union university,fuzzy
+D2,Men,Basketball,2004,486840,Kennesaw State,Kennesaw State University,kennesaw state,kennesaw state university,fuzzy
+D3,Women,Softball,2023,152567,Trine,Trine University,trine,trine university,fuzzy
+D3,Women,Softball,2022,231712,Christopher Newport,Christopher Newport University,christopher newport,christopher newport university,fuzzy
+D3,Women,Softball,2021,234173,Virginia Wesleyan,Virginia Wesleyan University,virginia wesleyan,virginia wesleyan university,fuzzy
+D3,Women,Softball,2019,228981,Texas Lutheran,Texas Lutheran University,texas lutheran,texas lutheran university,fuzzy
+D3,Women,Softball,2018,234173,Virginia Wesleyan,Virginia Wesleyan University,virginia wesleyan,virginia wesleyan university,fuzzy
+D3,Women,Softball,2017,234173,Virginia Wesleyan,Virginia Wesleyan University,virginia wesleyan,virginia wesleyan university,fuzzy
+D3,Women,Softball,2015,168148,Tufts,Tufts University,tufts,tufts university,fuzzy
+D3,Women,Softball,2014,168148,Tufts,Tufts University,tufts,tufts university,fuzzy
+D3,Women,Softball,2013,168148,*Tufts,Tufts University,tufts,tufts university,fuzzy
+D3,Women,Softball,2012,236230,*Pacific Lutheran,Pacific Lutheran University,pacific lutheran,pacific lutheran university,fuzzy
+D3,Women,Softball,2011,209065,Linfield,Linfield University,linfield,linfield university,fuzzy
+D3,Women,Softball,2010,224527,East Texas Baptist,East Texas Baptist University,east texas baptist,east texas baptist university,fuzzy
+D3,Women,Softball,2009,213996,*Messiah,Messiah University,messiah,messiah university,fuzzy
+D3,Women,Softball,2008,240268,*Wisconsin-Eau Claire,University of Wisconsin-Eau Claire,wisconsin eau claire,university of wisconsin eau claire,fuzzy
+D3,Women,Softball,2007,209065,Linfield,Linfield University,linfield,linfield university,fuzzy
+D1,Women,Indoor Track & Field,2023,106245,Arkansas,University of Arkansas at Little Rock,arkansas,university of arkansas at little rock,fuzzy
+D1,Women,Indoor Track & Field,2022,134130,Florida,University of Florida,university of florida,university of florida,exact
+D1,Women,Indoor Track & Field,2021,106245,Arkansas,University of Arkansas at Little Rock,arkansas,university of arkansas at little rock,fuzzy
+D1,Women,Indoor Track & Field,2019,106245,Arkansas,University of Arkansas at Little Rock,arkansas,university of arkansas at little rock,fuzzy
+D1,Women,Indoor Track & Field,2018,139959,Georgia,University of Georgia,university of georgia,university of georgia,exact
+D1,Women,Indoor Track & Field,2017,209551,Oregon,University of Oregon,university of oregon,university of oregon,exact
+D1,Women,Indoor Track & Field,2016,209551,Oregon,University of Oregon,university of oregon,university of oregon,exact
+D1,Women,Indoor Track & Field,2015,106245,Arkansas,University of Arkansas at Little Rock,arkansas,university of arkansas at little rock,fuzzy
+D1,Women,Indoor Track & Field,2014,209551,Oregon,University of Oregon,university of oregon,university of oregon,exact
+D1,Women,Indoor Track & Field,2013,209551,Oregon,University of Oregon,university of oregon,university of oregon,exact
+D1,Women,Indoor Track & Field,2012,209551,Oregon,University of Oregon,university of oregon,university of oregon,exact
+D1,Women,Indoor Track & Field,2011,209551,Oregon,University of Oregon,university of oregon,university of oregon,exact
+D1,Women,Indoor Track & Field,2010,209551,Oregon,University of Oregon,university of oregon,university of oregon,exact
+D1,Women,Indoor Track & Field,2009,221759,Tennessee,The University of Tennessee-Knoxville,university of tennessee knoxville,university of tennessee knoxville,exact
+D1,Women,Indoor Track & Field,2008,104151,Arizona State,Arizona State University Campus Immersion,arizona state,arizona state university campus immersion,fuzzy
+D1,Women,Indoor Track & Field,2007,104151,Arizona State,Arizona State University Campus Immersion,arizona state,arizona state university campus immersion,fuzzy
+D1,Women,Indoor Track & Field,2006,228778,Texas,The University of Texas at Austin,university of texas at austin,university of texas at austin,exact
+D1,Women,Indoor Track & Field,2005,221759,Tennessee,The University of Tennessee-Knoxville,university of tennessee knoxville,university of tennessee knoxville,exact
+D1,Women,Indoor Track & Field,2004,159391,LSU,Louisiana State University and Agricultural & Mechanical College,louisiana state university and agricultural mechanical college,louisiana state university and agricultural  mechanical college,fuzzy
+D1,Men,Tennis,2023,234076,Virginia,University of Virginia-Main Campus,university of virginia-main campus,university of virginia main campus,fuzzy
+D1,Men,Tennis,2022,234076,Virginia,University of Virginia-Main Campus,university of virginia-main campus,university of virginia main campus,fuzzy
+D1,Men,Tennis,2021,134130,Florida,University of Florida,university of florida,university of florida,exact
+D1,Men,Tennis,2019,228778,Texas,The University of Texas at Austin,university of texas at austin,university of texas at austin,exact
+D1,Men,Tennis,2018,199847,Wake Forest,Wake Forest University,wake forest,wake forest university,fuzzy
+D1,Men,Tennis,2017,234076,Virginia,University of Virginia-Main Campus,university of virginia-main campus,university of virginia main campus,fuzzy
+D1,Men,Tennis,2016,234076,Virginia,University of Virginia-Main Campus,university of virginia-main campus,university of virginia main campus,fuzzy
+D1,Men,Tennis,2015,234076,Virginia,University of Virginia-Main Campus,university of virginia-main campus,university of virginia main campus,fuzzy
+D1,Men,Tennis,2014,123961,Southern California,University of Southern California,university of southern california,university of southern california,exact
+D1,Men,Tennis,2013,234076,Virginia,University of Virginia-Main Campus,university of virginia-main campus,university of virginia main campus,fuzzy
+D1,Men,Tennis,2012,123961,Southern California,University of Southern California,university of southern california,university of southern california,exact
+D1,Men,Tennis,2011,123961,Southern California,University of Southern California,university of southern california,university of southern california,exact
+D1,Men,Tennis,2010,123961,Southern California,University of Southern California,university of southern california,university of southern california,exact
+D1,Men,Tennis,2009,123961,Southern California,University of Southern California,university of southern california,university of southern california,exact
+D1,Men,Tennis,2008,139959,Georgia,University of Georgia,university of georgia,university of georgia,exact
+D1,Men,Tennis,2007,139959,Georgia,University of Georgia,university of georgia,university of georgia,exact
+D1,Men,Tennis,2006,121150,Pepperdine,Pepperdine University,pepperdine,pepperdine university,fuzzy
+D1,Men,Tennis,2005,110662,UCLA,University of California-Los Angeles,university of california los angeles,university of california los angeles,exact
+D1,Men,Tennis,2004,223232,Baylor,Baylor University,baylor,baylor university,fuzzy
+D3,Women,Cross Country,2023,173258,Carleton,Carleton College,carleton,carleton college,fuzzy
+D3,Women,Cross Country,2022,162928,Johns Hopkins,Johns Hopkins University,johns hopkins,johns hopkins university,alias
+D3,Women,Cross Country,2021,162928,Johns Hopkins,Johns Hopkins University,johns hopkins,johns hopkins university,alias
+D3,Women,Cross Country,2019,162928,Johns Hopkins,Johns Hopkins University,johns hopkins,johns hopkins university,alias
+D3,Women,Cross Country,2017,162928,Johns Hopkins,Johns Hopkins University,johns hopkins,johns hopkins university,alias
+D3,Women,Cross Country,2016,162928,Johns Hopkins,Johns Hopkins University,johns hopkins,johns hopkins university,alias
+D3,Women,Cross Country,2015,168342,Williams,Williams College,williams college,williams college,exact
+D3,Women,Cross Country,2014,162928,Johns Hopkins,Johns Hopkins University,johns hopkins,johns hopkins university,alias
+D3,Women,Cross Country,2013,162928,Johns Hopkins,Johns Hopkins University,johns hopkins,johns hopkins university,alias
+D3,Women,Cross Country,2012,162928,Johns Hopkins,Johns Hopkins University,johns hopkins,johns hopkins university,alias
+D3,Women,Cross Country,2010,119058,Middlebury,Middlebury Institute of International Studies at Monterey,middlebury,middlebury institute of international studies at monterey,fuzzy
+D3,Women,Cross Country,2009,240268,Wisconsin-Eau Claire,University of Wisconsin-Eau Claire,wisconsin eau claire,university of wisconsin eau claire,fuzzy
+D3,Women,Cross Country,2008,119058,Middlebury,Middlebury Institute of International Studies at Monterey,middlebury,middlebury institute of international studies at monterey,fuzzy
+D3,Women,Cross Country,2007,164465,Amherst,Amherst College,amherst,amherst college,fuzzy
+D3,Women,Cross Country,2006,119058,Middlebury,Middlebury Institute of International Studies at Monterey,middlebury,middlebury institute of international studies at monterey,fuzzy
+D3,Women,Cross Country,2005,196167,SUNY Geneseo,SUNY College at Geneseo,suny geneseo,suny college at geneseo,alias
+D3,Women,Cross Country,2004,168342,Williams,Williams College,williams college,williams college,exact
+D2,Women,Swimming & Diving,2023,136215,Nova Southeastern,Nova Southeastern University,nova southeastern,nova southeastern university,fuzzy
+D2,Women,Swimming & Diving,2014,177214,Drury,Drury University,drury,drury university,fuzzy
+D2,Women,Swimming & Diving,2013,177214,Drury,Drury University,drury,drury university,fuzzy
+D2,Women,Swimming & Diving,2011,177214,Drury,Drury University,drury,drury university,fuzzy
+D2,Women,Swimming & Diving,2010,177214,Drury,Drury University,drury,drury university,fuzzy
+D2,Women,Swimming & Diving,2009,177214,Drury,Drury University,drury,drury university,fuzzy
+D2,Women,Swimming & Diving,2008,178615,Truman,Truman State University,truman,truman state university,alias
+D2,Women,Swimming & Diving,2007,177214,Drury,Drury University,drury,drury university,fuzzy
+D2,Women,Swimming & Diving,2006,178615,Truman,Truman State University,truman,truman state university,alias
+D2,Women,Swimming & Diving,2005,178615,Truman,Truman State University,truman,truman state university,alias
+D2,Women,Swimming & Diving,2004,178615,Truman,Truman State University,truman,truman state university,alias
+D3,Men,Soccer,2023,174844,St. Olaf,St Olaf College,st olaf,st olaf college,fuzzy
+D3,Men,Soccer,2021,128902,Connecticut College,Connecticut College,connecticut college,connecticut college,exact
+D3,Men,Soccer,2019,168148,Tufts,Tufts University,tufts,tufts university,fuzzy
+D3,Men,Soccer,2018,168148,Tufts,Tufts University,tufts,tufts university,fuzzy
+D3,Men,Soccer,2017,213996,Messiah,Messiah University,messiah,messiah university,fuzzy
+D3,Men,Soccer,2016,168148,Tufts,Tufts University,tufts,tufts university,fuzzy
+D3,Men,Soccer,2015,164465,Amherst,Amherst College,amherst,amherst college,fuzzy
+D3,Men,Soccer,2014,168148,Tufts,Tufts University,tufts,tufts university,fuzzy
+D3,Men,Soccer,2013,213996,Messiah,Messiah University,messiah,messiah university,fuzzy
+D3,Men,Soccer,2012,213996,Messiah,Messiah University,messiah,messiah university,fuzzy
+D3,Men,Soccer,2011,204909,Ohio Wesleyan,Ohio Wesleyan University,ohio wesleyan,ohio wesleyan university,fuzzy
+D3,Men,Soccer,2010,213996,Messiah,Messiah University,messiah,messiah university,fuzzy
+D3,Men,Soccer,2009,213996,Messiah,Messiah University,messiah,messiah university,fuzzy
+D3,Men,Soccer,2008,213996,*Messiah,Messiah University,messiah,messiah university,fuzzy
+D3,Men,Soccer,2007,119058,*Middlebury,Middlebury Institute of International Studies at Monterey,middlebury,middlebury institute of international studies at monterey,fuzzy
+D3,Men,Soccer,2006,213996,Messiah,Messiah University,messiah,messiah university,fuzzy
+D3,Men,Soccer,2005,213996,Messiah,Messiah University,messiah,messiah university,fuzzy
+D3,Men,Soccer,2004,213996,Messiah,Messiah University,messiah,messiah university,fuzzy
+D3,Men,Golf,2023,211440,Carnegie Mellon,Carnegie Mellon University,carnegie mellon,carnegie mellon university,fuzzy
+D3,Men,Golf,2022,198969,Methodist,Methodist University,methodist,methodist university,alias
+D3,Men,Golf,2021,145646,Illinois Wesleyan,Illinois Wesleyan University,illinois wesleyan,illinois wesleyan university,fuzzy
+D3,Men,Golf,2019,145646,Illinois Wesleyan,Illinois Wesleyan University,illinois wesleyan,illinois wesleyan university,fuzzy
+D3,Men,Golf,2018,198969,Methodist,Methodist University,methodist,methodist university,alias
+D3,Men,Golf,2017,206525,Wittenberg,Wittenberg University,wittenberg,wittenberg university,fuzzy
+D3,Men,Golf,2015,198969,Methodist,Methodist University,methodist,methodist university,alias
+D3,Men,Golf,2014,228042,Schreiner,Schreiner University,schreiner,schreiner university,fuzzy
+D3,Men,Golf,2012,140696,Oglethorpe,Oglethorpe University,oglethorpe,oglethorpe university,alias
+D3,Men,Golf,2011,198598,Greensboro,Greensboro College,greensboro,greensboro college,fuzzy
+D3,Men,Golf,2010,198969,Methodist,Methodist University,methodist,methodist university,alias
+D3,Men,Golf,2009,140696,Oglethorpe,Oglethorpe University,oglethorpe,oglethorpe university,alias
+D3,Men,Golf,2006,181446,Nebraska Wesleyan,Nebraska Wesleyan University,nebraska wesleyan,nebraska wesleyan university,fuzzy
+D3,Men,Golf,2005,198613,Guilford,Guilford College,guilford,guilford college,fuzzy
+D3,Men,Golf,2004,173647,Gustavus Adolphus,Gustavus Adolphus College,gustavus adolphus,gustavus adolphus college,fuzzy
+D3,Men,Outdoor Track & Field,2023,129774,MIT,Mitchell College,mit,mitchell college,fuzzy
+D3,Men,Outdoor Track & Field,2022,240268,Wisconsin-Eau Claire,University of Wisconsin-Eau Claire,wisconsin eau claire,university of wisconsin eau claire,fuzzy
+D3,Men,Outdoor Track & Field,2021,154527,Wartburg,Wartburg College,wartburg,wartburg college,fuzzy
+D3,Men,Outdoor Track & Field,2019,240268,Wisconsin-Eau Claire,University of Wisconsin-Eau Claire,wisconsin eau claire,university of wisconsin eau claire,fuzzy
+D3,Men,Outdoor Track & Field,2018,204185,Mount Union,University of Mount Union,mount union,university of mount union,fuzzy
+D3,Men,Outdoor Track & Field,2017,240329,Wisconsin-La Crosse,University of Wisconsin-La Crosse,wisconsin la crosse,university of wisconsin la crosse,fuzzy
+D3,Men,Outdoor Track & Field,2016,240329,Wisconsin-La Crosse,University of Wisconsin-La Crosse,wisconsin la crosse,university of wisconsin la crosse,fuzzy
+D3,Men,Outdoor Track & Field,2015,240329,Wisconsin-La Crosse,University of Wisconsin-La Crosse,wisconsin la crosse,university of wisconsin la crosse,fuzzy
+D3,Men,Outdoor Track & Field,2014,204185,Mount Union,University of Mount Union,mount union,university of mount union,fuzzy
+D3,Men,Outdoor Track & Field,2013,240329,Wisconsin-La Crosse,University of Wisconsin-La Crosse,wisconsin la crosse,university of wisconsin la crosse,fuzzy
+D3,Men,Outdoor Track & Field,2012,226587,McMurry,McMurry University,mcmurry,mcmurry university,fuzzy
+D3,Men,Outdoor Track & Field,2009,240365,Wisconsin-Oshkosh,University of Wisconsin-Oshkosh,wisconsin oshkosh,university of wisconsin oshkosh,fuzzy
+D3,Men,Outdoor Track & Field,2008,226587,McMurry,McMurry University,mcmurry,mcmurry university,fuzzy
+D3,Men,Outdoor Track & Field,2007,240329,Wisconsin-La Crosse,University of Wisconsin-La Crosse,wisconsin la crosse,university of wisconsin la crosse,fuzzy
+D3,Men,Outdoor Track & Field,2006,240329,Wisconsin-La Crosse,University of Wisconsin-La Crosse,wisconsin la crosse,university of wisconsin la crosse,fuzzy
+D3,Men,Outdoor Track & Field,2004,240329,Wisconsin-La Crosse,University of Wisconsin-La Crosse,wisconsin la crosse,university of wisconsin la crosse,fuzzy
+D1,Men,Indoor Track & Field,2023,106245,Arkansas,University of Arkansas at Little Rock,arkansas,university of arkansas at little rock,fuzzy
+D1,Men,Indoor Track & Field,2022,228778,Texas,The University of Texas at Austin,university of texas at austin,university of texas at austin,exact
+D1,Men,Indoor Track & Field,2021,209551,Oregon,University of Oregon,university of oregon,university of oregon,exact
+D1,Men,Indoor Track & Field,2019,134130,Florida,University of Florida,university of florida,university of florida,exact
+D1,Men,Indoor Track & Field,2018,134130,Florida,University of Florida,university of florida,university of florida,exact
+D1,Men,Indoor Track & Field,2017,228723,Texas A&M,Texas A&M University-College Station,texas am university college station,texas am university college station,exact
+D1,Men,Indoor Track & Field,2016,209551,Oregon,University of Oregon,university of oregon,university of oregon,exact
+D1,Men,Indoor Track & Field,2015,209551,Oregon,University of Oregon,university of oregon,university of oregon,exact
+D1,Men,Indoor Track & Field,2014,209551,Oregon,University of Oregon,university of oregon,university of oregon,exact
+D1,Men,Indoor Track & Field,2013,106245,Arkansas,University of Arkansas at Little Rock,arkansas,university of arkansas at little rock,fuzzy
+D1,Men,Indoor Track & Field,2012,134130,Florida,University of Florida,university of florida,university of florida,exact
+D1,Men,Indoor Track & Field,2011,134130,Florida,University of Florida,university of florida,university of florida,exact
+D1,Men,Indoor Track & Field,2010,134130,Florida,University of Florida,university of florida,university of florida,exact
+D1,Men,Indoor Track & Field,2009,209551,Oregon,University of Oregon,university of oregon,university of oregon,exact
+D1,Men,Indoor Track & Field,2008,104151,Arizona State,Arizona State University Campus Immersion,arizona state,arizona state university campus immersion,fuzzy
+D1,Men,Indoor Track & Field,2007,238616,Wisconsin,Concordia University-Wisconsin,wisconsin,concordia university wisconsin,fuzzy
+D1,Men,Indoor Track & Field,2006,106245,Arkansas,University of Arkansas at Little Rock,arkansas,university of arkansas at little rock,fuzzy
+D1,Men,Indoor Track & Field,2005,106245,Arkansas,University of Arkansas at Little Rock,arkansas,university of arkansas at little rock,fuzzy
+D1,Men,Indoor Track & Field,2004,159391,LSU,Louisiana State University and Agricultural & Mechanical College,louisiana state university and agricultural mechanical college,louisiana state university and agricultural  mechanical college,fuzzy
+D1,Women,Volleyball,2023,228778,Texas,The University of Texas at Austin,university of texas at austin,university of texas at austin,exact
+D1,Women,Volleyball,2022,228778,Texas,The University of Texas at Austin,university of texas at austin,university of texas at austin,exact
+D1,Women,Volleyball,2021,238616,Wisconsin,Concordia University-Wisconsin,wisconsin,concordia university wisconsin,fuzzy
+D1,Women,Volleyball,2020,157085,Kentucky,University of Kentucky,university of kentucky,university of kentucky,exact
+D1,Women,Volleyball,2019,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+D1,Women,Volleyball,2018,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+D1,Women,Volleyball,2017,181464,Nebraska,University of Nebraska-Lincoln,university of nebraska lincoln,university of nebraska lincoln,exact
+D1,Women,Volleyball,2016,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+D1,Women,Volleyball,2015,181464,Nebraska,University of Nebraska-Lincoln,university of nebraska lincoln,university of nebraska lincoln,exact
+D1,Women,Volleyball,2014,214777,Penn State,Pennsylvania State University-Main Campus,pennsylvania state university main campus,pennsylvania state university main campus,exact
+D1,Women,Volleyball,2013,214777,Penn State,Pennsylvania State University-Main Campus,pennsylvania state university main campus,pennsylvania state university main campus,exact
+D1,Women,Volleyball,2012,228778,Texas,The University of Texas at Austin,university of texas at austin,university of texas at austin,exact
+D1,Women,Volleyball,2011,110662,UCLA,University of California-Los Angeles,university of california los angeles,university of california los angeles,exact
+D1,Women,Volleyball,2010,214777,Penn State,Pennsylvania State University-Main Campus,pennsylvania state university main campus,pennsylvania state university main campus,exact
+D1,Women,Volleyball,2009,214777,Penn State,Pennsylvania State University-Main Campus,pennsylvania state university main campus,pennsylvania state university main campus,exact
+D1,Women,Volleyball,2008,214777,Penn State,Pennsylvania State University-Main Campus,pennsylvania state university main campus,pennsylvania state university main campus,exact
+D1,Women,Volleyball,2007,214777,Penn State,Pennsylvania State University-Main Campus,pennsylvania state university main campus,pennsylvania state university main campus,exact
+D1,Women,Volleyball,2006,181464,Nebraska,University of Nebraska-Lincoln,university of nebraska lincoln,university of nebraska lincoln,exact
+D1,Women,Volleyball,2005,131469,Washington,George Washington University,washington,george washington university,fuzzy
+D1,Women,Volleyball,2004,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+D3,Men,Baseball,2023,232609,Lynchburg,University of Lynchburg,lynchburg,university of lynchburg,alias
+D3,Men,Baseball,2022,129215,Eastern Connecticut St.,Eastern Connecticut State University,eastern connecticut st,eastern connecticut state university,fuzzy
+D3,Men,Baseball,2021,163851,Salisbury,Salisbury University,salisbury,salisbury university,fuzzy
+D3,Men,Baseball,2019,111948,Chapman,Chapman University,chapman,chapman university,fuzzy
+D3,Men,Baseball,2018,228802,UT Tyler,The University of Texas at Tyler,ut tyler,university of texas at tyler,alias
+D3,Men,Baseball,2015,196149,SUNY Cortland,State University of New York at Cortland,suny cortland,state university of new york at cortland,alias
+D3,Men,Baseball,2014,240189,Wisconsin-Whitewater,University of Wisconsin-Whitewater,wisconsin whitewater,university of wisconsin whitewater,fuzzy
+D3,Men,Baseball,2013,209065,Linfield,Linfield University,linfield,linfield university,fuzzy
+D3,Men,Baseball,2012,203845,Marietta,Marietta College,marietta,marietta college,fuzzy
+D3,Men,Baseball,2011,203845,Marietta,Marietta College,marietta,marietta college,fuzzy
+D3,Men,Baseball,2010,145646,Illinois Wesleyan,Illinois Wesleyan University,illinois wesleyan,illinois wesleyan university,fuzzy
+D3,Men,Baseball,2007,185262,Kean,Kean University,kean,kean university,alias
+D3,Men,Baseball,2006,203845,Marietta,Marietta College,marietta,marietta college,fuzzy
+D3,Men,Baseball,2005,240189,Wisconsin-Whitewater,University of Wisconsin-Whitewater,wisconsin whitewater,university of wisconsin whitewater,fuzzy
+D3,Men,Baseball,2004,208822,George Fox,George Fox University,george fox,george fox university,fuzzy
+D2,Men,Lacrosse,2023,198835,Lenoir-Rhyne,Lenoir-Rhyne University,lenoir rhyne,lenoir rhyne university,fuzzy
+D2,Men,Swimming & Diving,2023,151263,UIndy,University of Indianapolis,uindy,university of indianapolis,alias
+D2,Men,Swimming & Diving,2014,177214,Drury,Drury University,drury,drury university,fuzzy
+D2,Men,Swimming & Diving,2013,177214,Drury,Drury University,drury,drury university,fuzzy
+D2,Men,Swimming & Diving,2012,177214,Drury,Drury University,drury,drury university,fuzzy
+D2,Men,Swimming & Diving,2011,177214,Drury,Drury University,drury,drury university,fuzzy
+D2,Men,Swimming & Diving,2010,177214,Drury,Drury University,drury,drury university,fuzzy
+D2,Men,Swimming & Diving,2009,177214,Drury,Drury University,drury,drury university,fuzzy
+D2,Men,Swimming & Diving,2008,177214,Drury,Drury University,drury,drury university,fuzzy
+D2,Men,Swimming & Diving,2007,177214,Drury,Drury University,drury,drury university,fuzzy
+D2,Men,Swimming & Diving,2006,177214,Drury,Drury University,drury,drury university,fuzzy
+D2,Men,Swimming & Diving,2005,177214,Drury,Drury University,drury,drury university,fuzzy
+D2,Men,Wrestling,2023,206941,Central Oklahoma,University of Central Oklahoma,central oklahoma,university of central oklahoma,fuzzy
+D2,Men,Wrestling,2007,206941,Central Oklahoma,University of Central Oklahoma,central oklahoma,university of central oklahoma,fuzzy
+D1,Men,Basketball,2023,129020,UConn,University of Connecticut,university of connecticut,university of connecticut,exact
+D1,Men,Basketball,2022,155317,Kansas,University of Kansas,university of kansas,university of kansas,exact
+D1,Men,Basketball,2021,223232,Baylor,Baylor University,baylor,baylor university,fuzzy
+D1,Men,Basketball,2019,234076,Virginia,University of Virginia-Main Campus,university of virginia-main campus,university of virginia main campus,fuzzy
+D1,Men,Basketball,2018,216597,Villanova,Villanova University,villanova,villanova university,fuzzy
+D1,Men,Basketball,2017,199120,North Carolina,University of North Carolina at Chapel Hill,university of north carolina at chapel hill,university of north carolina at chapel hill,exact
+D1,Men,Basketball,2016,216597,Villanova,Villanova University,villanova,villanova university,fuzzy
+D1,Men,Basketball,2015,198419,Duke,Duke University,duke,duke university,fuzzy
+D1,Men,Basketball,2014,129020,Connecticut,University of Connecticut,university of connecticut,university of connecticut,exact
+D1,Men,Basketball,2013,157289,Louisville,University of Louisville,university of louisville,university of louisville,exact
+D1,Men,Basketball,2012,157085,Kentucky,University of Kentucky,university of kentucky,university of kentucky,exact
+D1,Men,Basketball,2011,129020,Connecticut,University of Connecticut,university of connecticut,university of connecticut,exact
+D1,Men,Basketball,2010,198419,Duke,Duke University,duke,duke university,fuzzy
+D1,Men,Basketball,2009,199120,North Carolina,University of North Carolina at Chapel Hill,university of north carolina at chapel hill,university of north carolina at chapel hill,exact
+D1,Men,Basketball,2008,155317,Kansas,University of Kansas,university of kansas,university of kansas,exact
+D1,Men,Basketball,2007,134130,Florida,University of Florida,university of florida,university of florida,exact
+D1,Men,Basketball,2006,134130,Florida,University of Florida,university of florida,university of florida,exact
+D1,Men,Basketball,2005,199120,North Carolina,University of North Carolina at Chapel Hill,university of north carolina at chapel hill,university of north carolina at chapel hill,exact
+D1,Men,Basketball,2004,129020,Connecticut,University of Connecticut,university of connecticut,university of connecticut,exact
+D3,Women,Golf,2023,208822,George Fox,George Fox University,george fox,george fox university,fuzzy
+D3,Women,Golf,2022,139658,Emory,Emory University,emory,emory university,fuzzy
+D3,Women,Golf,2021,198969,Methodist,Methodist University,methodist,methodist university,alias
+D3,Women,Golf,2019,193900,New York University,New York University,new york university,new york university,exact
+D3,Women,Golf,2017,221351,Rhodes,Rhodes College,rhodes,rhodes college,alias
+D3,Women,Golf,2016,221351,Rhodes,Rhodes College,rhodes,rhodes college,alias
+D3,Women,Golf,2015,168342,Williams,Williams College,williams college,williams college,exact
+D3,Women,Golf,2014,221351,Rhodes,Rhodes College,rhodes,rhodes college,alias
+D3,Women,Golf,2013,226471,Mary Hardin-Baylor,University of Mary Hardin-Baylor,mary hardin baylor,university of mary hardin baylor,fuzzy
+D3,Women,Golf,2012,198969,Methodist,Methodist University,methodist,methodist university,alias
+D3,Women,Golf,2011,198969,Methodist,Methodist University,methodist,methodist university,alias
+D3,Women,Golf,2010,198969,Methodist,Methodist University,methodist,methodist university,alias
+D3,Women,Golf,2009,198969,Methodist,Methodist University,methodist,methodist university,alias
+D3,Women,Golf,2008,198969,Methodist,Methodist University,methodist,methodist university,alias
+D3,Women,Golf,2007,198969,Methodist,Methodist University,methodist,methodist university,alias
+D3,Women,Golf,2006,198969,Methodist,Methodist University,methodist,methodist university,alias
+D3,Women,Golf,2005,198969,Methodist,Methodist University,methodist,methodist university,alias
+D3,Women,Golf,2004,198969,Methodist,Methodist University,methodist,methodist university,alias
+FCS,Men,Football,2023,219356,South Dakota State,South Dakota State University,south dakota state,south dakota state university,fuzzy
+FCS,Men,Football,2022,219356,South Dakota State,South Dakota State University,south dakota state,south dakota state university,fuzzy
+FCS,Men,Football,2021,200332,North Dakota State,North Dakota State University-Main Campus,north dakota state,north dakota state university main campus,fuzzy
+FCS,Men,Football,2020,227881,Sam Houston,Sam Houston State University,sam houston,sam houston state university,fuzzy
+FCS,Men,Football,2019,200332,North Dakota State,North Dakota State University-Main Campus,north dakota state,north dakota state university main campus,fuzzy
+FCS,Men,Football,2018,200332,North Dakota State,North Dakota State University-Main Campus,north dakota state,north dakota state university main campus,fuzzy
+FCS,Men,Football,2017,200332,North Dakota State,North Dakota State University-Main Campus,north dakota state,north dakota state university main campus,fuzzy
+FCS,Men,Football,2016,232423,James Madison,James Madison University,james madison,james madison university,fuzzy
+FCS,Men,Football,2015,200332,North Dakota State,North Dakota State University-Main Campus,north dakota state,north dakota state university main campus,fuzzy
+FCS,Men,Football,2014,200332,North Dakota State,North Dakota State University-Main Campus,north dakota state,north dakota state university main campus,fuzzy
+FCS,Men,Football,2013,200332,North Dakota State,North Dakota State University-Main Campus,north dakota state,north dakota state university main campus,fuzzy
+FCS,Men,Football,2012,200332,North Dakota State,North Dakota State University-Main Campus,north dakota state,north dakota state university main campus,fuzzy
+FCS,Men,Football,2011,200332,North Dakota State,North Dakota State University-Main Campus,north dakota state,north dakota state university main campus,fuzzy
+FCS,Men,Football,2010,235097,Eastern Washington,Eastern Washington University,eastern washington,eastern washington university,fuzzy
+FCS,Men,Football,2009,216597,Villanova,Villanova University,villanova,villanova university,fuzzy
+FCS,Men,Football,2008,233374,Richmond,University of Richmond,richmond,university of richmond,fuzzy
+FCS,Men,Football,2007,197869,Appalachian State,Appalachian State University,appalachian state,appalachian state university,fuzzy
+FCS,Men,Football,2006,197869,Appalachian State,Appalachian State University,appalachian state,appalachian state university,fuzzy
+FCS,Men,Football,2005,197869,Appalachian State,Appalachian State University,appalachian state,appalachian state university,fuzzy
+FCS,Men,Football,2004,232423,James Madison,James Madison University,james madison,james madison university,fuzzy
