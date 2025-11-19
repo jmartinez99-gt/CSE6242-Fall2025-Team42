@@ -11,3 +11,11 @@ venv/
 # IDE
 .idea/
 .vscode/
+
+# Large Project Files
+/data/processed/**
+/data/merged/**
+/data/raw/**/*.csv
+/data/raw/College_Scorecard_Raw_Data_05192025/
+/data/raw/College_Scorecard_Raw_Data_05192025/Crosswalks
+/data/tableau/**/*.csv
