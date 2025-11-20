@@ -40,6 +40,7 @@ def get_manual_map():
         "marshall": "marshall university",
         "michigan": "university of michigan ann arbor",
         "minnesota": "university of minnesota twin cities",
+        "mit": "massachusetts institute of technology",
         "nebraska": "university of nebraska lincoln",
         "north carolina": "university of north carolina at chapel hill",
         "notre dame": "university of notre dame",
