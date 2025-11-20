@@ -1,5 +1,5 @@
 Division,Gender,Sport,Year,UNITID,Champion,INSTNM,Champion_NORM,INSTNM_NORM,type_of_match
-D3,Men,Cross Country,2022,129774,MIT,Mitchell College,mit,mitchell college,fuzzy
+D3,Men,Cross Country,2022,166683,MIT,Massachusetts Institute of Technology,massachusetts institute of technology,massachusetts institute of technology,exact
 D3,Men,Cross Country,2015,240268,Wisconsin-Eau Claire,University of Wisconsin-Eau Claire,wisconsin eau claire,university of wisconsin eau claire,fuzzy
 D3,Men,Cross Country,2013,174844,St. Olaf,St Olaf College,st olaf,st olaf college,fuzzy
 D3,Men,Cross Country,2010,212911,Haverford,Haverford College,haverford,haverford college,fuzzy
