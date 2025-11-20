@@ -1,5 +1,5 @@
 Division,Gender,Sport,Year,UNITID,Champion,INSTNM,Champion_NORM,INSTNM_NORM,type_of_match
-D3,Men,Outdoor Track & Field,2023,129774,MIT,Mitchell College,mit,mitchell college,fuzzy
+D3,Men,Outdoor Track & Field,2023,166683,MIT,Massachusetts Institute of Technology,massachusetts institute of technology,massachusetts institute of technology,exact
 D3,Men,Outdoor Track & Field,2022,240268,Wisconsin-Eau Claire,University of Wisconsin-Eau Claire,wisconsin eau claire,university of wisconsin eau claire,fuzzy
 D3,Men,Outdoor Track & Field,2021,154527,Wartburg,Wartburg College,wartburg,wartburg college,fuzzy
 D3,Men,Outdoor Track & Field,2019,240268,Wisconsin-Eau Claire,University of Wisconsin-Eau Claire,wisconsin eau claire,university of wisconsin eau claire,fuzzy
