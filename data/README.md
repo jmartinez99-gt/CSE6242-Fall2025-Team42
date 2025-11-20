@@ -14,19 +14,39 @@ All_Data_Combined_2004_2005_2006_2007_2008_2009_2010_2011_2012_2013_2014_2015_20
 <https://ope.ed.gov/athletics/#/>
 
 
-## Knight Newhouse - Football Spending
-CustomReportingResultsData_FBS.xlsx
-CustomReportingResultsData_FBC.xlsx
-- each doc has info on football financials
+[//]: # (## Knight Newhouse - Football Spending)
 
-<https://knightnewhousedata.org>
+[//]: # (CustomReportingResultsData_FBS.xlsx)
+
+[//]: # (CustomReportingResultsData_FBC.xlsx)
+
+[//]: # (- each doc has info on football financials)
+
+[//]: # ()
+[//]: # (<https://knightnewhousedata.org>)
 
 
-## Academics and Test Scores
-- this is where I found the other sources 
+[//]: # (## Academics and Test Scores)
 
-<https://www.kaggle.com/datasets/alexsciences/university-test-scores>
+[//]: # (- this is where I found the other sources )
 
+[//]: # ()
+[//]: # (<https://www.kaggle.com/datasets/alexsciences/university-test-scores>)
+
+## US Census
+st-est00int-01.xls
+nst-est2020.xlsx
+NST-EST2024-POP.xlsx
+- Annual population estimates
+
+<https://www.census.gov/data/tables/time-series/demo/popest/2020s-state-total.html>
+
+
+## Federal Reserve of St. Louis
+POPTOTVIA647NWDB.xlsx
+- Annual population estimates of VI
+
+<https://fred.stlouisfed.org/series/POPTOTVIA647NWDB>
 
 # Processed Files
 ## SportParticipation_20##.csv
