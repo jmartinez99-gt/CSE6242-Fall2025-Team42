@@ -1,0 +1,18 @@
+Division,Gender,Sport,Year,UNITID,Champion,INSTNM,Champion_NORM,INSTNM_NORM,type_of_match
+D1,Men,Baseball,2023,159391,LSU,Louisiana State University and Agricultural & Mechanical College,louisiana state university and agricultural mechanical college,louisiana state university and agricultural  mechanical college,fuzzy
+D1,Men,Baseball,2022,176017,Ole Miss,University of Mississippi,university of mississippi,university of mississippi,exact
+D1,Men,Baseball,2021,176080,Mississippi State,Mississippi State University,mississippi state,mississippi state university,fuzzy
+D1,Men,Baseball,2019,221999,Vanderbilt,Vanderbilt University,vanderbilt,vanderbilt university,fuzzy
+D1,Men,Baseball,2018,209542,Oregon State,Oregon State University,oregon state,oregon state university,fuzzy
+D1,Men,Baseball,2017,134130,Florida,University of Florida,university of florida,university of florida,exact
+D1,Men,Baseball,2016,218724,Coastal Carolina,Coastal Carolina University,coastal carolina,coastal carolina university,fuzzy
+D1,Men,Baseball,2015,234076,Virginia,University of Virginia-Main Campus,university of virginia-main campus,university of virginia main campus,fuzzy
+D1,Men,Baseball,2014,221999,Vanderbilt,Vanderbilt University,vanderbilt,vanderbilt university,fuzzy
+D1,Men,Baseball,2013,110662,* UCLA,University of California-Los Angeles,university of california los angeles,university of california los angeles,exact
+D1,Men,Baseball,2012,104179,* Arizona,University of Arizona,university of arizona,university of arizona,exact
+D1,Men,Baseball,2011,218663,* South Carolina,University of South Carolina-Columbia,university of south carolina columbia,university of south carolina columbia,exact
+D1,Men,Baseball,2010,218663,South Carolina,University of South Carolina-Columbia,university of south carolina columbia,university of south carolina columbia,exact
+D1,Men,Baseball,2009,159391,LSU,Louisiana State University and Agricultural & Mechanical College,louisiana state university and agricultural mechanical college,louisiana state university and agricultural  mechanical college,fuzzy
+D1,Men,Baseball,2007,209542,* Oregon State,Oregon State University,oregon state,oregon state university,fuzzy
+D1,Men,Baseball,2006,209542,Oregon State,Oregon State University,oregon state,oregon state university,fuzzy
+D1,Men,Baseball,2005,228778,* Texas,The University of Texas at Austin,university of texas at austin,university of texas at austin,exact

@@ -1,0 +1,12 @@
+Division,Gender,Sport,Year,UNITID,Champion,INSTNM,Champion_NORM,INSTNM_NORM,type_of_match
+NC,Men,Volleyball,2023,110662,UCLA,University of California-Los Angeles,university of california los angeles,university of california los angeles,exact
+NC,Men,Volleyball,2022,141565,Hawaii,University of Hawaii at Hilo,hawaii,university of hawaii at hilo,fuzzy
+NC,Men,Volleyball,2021,141565,Hawaii,University of Hawaii at Hilo,hawaii,university of hawaii at hilo,fuzzy
+NC,Men,Volleyball,2017,204796,Ohio State,Ohio State University-Main Campus,ohio state university main campus,ohio state university main campus,exact
+NC,Men,Volleyball,2016,204796,Ohio State,Ohio State University-Main Campus,ohio state university main campus,ohio state university main campus,exact
+NC,Men,Volleyball,2011,204796,Ohio State,Ohio State University-Main Campus,ohio state university main campus,ohio state university main campus,exact
+NC,Men,Volleyball,2010,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+NC,Men,Volleyball,2008,214777,Penn State,Pennsylvania State University-Main Campus,pennsylvania state university main campus,pennsylvania state university main campus,exact
+NC,Men,Volleyball,2006,110662,UCLA,University of California-Los Angeles,university of california los angeles,university of california los angeles,exact
+NC,Men,Volleyball,2005,121150,Pepperdine,Pepperdine University,pepperdine,pepperdine university,fuzzy
+NC,Men,Volleyball,2004,230038,BYU,Brigham Young University,brigham young university,brigham young university,exact

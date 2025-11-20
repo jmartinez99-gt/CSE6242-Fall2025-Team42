@@ -1,0 +1,75 @@
+sport,gender,season,division,url
+Cross Country,Men,Fall,D1,https://www.ncaa.com/history/cross-country-men/d1
+Cross Country,Men,Fall,D2,https://www.ncaa.com/history/cross-country-men/d2
+Cross Country,Men,Fall,D3,https://www.ncaa.com/history/cross-country-men/d3
+Cross Country,Women,Fall,D1,https://www.ncaa.com/history/cross-country-women/d1
+Cross Country,Women,Fall,D2,https://www.ncaa.com/history/cross-country-women/d2
+Cross Country,Women,Fall,D3,https://www.ncaa.com/history/cross-country-women/d3
+Football,Men,Fall,D2,https://www.ncaa.com/history/football/d2
+Football,Men,Fall,D3,https://www.ncaa.com/history/football/d3
+Football,Men,Fall,FBS,https://www.ncaa.com/history/football/fbs
+Football,Men,Fall,FCS,https://www.ncaa.com/history/football/fcs
+Soccer,Men,Fall,D1,https://www.ncaa.com/history/soccer-men/d1
+Soccer,Men,Fall,D2,https://www.ncaa.com/history/soccer-men/d2
+Soccer,Men,Fall,D3,https://www.ncaa.com/history/soccer-men/d3
+Soccer,Women,Fall,D1,https://www.ncaa.com/history/soccer-women/d1
+Soccer,Women,Fall,D2,https://www.ncaa.com/history/soccer-women/d2
+Soccer,Women,Fall,D3,https://www.ncaa.com/history/soccer-women/d3
+Basketball,Men,Winter,D1,https://www.ncaa.com/history/basketball-men/d1
+Basketball,Men,Winter,D2,https://www.ncaa.com/history/basketball-men/d2
+Basketball,Men,Winter,D3,https://www.ncaa.com/history/basketball-men/d3
+Basketball,Women,Winter,D1,https://www.ncaa.com/history/basketball-women/d1
+Basketball,Women,Winter,D2,https://www.ncaa.com/history/basketball-women/d2
+Basketball,Women,Winter,D3,https://www.ncaa.com/history/basketball-women/d3
+Gymnastics,Men,Winter,NC,https://www.ncaa.com/history/gymnastics-men/nc
+Gymnastics,Women,Winter,NC,https://www.ncaa.com/history/gymnastics-women/nc
+Golf,Men,Spring,D1,https://www.ncaa.com/history/golf-men/d1
+Golf,Men,Spring,D2,https://www.ncaa.com/history/golf-men/d2
+Golf,Men,Spring,D3,https://www.ncaa.com/history/golf-men/d3
+Golf,Women,Spring,D1,https://www.ncaa.com/history/golf-women/d1
+Golf,Women,Spring,D2,https://www.ncaa.com/history/golf-women/d2
+Golf,Women,Spring,D3,https://www.ncaa.com/history/golf-women/d3
+Tennis,Men,Spring,D1,https://www.ncaa.com/history/tennis-men/d1
+Tennis,Men,Spring,D2,https://www.ncaa.com/history/tennis-men/d2
+Tennis,Men,Spring,D3,https://www.ncaa.com/history/tennis-men/d3
+Tennis,Women,Spring,D1,https://www.ncaa.com/history/tennis-women/d1
+Tennis,Women,Spring,D2,https://www.ncaa.com/history/tennis-women/d2
+Tennis,Women,Spring,D3,https://www.ncaa.com/history/tennis-women/d3
+Wrestling,Men,Winter,D1,https://www.ncaa.com/history/wrestling-men/d1
+Wrestling,Men,Winter,D2,https://www.ncaa.com/history/wrestling-men/d2
+Wrestling,Men,Winter,D3,https://www.ncaa.com/history/wrestling-men/d3
+Swimming & Diving,Men,Winter,D1,https://www.ncaa.com/history/swimming-men/d1
+Swimming & Diving,Men,Winter,D2,https://www.ncaa.com/history/swimming-men/d2
+Swimming & Diving,Men,Winter,D3,https://www.ncaa.com/history/swimming-men/d3
+Swimming & Diving,Women,Winter,D1,https://www.ncaa.com/history/swimming-women/d1
+Swimming & Diving,Women,Winter,D2,https://www.ncaa.com/history/swimming-women/d2
+Swimming & Diving,Women,Winter,D3,https://www.ncaa.com/history/swimming-women/d3
+Baseball,Men,Spring,D1,https://www.ncaa.com/history/baseball/d1
+Baseball,Men,Spring,D2,https://www.ncaa.com/history/baseball/d2
+Baseball,Men,Spring,D3,https://www.ncaa.com/history/baseball/d3
+Softball,Women,Spring,D1,https://www.ncaa.com/history/softball/d1
+Softball,Women,Spring,D2,https://www.ncaa.com/history/softball/d2
+Softball,Women,Spring,D3,https://www.ncaa.com/history/softball/d3
+Lacrosse,Men,Spring,D1,https://www.ncaa.com/history/lacrosse-men/d1
+Lacrosse,Men,Spring,D2,https://www.ncaa.com/history/lacrosse-men/d2
+Lacrosse,Men,Spring,D3,https://www.ncaa.com/history/lacrosse-men/d3
+Lacrosse,Women,Spring,D1,https://www.ncaa.com/history/lacrosse-women/d1
+Lacrosse,Women,Spring,D2,https://www.ncaa.com/history/lacrosse-women/d2
+Lacrosse,Women,Spring,D3,https://www.ncaa.com/history/lacrosse-women/d3
+Outdoor Track & Field,Men,Spring,D1,https://www.ncaa.com/history/trackfield-outdoor-men/d1
+Outdoor Track & Field,Men,Spring,D2,https://www.ncaa.com/history/trackfield-outdoor-men/d2
+Outdoor Track & Field,Men,Spring,D3,https://www.ncaa.com/history/trackfield-outdoor-men/d3
+Outdoor Track & Field,Women,Spring,D1,https://www.ncaa.com/history/trackfield-outdoor-women/d1
+Outdoor Track & Field,Women,Spring,D2,https://www.ncaa.com/history/trackfield-outdoor-women/d2
+Outdoor Track & Field,Women,Spring,D3,https://www.ncaa.com/history/trackfield-outdoor-women/d3
+Indoor Track & Field,Men,Winter,D1,https://www.ncaa.com/history/trackfield-indoor-men/d1
+Indoor Track & Field,Men,Winter,D2,https://www.ncaa.com/history/trackfield-indoor-men/d2
+Indoor Track & Field,Men,Winter,D3,https://www.ncaa.com/history/trackfield-indoor-men/d3
+Indoor Track & Field,Women,Winter,D1,https://www.ncaa.com/history/trackfield-indoor-women/d1
+Indoor Track & Field,Women,Winter,D2,https://www.ncaa.com/history/trackfield-indoor-women/d2
+Indoor Track & Field,Women,Winter,D3,https://www.ncaa.com/history/trackfield-indoor-women/d3
+Volleyball,Women,Fall,D1,https://www.ncaa.com/history/volleyball-women/d1
+Volleyball,Women,Fall,D2,https://www.ncaa.com/history/volleyball-women/d2
+Volleyball,Women,Fall,D3,https://www.ncaa.com/history/volleyball-women/d3
+Volleyball,Men,Spring,NC,https://www.ncaa.com/history/volleyball-men/nc
+Volleyball,Men,Spring,D3,https://www.ncaa.com/history/volleyball-men/d3

@@ -1,0 +1,20 @@
+Division,Gender,Sport,Year,UNITID,Champion,INSTNM,Champion_NORM,INSTNM_NORM,type_of_match
+NC,Men,Gymnastics,2023,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+NC,Men,Gymnastics,2022,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+NC,Men,Gymnastics,2021,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+NC,Men,Gymnastics,2019,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+NC,Men,Gymnastics,2018,207500,Oklahoma,University of Oklahoma-Norman Campus,university of oklahoma norman campus,university of oklahoma norman campus,exact
+NC,Men,Gymnastics,2017,207500,Oklahoma,University of Oklahoma-Norman Campus,university of oklahoma norman campus,university of oklahoma norman campus,exact
+NC,Men,Gymnastics,2016,207500,Oklahoma,University of Oklahoma-Norman Campus,university of oklahoma norman campus,university of oklahoma norman campus,exact
+NC,Men,Gymnastics,2015,207500,Oklahoma,University of Oklahoma-Norman Campus,university of oklahoma norman campus,university of oklahoma norman campus,exact
+NC,Men,Gymnastics,2014,170976,Michigan,University of Michigan-Ann Arbor,university of michigan ann arbor,university of michigan ann arbor,exact
+NC,Men,Gymnastics,2013,170976,Michigan,University of Michigan-Ann Arbor,university of michigan ann arbor,university of michigan ann arbor,exact
+NC,Men,Gymnastics,2012,144892,Illinois,Eastern Illinois University,illinois,eastern illinois university,fuzzy
+NC,Men,Gymnastics,2011,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+NC,Men,Gymnastics,2010,170976,Michigan,University of Michigan-Ann Arbor,university of michigan ann arbor,university of michigan ann arbor,exact
+NC,Men,Gymnastics,2009,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+NC,Men,Gymnastics,2008,207500,Oklahoma,University of Oklahoma-Norman Campus,university of oklahoma norman campus,university of oklahoma norman campus,exact
+NC,Men,Gymnastics,2007,214777,Penn State,Pennsylvania State University-Main Campus,pennsylvania state university main campus,pennsylvania state university main campus,exact
+NC,Men,Gymnastics,2006,207500,Oklahoma,University of Oklahoma-Norman Campus,university of oklahoma norman campus,university of oklahoma norman campus,exact
+NC,Men,Gymnastics,2005,207500,Oklahoma,University of Oklahoma-Norman Campus,university of oklahoma norman campus,university of oklahoma norman campus,exact
+NC,Men,Gymnastics,2004,214777,Penn State,Pennsylvania State University-Main Campus,pennsylvania state university main campus,pennsylvania state university main campus,exact

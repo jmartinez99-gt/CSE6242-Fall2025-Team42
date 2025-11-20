@@ -1,0 +1,20 @@
+Division,Gender,Sport,Year,UNITID,Champion,INSTNM,Champion_NORM,INSTNM_NORM,type_of_match
+D1,Women,Swimming & Diving,2023,234076,Virginia,University of Virginia-Main Campus,university of virginia-main campus,university of virginia main campus,fuzzy
+D1,Women,Swimming & Diving,2022,234076,Virginia,University of Virginia-Main Campus,university of virginia-main campus,university of virginia main campus,fuzzy
+D1,Women,Swimming & Diving,2021,234076,Virginia,University of Virginia-Main Campus,university of virginia-main campus,university of virginia main campus,fuzzy
+D1,Women,Swimming & Diving,2019,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+D1,Women,Swimming & Diving,2018,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+D1,Women,Swimming & Diving,2017,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+D1,Women,Swimming & Diving,2016,139959,Georgia,University of Georgia,university of georgia,university of georgia,exact
+D1,Women,Swimming & Diving,2015,110635,California,University of California-Berkeley,university of california berkeley,university of california berkeley,exact
+D1,Women,Swimming & Diving,2014,139959,Georgia,University of Georgia,university of georgia,university of georgia,exact
+D1,Women,Swimming & Diving,2013,139959,Georgia,University of Georgia,university of georgia,university of georgia,exact
+D1,Women,Swimming & Diving,2012,110635,California,University of California-Berkeley,university of california berkeley,university of california berkeley,exact
+D1,Women,Swimming & Diving,2011,110635,California,University of California-Berkeley,university of california berkeley,university of california berkeley,exact
+D1,Women,Swimming & Diving,2010,134130,Florida,University of Florida,university of florida,university of florida,exact
+D1,Women,Swimming & Diving,2009,110635,California,University of California-Berkeley,university of california berkeley,university of california berkeley,exact
+D1,Women,Swimming & Diving,2008,104179,Arizona,University of Arizona,university of arizona,university of arizona,exact
+D1,Women,Swimming & Diving,2007,100858,Auburn,Auburn University,auburn university,auburn university,exact
+D1,Women,Swimming & Diving,2006,100858,Auburn,Auburn University,auburn university,auburn university,exact
+D1,Women,Swimming & Diving,2005,139959,Georgia,University of Georgia,university of georgia,university of georgia,exact
+D1,Women,Swimming & Diving,2004,100858,Auburn,Auburn University,auburn university,auburn university,exact

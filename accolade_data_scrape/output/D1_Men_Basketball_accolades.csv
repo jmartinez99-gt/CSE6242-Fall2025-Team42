@@ -1,0 +1,20 @@
+Division,Gender,Sport,Year,UNITID,Champion,INSTNM,Champion_NORM,INSTNM_NORM,type_of_match
+D1,Men,Basketball,2023,129020,UConn,University of Connecticut,university of connecticut,university of connecticut,exact
+D1,Men,Basketball,2022,155317,Kansas,University of Kansas,university of kansas,university of kansas,exact
+D1,Men,Basketball,2021,223232,Baylor,Baylor University,baylor,baylor university,fuzzy
+D1,Men,Basketball,2019,234076,Virginia,University of Virginia-Main Campus,university of virginia-main campus,university of virginia main campus,fuzzy
+D1,Men,Basketball,2018,216597,Villanova,Villanova University,villanova,villanova university,fuzzy
+D1,Men,Basketball,2017,199120,North Carolina,University of North Carolina at Chapel Hill,university of north carolina at chapel hill,university of north carolina at chapel hill,exact
+D1,Men,Basketball,2016,216597,Villanova,Villanova University,villanova,villanova university,fuzzy
+D1,Men,Basketball,2015,198419,Duke,Duke University,duke,duke university,fuzzy
+D1,Men,Basketball,2014,129020,Connecticut,University of Connecticut,university of connecticut,university of connecticut,exact
+D1,Men,Basketball,2013,157289,Louisville,University of Louisville,university of louisville,university of louisville,exact
+D1,Men,Basketball,2012,157085,Kentucky,University of Kentucky,university of kentucky,university of kentucky,exact
+D1,Men,Basketball,2011,129020,Connecticut,University of Connecticut,university of connecticut,university of connecticut,exact
+D1,Men,Basketball,2010,198419,Duke,Duke University,duke,duke university,fuzzy
+D1,Men,Basketball,2009,199120,North Carolina,University of North Carolina at Chapel Hill,university of north carolina at chapel hill,university of north carolina at chapel hill,exact
+D1,Men,Basketball,2008,155317,Kansas,University of Kansas,university of kansas,university of kansas,exact
+D1,Men,Basketball,2007,134130,Florida,University of Florida,university of florida,university of florida,exact
+D1,Men,Basketball,2006,134130,Florida,University of Florida,university of florida,university of florida,exact
+D1,Men,Basketball,2005,199120,North Carolina,University of North Carolina at Chapel Hill,university of north carolina at chapel hill,university of north carolina at chapel hill,exact
+D1,Men,Basketball,2004,129020,Connecticut,University of Connecticut,university of connecticut,university of connecticut,exact

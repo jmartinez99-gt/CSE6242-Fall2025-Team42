@@ -1,0 +1,12 @@
+Division,Gender,Sport,Year,UNITID,Champion,INSTNM,Champion_NORM,INSTNM_NORM,type_of_match
+D2,Women,Swimming & Diving,2023,136215,Nova Southeastern,Nova Southeastern University,nova southeastern,nova southeastern university,fuzzy
+D2,Women,Swimming & Diving,2014,177214,Drury,Drury University,drury,drury university,fuzzy
+D2,Women,Swimming & Diving,2013,177214,Drury,Drury University,drury,drury university,fuzzy
+D2,Women,Swimming & Diving,2011,177214,Drury,Drury University,drury,drury university,fuzzy
+D2,Women,Swimming & Diving,2010,177214,Drury,Drury University,drury,drury university,fuzzy
+D2,Women,Swimming & Diving,2009,177214,Drury,Drury University,drury,drury university,fuzzy
+D2,Women,Swimming & Diving,2008,178615,Truman,Truman State University,truman,truman state university,alias
+D2,Women,Swimming & Diving,2007,177214,Drury,Drury University,drury,drury university,fuzzy
+D2,Women,Swimming & Diving,2006,178615,Truman,Truman State University,truman,truman state university,alias
+D2,Women,Swimming & Diving,2005,178615,Truman,Truman State University,truman,truman state university,alias
+D2,Women,Swimming & Diving,2004,178615,Truman,Truman State University,truman,truman state university,alias

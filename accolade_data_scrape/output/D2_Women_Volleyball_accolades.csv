@@ -1,0 +1,18 @@
+Division,Gender,Sport,Year,UNITID,Champion,INSTNM,Champion_NORM,INSTNM_NORM,type_of_match
+D2,Women,Volleyball,2023,110592,Cal State LA,California State University-Los Angeles,cal state la,california state university los angeles,alias
+D2,Women,Volleyball,2021,137847,Tampa,The University of Tampa,tampa,university of tampa,fuzzy
+D2,Women,Volleyball,2019,110510,Cal State San Bernardino,California State University-San Bernardino,cal state san bernardino,california state university san bernardino,alias
+D2,Women,Volleyball,2018,137847,Tampa,The University of Tampa,tampa,university of tampa,fuzzy
+D2,Women,Volleyball,2017,173328,Concordia-St. Paul,Concordia University-Saint Paul,concordia st paul,concordia university saint paul,alias
+D2,Women,Volleyball,2016,173328,Concordia-St. Paul,Concordia University-Saint Paul,concordia st paul,concordia university saint paul,alias
+D2,Women,Volleyball,2014,137847,Tampa,The University of Tampa,tampa,university of tampa,fuzzy
+D2,Women,Volleyball,2013,173328,Concordia-St. Paul,Concordia University-Saint Paul,concordia st paul,concordia university saint paul,alias
+D2,Women,Volleyball,2012,173328,Concordia-St. Paul,Concordia University-Saint Paul,concordia st paul,concordia university saint paul,alias
+D2,Women,Volleyball,2011,173328,Concordia-St. Paul,Concordia University-Saint Paul,concordia st paul,concordia university saint paul,alias
+D2,Women,Volleyball,2010,173328,Concordia-St. Paul,Concordia University-Saint Paul,concordia st paul,concordia university saint paul,alias
+D2,Women,Volleyball,2009,173328,Concordia-St. Paul,Concordia University-Saint Paul,concordia st paul,concordia university saint paul,alias
+D2,Women,Volleyball,2008,173328,Concordia-St. Paul,Concordia University-Saint Paul,concordia st paul,concordia university saint paul,alias
+D2,Women,Volleyball,2007,173328,Concordia-St. Paul,Concordia University-Saint Paul,concordia st paul,concordia university saint paul,alias
+D2,Women,Volleyball,2006,137847,Tampa,The University of Tampa,tampa,university of tampa,fuzzy
+D2,Women,Volleyball,2005,170082,Grand Valley State,Grand Valley State University,grand valley state,grand valley state university,fuzzy
+D2,Women,Volleyball,2004,132471,Barry,Barry University,barry,barry university,fuzzy

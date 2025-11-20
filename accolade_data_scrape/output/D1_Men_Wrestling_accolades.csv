@@ -1,0 +1,20 @@
+Division,Gender,Sport,Year,UNITID,Champion,INSTNM,Champion_NORM,INSTNM_NORM,type_of_match
+D1,Men,Wrestling,2023,214777,Penn State,Pennsylvania State University-Main Campus,pennsylvania state university main campus,pennsylvania state university main campus,exact
+D1,Men,Wrestling,2022,214777,Penn State,Pennsylvania State University-Main Campus,pennsylvania state university main campus,pennsylvania state university main campus,exact
+D1,Men,Wrestling,2021,153658,Iowa,University of Iowa,iowa,university of iowa,alias
+D1,Men,Wrestling,2019,214777,Penn State,Pennsylvania State University-Main Campus,pennsylvania state university main campus,pennsylvania state university main campus,exact
+D1,Men,Wrestling,2018,214777,Penn State,Pennsylvania State University-Main Campus,pennsylvania state university main campus,pennsylvania state university main campus,exact
+D1,Men,Wrestling,2017,214777,Penn State,Pennsylvania State University-Main Campus,pennsylvania state university main campus,pennsylvania state university main campus,exact
+D1,Men,Wrestling,2016,214777,Penn State,Pennsylvania State University-Main Campus,pennsylvania state university main campus,pennsylvania state university main campus,exact
+D1,Men,Wrestling,2015,204796,Ohio State,Ohio State University-Main Campus,ohio state university main campus,ohio state university main campus,exact
+D1,Men,Wrestling,2014,214777,Penn State,Pennsylvania State University-Main Campus,pennsylvania state university main campus,pennsylvania state university main campus,exact
+D1,Men,Wrestling,2013,214777,Penn State,Pennsylvania State University-Main Campus,pennsylvania state university main campus,pennsylvania state university main campus,exact
+D1,Men,Wrestling,2012,214777,Penn State,Pennsylvania State University-Main Campus,pennsylvania state university main campus,pennsylvania state university main campus,exact
+D1,Men,Wrestling,2011,214777,Penn State,Pennsylvania State University-Main Campus,pennsylvania state university main campus,pennsylvania state university main campus,exact
+D1,Men,Wrestling,2010,153658,Iowa,University of Iowa,iowa,university of iowa,alias
+D1,Men,Wrestling,2009,153658,Iowa,University of Iowa,iowa,university of iowa,alias
+D1,Men,Wrestling,2008,153658,Iowa,University of Iowa,iowa,university of iowa,alias
+D1,Men,Wrestling,2007,174066,Minnesota,University of Minnesota-Twin Cities,university of minnesota twin cities,university of minnesota twin cities,exact
+D1,Men,Wrestling,2006,207388,Oklahoma State,Oklahoma State University-Main Campus,oklahoma state university main campus,oklahoma state university main campus,exact
+D1,Men,Wrestling,2005,207388,Oklahoma State,Oklahoma State University-Main Campus,oklahoma state university main campus,oklahoma state university main campus,exact
+D1,Men,Wrestling,2004,207388,Oklahoma State,Oklahoma State University-Main Campus,oklahoma state university main campus,oklahoma state university main campus,exact

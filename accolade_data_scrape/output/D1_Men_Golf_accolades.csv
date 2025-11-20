@@ -1,0 +1,18 @@
+Division,Gender,Sport,Year,UNITID,Champion,INSTNM,Champion_NORM,INSTNM_NORM,type_of_match
+D1,Men,Golf,2023,134130,Florida,University of Florida,university of florida,university of florida,exact
+D1,Men,Golf,2022,228778,Texas,The University of Texas at Austin,university of texas at austin,university of texas at austin,exact
+D1,Men,Golf,2021,121150,Pepperdine,Pepperdine University,pepperdine,pepperdine university,fuzzy
+D1,Men,Golf,2019,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+D1,Men,Golf,2018,207388,Oklahoma State,Oklahoma State University-Main Campus,oklahoma state university main campus,oklahoma state university main campus,exact
+D1,Men,Golf,2017,207500,Oklahoma,University of Oklahoma-Norman Campus,university of oklahoma norman campus,university of oklahoma norman campus,exact
+D1,Men,Golf,2016,209551,Oregon,University of Oregon,university of oregon,university of oregon,exact
+D1,Men,Golf,2015,159391,LSU,Louisiana State University and Agricultural & Mechanical College,louisiana state university and agricultural mechanical college,louisiana state university and agricultural  mechanical college,fuzzy
+D1,Men,Golf,2014,100751,Alabama,The University of Alabama,university of alabama,university of alabama,exact
+D1,Men,Golf,2013,100751,Alabama,The University of Alabama,university of alabama,university of alabama,exact
+D1,Men,Golf,2012,228778,Texas,The University of Texas at Austin,university of texas at austin,university of texas at austin,exact
+D1,Men,Golf,2009,228723,Texas A&M,Texas A&M University-College Station,texas am university college station,texas am university college station,exact
+D1,Men,Golf,2008,110662,UCLA,University of California-Los Angeles,university of california los angeles,university of california los angeles,exact
+D1,Men,Golf,2007,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+D1,Men,Golf,2006,207388,Oklahoma State,Oklahoma State University-Main Campus,oklahoma state university main campus,oklahoma state university main campus,exact
+D1,Men,Golf,2005,139959,Georgia,University of Georgia,university of georgia,university of georgia,exact
+D1,Men,Golf,2004,110635,California,University of California-Berkeley,university of california berkeley,university of california berkeley,exact

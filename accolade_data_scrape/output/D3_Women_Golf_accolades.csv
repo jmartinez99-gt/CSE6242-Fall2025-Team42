@@ -1,0 +1,19 @@
+Division,Gender,Sport,Year,UNITID,Champion,INSTNM,Champion_NORM,INSTNM_NORM,type_of_match
+D3,Women,Golf,2023,208822,George Fox,George Fox University,george fox,george fox university,fuzzy
+D3,Women,Golf,2022,139658,Emory,Emory University,emory,emory university,fuzzy
+D3,Women,Golf,2021,198969,Methodist,Methodist University,methodist,methodist university,alias
+D3,Women,Golf,2019,193900,New York University,New York University,new york university,new york university,exact
+D3,Women,Golf,2017,221351,Rhodes,Rhodes College,rhodes,rhodes college,alias
+D3,Women,Golf,2016,221351,Rhodes,Rhodes College,rhodes,rhodes college,alias
+D3,Women,Golf,2015,168342,Williams,Williams College,williams college,williams college,exact
+D3,Women,Golf,2014,221351,Rhodes,Rhodes College,rhodes,rhodes college,alias
+D3,Women,Golf,2013,226471,Mary Hardin-Baylor,University of Mary Hardin-Baylor,mary hardin baylor,university of mary hardin baylor,fuzzy
+D3,Women,Golf,2012,198969,Methodist,Methodist University,methodist,methodist university,alias
+D3,Women,Golf,2011,198969,Methodist,Methodist University,methodist,methodist university,alias
+D3,Women,Golf,2010,198969,Methodist,Methodist University,methodist,methodist university,alias
+D3,Women,Golf,2009,198969,Methodist,Methodist University,methodist,methodist university,alias
+D3,Women,Golf,2008,198969,Methodist,Methodist University,methodist,methodist university,alias
+D3,Women,Golf,2007,198969,Methodist,Methodist University,methodist,methodist university,alias
+D3,Women,Golf,2006,198969,Methodist,Methodist University,methodist,methodist university,alias
+D3,Women,Golf,2005,198969,Methodist,Methodist University,methodist,methodist university,alias
+D3,Women,Golf,2004,198969,Methodist,Methodist University,methodist,methodist university,alias

@@ -1,0 +1,16 @@
+Division,Gender,Sport,Year,UNITID,Champion,INSTNM,Champion_NORM,INSTNM_NORM,type_of_match
+D2,Women,Lacrosse,2023,194310,Pace,Pace University,pace,pace university,fuzzy
+D2,Women,Lacrosse,2022,151263,UIndy,University of Indianapolis,uindy,university of indianapolis,alias
+D2,Women,Lacrosse,2019,188429,Adelphi,Adelphi University,adelphi,adelphi university,fuzzy
+D2,Women,Lacrosse,2018,192323,Le Moyne,Le Moyne College,le moyne,le moyne college,fuzzy
+D2,Women,Lacrosse,2017,188429,Adelphi,Adelphi University,adelphi,adelphi university,fuzzy
+D2,Women,Lacrosse,2016,134079,Florida Southern,Florida Southern College,florida southern,florida southern college,fuzzy
+D2,Women,Lacrosse,2015,188429,Adelphi,Adelphi University,adelphi,adelphi university,fuzzy
+D2,Women,Lacrosse,2014,188429,Adelphi,Adelphi University,adelphi,adelphi university,fuzzy
+D2,Women,Lacrosse,2011,188429,Adelphi,Adelphi University,adelphi,adelphi university,fuzzy
+D2,Women,Lacrosse,2010,188429,Adelphi,Adelphi University,adelphi,adelphi university,fuzzy
+D2,Women,Lacrosse,2009,188429,Adelphi,Adelphi University,adelphi,adelphi university,fuzzy
+D2,Women,Lacrosse,2008,216764,West Chester,West Chester University of Pennsylvania,west chester,west chester university of pennsylvania,fuzzy
+D2,Women,Lacrosse,2006,188429,Adelphi,Adelphi University,adelphi,adelphi university,fuzzy
+D2,Women,Lacrosse,2005,167996,Stonehill,Stonehill College,stonehill,stonehill college,fuzzy
+D2,Women,Lacrosse,2004,188429,Adelphi,Adelphi University,adelphi,adelphi university,fuzzy

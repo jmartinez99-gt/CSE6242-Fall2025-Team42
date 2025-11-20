@@ -1,0 +1,18 @@
+Division,Gender,Sport,Year,UNITID,Champion,INSTNM,Champion_NORM,INSTNM_NORM,type_of_match
+D2,Men,Football,2023,107044,Harding,Harding University,harding,harding university,fuzzy
+D2,Men,Football,2022,169910,Ferris State,Ferris State University,ferris state,ferris state university,fuzzy
+D2,Men,Football,2021,169910,Ferris State,Ferris State University,ferris state,ferris state university,fuzzy
+D2,Men,Football,2019,138354,West Florida,University of West Florida,university of west florida,university of west florida,exact
+D2,Men,Football,2018,141264,Valdosta State,Valdosta State University,valdosta state,valdosta state university,fuzzy
+D2,Men,Football,2016,178624,Northwest Missouri State,Northwest Missouri State University,northwest missouri state,northwest missouri state university,fuzzy
+D2,Men,Football,2015,178624,Northwest Missouri State,Northwest Missouri State University,northwest missouri state,northwest missouri state university,fuzzy
+D2,Men,Football,2013,178624,Northwest Missouri State,Northwest Missouri State University,northwest missouri state,northwest missouri state university,fuzzy
+D2,Men,Football,2012,141264,Valdosta State,Valdosta State University,valdosta state,valdosta state university,fuzzy
+D2,Men,Football,2011,155681,Pittsburg State,Pittsburg State University,pittsburg state,pittsburg state university,fuzzy
+D2,Men,Football,2010,174233,Minnesota-Duluth,University of Minnesota-Duluth,minnesota duluth,university of minnesota duluth,fuzzy
+D2,Men,Football,2009,178624,Northwest Missouri State,Northwest Missouri State University,northwest missouri state,northwest missouri state university,fuzzy
+D2,Men,Football,2008,174233,Minnesota-Duluth,University of Minnesota-Duluth,minnesota duluth,university of minnesota duluth,fuzzy
+D2,Men,Football,2007,141264,Valdosta State,Valdosta State University,valdosta state,valdosta state university,fuzzy
+D2,Men,Football,2006,170082,Grand Valley State,Grand Valley State University,grand valley state,grand valley state university,fuzzy
+D2,Men,Football,2005,170082,Grand Valley State,Grand Valley State University,grand valley state,grand valley state university,fuzzy
+D2,Men,Football,2004,141264,Valdosta State,Valdosta State University,valdosta state,valdosta state university,fuzzy

@@ -1,0 +1,16 @@
+Division,Gender,Sport,Year,UNITID,Champion,INSTNM,Champion_NORM,INSTNM_NORM,type_of_match
+D3,Men,Baseball,2023,232609,Lynchburg,University of Lynchburg,lynchburg,university of lynchburg,alias
+D3,Men,Baseball,2022,129215,Eastern Connecticut St.,Eastern Connecticut State University,eastern connecticut st,eastern connecticut state university,fuzzy
+D3,Men,Baseball,2021,163851,Salisbury,Salisbury University,salisbury,salisbury university,fuzzy
+D3,Men,Baseball,2019,111948,Chapman,Chapman University,chapman,chapman university,fuzzy
+D3,Men,Baseball,2018,228802,UT Tyler,The University of Texas at Tyler,ut tyler,university of texas at tyler,alias
+D3,Men,Baseball,2015,196149,SUNY Cortland,State University of New York at Cortland,suny cortland,state university of new york at cortland,alias
+D3,Men,Baseball,2014,240189,Wisconsin-Whitewater,University of Wisconsin-Whitewater,wisconsin whitewater,university of wisconsin whitewater,fuzzy
+D3,Men,Baseball,2013,209065,Linfield,Linfield University,linfield,linfield university,fuzzy
+D3,Men,Baseball,2012,203845,Marietta,Marietta College,marietta,marietta college,fuzzy
+D3,Men,Baseball,2011,203845,Marietta,Marietta College,marietta,marietta college,fuzzy
+D3,Men,Baseball,2010,145646,Illinois Wesleyan,Illinois Wesleyan University,illinois wesleyan,illinois wesleyan university,fuzzy
+D3,Men,Baseball,2007,185262,Kean,Kean University,kean,kean university,alias
+D3,Men,Baseball,2006,203845,Marietta,Marietta College,marietta,marietta college,fuzzy
+D3,Men,Baseball,2005,240189,Wisconsin-Whitewater,University of Wisconsin-Whitewater,wisconsin whitewater,university of wisconsin whitewater,fuzzy
+D3,Men,Baseball,2004,208822,George Fox,George Fox University,george fox,george fox university,fuzzy

@@ -1,0 +1,21 @@
+Division,Gender,Sport,Year,UNITID,Champion,INSTNM,Champion_NORM,INSTNM_NORM,type_of_match
+D1,Men,Cross Country,2023,207388,Oklahoma State,Oklahoma State University-Main Campus,oklahoma state university main campus,oklahoma state university main campus,exact
+D1,Men,Cross Country,2022,105330,Northern Arizona,Northern Arizona University,northern arizona,northern arizona university,fuzzy
+D1,Men,Cross Country,2021,105330,Northern Arizona,Northern Arizona University,northern arizona,northern arizona university,fuzzy
+D1,Men,Cross Country,2020,105330,Northern Arizona,Northern Arizona University,northern arizona,northern arizona university,fuzzy
+D1,Men,Cross Country,2019,230038,BYU,Brigham Young University,brigham young university,brigham young university,exact
+D1,Men,Cross Country,2018,105330,Northern Arizona,Northern Arizona University,northern arizona,northern arizona university,fuzzy
+D1,Men,Cross Country,2017,105330,Northern Arizona,Northern Arizona University,northern arizona,northern arizona university,fuzzy
+D1,Men,Cross Country,2016,105330,Northern Arizona,Northern Arizona University,northern arizona,northern arizona university,fuzzy
+D1,Men,Cross Country,2015,196413,Syracuse,Syracuse University,syracuse university,syracuse university,exact
+D1,Men,Cross Country,2014,126580,Colorado,University of Colorado Colorado Springs,colorado,university of colorado colorado springs,fuzzy
+D1,Men,Cross Country,2013,126580,Colorado,University of Colorado Colorado Springs,colorado,university of colorado colorado springs,fuzzy
+D1,Men,Cross Country,2012,207388,Oklahoma State,Oklahoma State University-Main Campus,oklahoma state university main campus,oklahoma state university main campus,exact
+D1,Men,Cross Country,2011,238616,Wisconsin,Concordia University-Wisconsin,wisconsin,concordia university wisconsin,fuzzy
+D1,Men,Cross Country,2010,207388,Oklahoma State,Oklahoma State University-Main Campus,oklahoma state university main campus,oklahoma state university main campus,exact
+D1,Men,Cross Country,2009,207388,Oklahoma State,Oklahoma State University-Main Campus,oklahoma state university main campus,oklahoma state university main campus,exact
+D1,Men,Cross Country,2008,209551,Oregon,University of Oregon,university of oregon,university of oregon,exact
+D1,Men,Cross Country,2007,209551,Oregon,University of Oregon,university of oregon,university of oregon,exact
+D1,Men,Cross Country,2006,126580,Colorado,University of Colorado Colorado Springs,colorado,university of colorado colorado springs,fuzzy
+D1,Men,Cross Country,2005,238616,Wisconsin,Concordia University-Wisconsin,wisconsin,concordia university wisconsin,fuzzy
+D1,Men,Cross Country,2004,126580,Colorado,University of Colorado Colorado Springs,colorado,university of colorado colorado springs,fuzzy

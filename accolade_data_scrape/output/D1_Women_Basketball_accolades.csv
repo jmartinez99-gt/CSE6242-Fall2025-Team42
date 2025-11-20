@@ -1,0 +1,20 @@
+Division,Gender,Sport,Year,UNITID,Champion,INSTNM,Champion_NORM,INSTNM_NORM,type_of_match
+D1,Women,Basketball,2023,159391,LSU,Louisiana State University and Agricultural & Mechanical College,louisiana state university and agricultural mechanical college,louisiana state university and agricultural  mechanical college,fuzzy
+D1,Women,Basketball,2022,218663,South Carolina,University of South Carolina-Columbia,university of south carolina columbia,university of south carolina columbia,exact
+D1,Women,Basketball,2021,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+D1,Women,Basketball,2019,223232,Baylor,Baylor University,baylor,baylor university,fuzzy
+D1,Women,Basketball,2018,152080,Notre Dame,University of Notre Dame,university of notre dame,university of notre dame,exact
+D1,Women,Basketball,2017,218663,South Carolina,University of South Carolina-Columbia,university of south carolina columbia,university of south carolina columbia,exact
+D1,Women,Basketball,2016,129020,Connecticut,University of Connecticut,university of connecticut,university of connecticut,exact
+D1,Women,Basketball,2015,129020,Connecticut,University of Connecticut,university of connecticut,university of connecticut,exact
+D1,Women,Basketball,2014,129020,Connecticut,University of Connecticut,university of connecticut,university of connecticut,exact
+D1,Women,Basketball,2013,129020,Connecticut,University of Connecticut,university of connecticut,university of connecticut,exact
+D1,Women,Basketball,2012,223232,Baylor,Baylor University,baylor,baylor university,fuzzy
+D1,Women,Basketball,2011,228723,Texas A&M,Texas A&M University-College Station,texas am university college station,texas am university college station,exact
+D1,Women,Basketball,2010,129020,Connecticut,University of Connecticut,university of connecticut,university of connecticut,exact
+D1,Women,Basketball,2009,129020,Connecticut,University of Connecticut,university of connecticut,university of connecticut,exact
+D1,Women,Basketball,2008,221759,Tennessee,The University of Tennessee-Knoxville,university of tennessee knoxville,university of tennessee knoxville,exact
+D1,Women,Basketball,2007,221759,Tennessee,The University of Tennessee-Knoxville,university of tennessee knoxville,university of tennessee knoxville,exact
+D1,Women,Basketball,2006,163286,Maryland,University of Maryland-College Park,university of maryland college park,university of maryland college park,exact
+D1,Women,Basketball,2005,223232,Baylor,Baylor University,baylor,baylor university,fuzzy
+D1,Women,Basketball,2004,129020,Connecticut,University of Connecticut,university of connecticut,university of connecticut,exact

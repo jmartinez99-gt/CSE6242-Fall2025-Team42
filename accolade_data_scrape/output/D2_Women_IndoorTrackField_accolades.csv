@@ -1,0 +1,12 @@
+Division,Gender,Sport,Year,UNITID,Champion,INSTNM,Champion_NORM,INSTNM_NORM,type_of_match
+D2,Women,Indoor Track & Field,2023,126182,Adams State,Adams State University,adams state,adams state university,fuzzy
+D2,Women,Indoor Track & Field,2022,428453,Minnesota State,Minnesota State Colleges and Universities System Office,minnesota state,minnesota state colleges and universities system office,alias
+D2,Women,Indoor Track & Field,2021,170082,Grand Valley State,Grand Valley State University,grand valley state,grand valley state university,fuzzy
+D2,Women,Indoor Track & Field,2019,126182,Adams State,Adams State University,adams state,adams state university,fuzzy
+D2,Women,Indoor Track & Field,2017,126182,Adams State,Adams State University,adams state,adams state university,fuzzy
+D2,Women,Indoor Track & Field,2015,176965,Central Missouri,University of Central Missouri,central missouri,university of central missouri,fuzzy
+D2,Women,Indoor Track & Field,2014,126182,Adams State,Adams State University,adams state,adams state university,fuzzy
+D2,Women,Indoor Track & Field,2013,108232,Academy of Art,Academy of Art University,academy of art,academy of art university,fuzzy
+D2,Women,Indoor Track & Field,2012,170082,Grand Valley State,Grand Valley State University,grand valley state,grand valley state university,fuzzy
+D2,Women,Indoor Track & Field,2011,170082,Grand Valley State,Grand Valley State University,grand valley state,grand valley state university,fuzzy
+D2,Women,Indoor Track & Field,2008,126182,Adams State,Adams State University,adams state,adams state university,fuzzy

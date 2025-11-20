@@ -1,0 +1,15 @@
+Division,Gender,Sport,Year,UNITID,Champion,INSTNM,Champion_NORM,INSTNM_NORM,type_of_match
+D3,Women,Volleyball,2023,213251,Juniata,Juniata College,juniata,juniata college,fuzzy
+D3,Women,Volleyball,2022,213251,Juniata,Juniata College,juniata,juniata college,fuzzy
+D3,Women,Volleyball,2021,240268,Wisconsin-Eau Claire,University of Wisconsin-Eau Claire,wisconsin eau claire,university of wisconsin eau claire,fuzzy
+D3,Women,Volleyball,2019,162928,Johns Hopkins,Johns Hopkins University,johns hopkins,johns hopkins university,alias
+D3,Women,Volleyball,2018,139658,Emory,Emory University,emory,emory university,fuzzy
+D3,Women,Volleyball,2016,169080,Calvin,Calvin University,calvin,calvin university,alias
+D3,Women,Volleyball,2014,170301,Hope,Hope College,hope college,hope college,exact
+D3,Women,Volleyball,2013,169080,Calvin,Calvin University,calvin,calvin university,alias
+D3,Women,Volleyball,2011,206525,Wittenberg,Wittenberg University,wittenberg,wittenberg university,fuzzy
+D3,Women,Volleyball,2010,169080,Calvin,Calvin University,calvin,calvin university,alias
+D3,Women,Volleyball,2008,139658,Emory,Emory University,emory,emory university,fuzzy
+D3,Women,Volleyball,2006,213251,Juniata,Juniata College,juniata,juniata college,fuzzy
+D3,Women,Volleyball,2005,240189,Wisconsin-Whitewater,University of Wisconsin-Whitewater,wisconsin whitewater,university of wisconsin whitewater,fuzzy
+D3,Women,Volleyball,2004,213251,Juniata,Juniata College,juniata,juniata college,fuzzy

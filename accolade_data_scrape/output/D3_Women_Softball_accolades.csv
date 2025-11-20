@@ -1,0 +1,16 @@
+Division,Gender,Sport,Year,UNITID,Champion,INSTNM,Champion_NORM,INSTNM_NORM,type_of_match
+D3,Women,Softball,2023,152567,Trine,Trine University,trine,trine university,fuzzy
+D3,Women,Softball,2022,231712,Christopher Newport,Christopher Newport University,christopher newport,christopher newport university,fuzzy
+D3,Women,Softball,2021,234173,Virginia Wesleyan,Virginia Wesleyan University,virginia wesleyan,virginia wesleyan university,fuzzy
+D3,Women,Softball,2019,228981,Texas Lutheran,Texas Lutheran University,texas lutheran,texas lutheran university,fuzzy
+D3,Women,Softball,2018,234173,Virginia Wesleyan,Virginia Wesleyan University,virginia wesleyan,virginia wesleyan university,fuzzy
+D3,Women,Softball,2017,234173,Virginia Wesleyan,Virginia Wesleyan University,virginia wesleyan,virginia wesleyan university,fuzzy
+D3,Women,Softball,2015,168148,Tufts,Tufts University,tufts,tufts university,fuzzy
+D3,Women,Softball,2014,168148,Tufts,Tufts University,tufts,tufts university,fuzzy
+D3,Women,Softball,2013,168148,*Tufts,Tufts University,tufts,tufts university,fuzzy
+D3,Women,Softball,2012,236230,*Pacific Lutheran,Pacific Lutheran University,pacific lutheran,pacific lutheran university,fuzzy
+D3,Women,Softball,2011,209065,Linfield,Linfield University,linfield,linfield university,fuzzy
+D3,Women,Softball,2010,224527,East Texas Baptist,East Texas Baptist University,east texas baptist,east texas baptist university,fuzzy
+D3,Women,Softball,2009,213996,*Messiah,Messiah University,messiah,messiah university,fuzzy
+D3,Women,Softball,2008,240268,*Wisconsin-Eau Claire,University of Wisconsin-Eau Claire,wisconsin eau claire,university of wisconsin eau claire,fuzzy
+D3,Women,Softball,2007,209065,Linfield,Linfield University,linfield,linfield university,fuzzy

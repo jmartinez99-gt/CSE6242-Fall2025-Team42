@@ -1,0 +1,19 @@
+Division,Gender,Sport,Year,UNITID,Champion,INSTNM,Champion_NORM,INSTNM_NORM,type_of_match
+D3,Men,Soccer,2023,174844,St. Olaf,St Olaf College,st olaf,st olaf college,fuzzy
+D3,Men,Soccer,2021,128902,Connecticut College,Connecticut College,connecticut college,connecticut college,exact
+D3,Men,Soccer,2019,168148,Tufts,Tufts University,tufts,tufts university,fuzzy
+D3,Men,Soccer,2018,168148,Tufts,Tufts University,tufts,tufts university,fuzzy
+D3,Men,Soccer,2017,213996,Messiah,Messiah University,messiah,messiah university,fuzzy
+D3,Men,Soccer,2016,168148,Tufts,Tufts University,tufts,tufts university,fuzzy
+D3,Men,Soccer,2015,164465,Amherst,Amherst College,amherst,amherst college,fuzzy
+D3,Men,Soccer,2014,168148,Tufts,Tufts University,tufts,tufts university,fuzzy
+D3,Men,Soccer,2013,213996,Messiah,Messiah University,messiah,messiah university,fuzzy
+D3,Men,Soccer,2012,213996,Messiah,Messiah University,messiah,messiah university,fuzzy
+D3,Men,Soccer,2011,204909,Ohio Wesleyan,Ohio Wesleyan University,ohio wesleyan,ohio wesleyan university,fuzzy
+D3,Men,Soccer,2010,213996,Messiah,Messiah University,messiah,messiah university,fuzzy
+D3,Men,Soccer,2009,213996,Messiah,Messiah University,messiah,messiah university,fuzzy
+D3,Men,Soccer,2008,213996,*Messiah,Messiah University,messiah,messiah university,fuzzy
+D3,Men,Soccer,2007,119058,*Middlebury,Middlebury Institute of International Studies at Monterey,middlebury,middlebury institute of international studies at monterey,fuzzy
+D3,Men,Soccer,2006,213996,Messiah,Messiah University,messiah,messiah university,fuzzy
+D3,Men,Soccer,2005,213996,Messiah,Messiah University,messiah,messiah university,fuzzy
+D3,Men,Soccer,2004,213996,Messiah,Messiah University,messiah,messiah university,fuzzy

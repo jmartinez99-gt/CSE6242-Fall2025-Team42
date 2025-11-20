@@ -1,0 +1,17 @@
+Division,Gender,Sport,Year,UNITID,Champion,INSTNM,Champion_NORM,INSTNM_NORM,type_of_match
+D3,Men,Outdoor Track & Field,2023,129774,MIT,Mitchell College,mit,mitchell college,fuzzy
+D3,Men,Outdoor Track & Field,2022,240268,Wisconsin-Eau Claire,University of Wisconsin-Eau Claire,wisconsin eau claire,university of wisconsin eau claire,fuzzy
+D3,Men,Outdoor Track & Field,2021,154527,Wartburg,Wartburg College,wartburg,wartburg college,fuzzy
+D3,Men,Outdoor Track & Field,2019,240268,Wisconsin-Eau Claire,University of Wisconsin-Eau Claire,wisconsin eau claire,university of wisconsin eau claire,fuzzy
+D3,Men,Outdoor Track & Field,2018,204185,Mount Union,University of Mount Union,mount union,university of mount union,fuzzy
+D3,Men,Outdoor Track & Field,2017,240329,Wisconsin-La Crosse,University of Wisconsin-La Crosse,wisconsin la crosse,university of wisconsin la crosse,fuzzy
+D3,Men,Outdoor Track & Field,2016,240329,Wisconsin-La Crosse,University of Wisconsin-La Crosse,wisconsin la crosse,university of wisconsin la crosse,fuzzy
+D3,Men,Outdoor Track & Field,2015,240329,Wisconsin-La Crosse,University of Wisconsin-La Crosse,wisconsin la crosse,university of wisconsin la crosse,fuzzy
+D3,Men,Outdoor Track & Field,2014,204185,Mount Union,University of Mount Union,mount union,university of mount union,fuzzy
+D3,Men,Outdoor Track & Field,2013,240329,Wisconsin-La Crosse,University of Wisconsin-La Crosse,wisconsin la crosse,university of wisconsin la crosse,fuzzy
+D3,Men,Outdoor Track & Field,2012,226587,McMurry,McMurry University,mcmurry,mcmurry university,fuzzy
+D3,Men,Outdoor Track & Field,2009,240365,Wisconsin-Oshkosh,University of Wisconsin-Oshkosh,wisconsin oshkosh,university of wisconsin oshkosh,fuzzy
+D3,Men,Outdoor Track & Field,2008,226587,McMurry,McMurry University,mcmurry,mcmurry university,fuzzy
+D3,Men,Outdoor Track & Field,2007,240329,Wisconsin-La Crosse,University of Wisconsin-La Crosse,wisconsin la crosse,university of wisconsin la crosse,fuzzy
+D3,Men,Outdoor Track & Field,2006,240329,Wisconsin-La Crosse,University of Wisconsin-La Crosse,wisconsin la crosse,university of wisconsin la crosse,fuzzy
+D3,Men,Outdoor Track & Field,2004,240329,Wisconsin-La Crosse,University of Wisconsin-La Crosse,wisconsin la crosse,university of wisconsin la crosse,fuzzy

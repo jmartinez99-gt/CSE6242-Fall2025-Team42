@@ -1,0 +1,15 @@
+Division,Gender,Sport,Year,UNITID,Champion,INSTNM,Champion_NORM,INSTNM_NORM,type_of_match
+D2,Men,Soccer,2023,182795,Franklin Pierce,Franklin Pierce University,franklin pierce,franklin pierce university,fuzzy
+D2,Men,Soccer,2022,182795,Franklin Pierce,Franklin Pierce University,franklin pierce,franklin pierce university,fuzzy
+D2,Men,Soccer,2021,110592,Cal State LA,California State University-Los Angeles,cal state la,california state university los angeles,alias
+D2,Men,Soccer,2018,132471,Barry,Barry University,barry,barry university,fuzzy
+D2,Men,Soccer,2016,199962,Wingate,Wingate University,wingate,wingate university,fuzzy
+D2,Men,Soccer,2015,199306,Pfeiffer,Pfeiffer University,pfeiffer,pfeiffer university,fuzzy
+D2,Men,Soccer,2014,132657,Lynn,Lynn University,lynn,lynn university,fuzzy
+D2,Men,Soccer,2012,132657,Lynn,Lynn University,lynn,lynn university,fuzzy
+D2,Men,Soccer,2011,127185,Fort Lewis,Fort Lewis College,fort lewis,fort lewis college,fuzzy
+D2,Men,Soccer,2010,157447,Northern Kentucky,Northern Kentucky University,northern kentucky,northern kentucky university,fuzzy
+D2,Men,Soccer,2009,127185,Fort Lewis,Fort Lewis College,fort lewis,fort lewis college,fuzzy
+D2,Men,Soccer,2007,182795,Franklin Pierce,Franklin Pierce University,franklin pierce,franklin pierce university,fuzzy
+D2,Men,Soccer,2005,127185,Fort Lewis,Fort Lewis College,fort lewis,fort lewis college,fuzzy
+D2,Men,Soccer,2004,234915,Seattle,City University of Seattle,seattle,city university of seattle,fuzzy

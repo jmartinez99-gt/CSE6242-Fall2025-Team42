@@ -1,0 +1,15 @@
+Division,Gender,Sport,Year,UNITID,Champion,INSTNM,Champion_NORM,INSTNM_NORM,type_of_match
+D3,Women,Basketball,2023,157818,Transylvania,Transylvania University,transylvania,transylvania university,fuzzy
+D3,Women,Basketball,2022,170301,Hope,Hope College,hope college,hope college,exact
+D3,Women,Basketball,2019,157809,Thomas More,Thomas More University,thomas more,thomas more university,alias
+D3,Women,Basketball,2018,164465,Amherst,Amherst College,amherst,amherst college,fuzzy
+D3,Women,Basketball,2017,164465,Amherst,Amherst College,amherst,amherst college,fuzzy
+D3,Women,Basketball,2016,157809,Thomas More,Thomas More University,thomas more,thomas more university,alias
+D3,Women,Basketball,2015,157809,Thomas More,Thomas More University,thomas more,thomas more university,alias
+D3,Women,Basketball,2013,150400,DePauw,DePauw University,depauw,depauw university,alias
+D3,Women,Basketball,2012,145646,Illinois Wesleyan,Illinois Wesleyan University,illinois wesleyan,illinois wesleyan university,fuzzy
+D3,Women,Basketball,2011,164465,Amherst,Amherst College,amherst,amherst college,fuzzy
+D3,Women,Basketball,2009,208822,George Fox,George Fox University,george fox,george fox university,fuzzy
+D3,Women,Basketball,2008,225548,Howard Payne,Howard Payne University,howard payne,howard payne university,fuzzy
+D3,Women,Basketball,2007,150400,DePauw,DePauw University,depauw,depauw university,alias
+D3,Women,Basketball,2006,170301,Hope,Hope College,hope college,hope college,exact

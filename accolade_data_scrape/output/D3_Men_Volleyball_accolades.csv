@@ -1,0 +1,10 @@
+Division,Gender,Sport,Year,UNITID,Champion,INSTNM,Champion_NORM,INSTNM_NORM,type_of_match
+D3,Men,Volleyball,2023,186867,Stevens Institute,Stevens Institute of Technology,stevens institute,stevens institute of technology,fuzzy
+D3,Men,Volleyball,2022,238476,Carthage,Carthage College,carthage,carthage college,alias
+D3,Men,Volleyball,2021,238476,Carthage,Carthage College,carthage,carthage college,alias
+D3,Men,Volleyball,2018,148654,Springfield,University of Illinois Springfield,springfield,university of illinois springfield,fuzzy
+D3,Men,Volleyball,2017,148654,Springfield,University of Illinois Springfield,springfield,university of illinois springfield,fuzzy
+D3,Men,Volleyball,2015,186867,Stevens Institute,Stevens Institute of Technology,stevens institute,stevens institute of technology,fuzzy
+D3,Men,Volleyball,2014,148654,Springfield,University of Illinois Springfield,springfield,university of illinois springfield,fuzzy
+D3,Men,Volleyball,2013,148654,Springfield,University of Illinois Springfield,springfield,university of illinois springfield,fuzzy
+D3,Men,Volleyball,2012,148654,Springfield,University of Illinois Springfield,springfield,university of illinois springfield,fuzzy

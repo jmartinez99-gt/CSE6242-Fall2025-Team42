@@ -1,0 +1,20 @@
+Division,Gender,Sport,Year,UNITID,Champion,INSTNM,Champion_NORM,INSTNM_NORM,type_of_match
+D2,Women,Golf,2023,224226,DBU,Dallas Baptist University,dbu,dallas baptist university,alias
+D2,Women,Golf,2022,202763,Findlay,The University of Findlay,findlay,university of findlay,fuzzy
+D2,Women,Golf,2021,224226,DBU,Dallas Baptist University,dbu,dallas baptist university,alias
+D2,Women,Golf,2019,133881,Florida Tech,Florida Institute of Technology,florida tech,florida institute of technology,alias
+D2,Women,Golf,2018,151111,Indianapolis,Indiana University-Indianapolis,indianapolis,indiana university indianapolis,fuzzy
+D2,Women,Golf,2017,132471,Barry,Barry University,barry,barry university,fuzzy
+D2,Women,Golf,2016,136950,Rollins,Rollins College,rollins,rollins college,alias
+D2,Women,Golf,2015,151111,Indianapolis,Indiana University-Indianapolis,indianapolis,indiana university indianapolis,fuzzy
+D2,Women,Golf,2014,132657,Lynn,Lynn University,lynn,lynn university,fuzzy
+D2,Women,Golf,2013,132657,Lynn,Lynn University,lynn,lynn university,fuzzy
+D2,Women,Golf,2012,136215,Nova Southeastern,Nova Southeastern University,nova southeastern,nova southeastern university,fuzzy
+D2,Women,Golf,2011,136215,Nova Southeastern,Nova Southeastern University,nova southeastern,nova southeastern university,fuzzy
+D2,Women,Golf,2010,136215,Nova Southeastern,Nova Southeastern University,nova southeastern,nova southeastern university,fuzzy
+D2,Women,Golf,2009,136215,Nova Southeastern,Nova Southeastern University,nova southeastern,nova southeastern university,fuzzy
+D2,Women,Golf,2008,136950,Rollins,Rollins College,rollins,rollins college,alias
+D2,Women,Golf,2007,134079,Florida Southern,Florida Southern College,florida southern,florida southern college,fuzzy
+D2,Women,Golf,2006,136950,*Rollins,Rollins College,rollins,rollins college,alias
+D2,Women,Golf,2005,136950,Rollins,Rollins College,rollins,rollins college,alias
+D2,Women,Golf,2004,136950,Rollins,Rollins College,rollins,rollins college,alias

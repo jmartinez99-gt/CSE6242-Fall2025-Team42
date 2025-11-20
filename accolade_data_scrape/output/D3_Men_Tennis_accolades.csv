@@ -1,0 +1,17 @@
+Division,Gender,Sport,Year,UNITID,Champion,INSTNM,Champion_NORM,INSTNM_NORM,type_of_match
+D3,Men,Tennis,2023,201645,Case Western,Case Western Reserve University,case western,case western reserve university,fuzzy
+D3,Men,Tennis,2021,139658,Emory,Emory University,emory,emory university,fuzzy
+D3,Men,Tennis,2019,139658,Emory,Emory University,emory,emory university,fuzzy
+D3,Men,Tennis,2018,119058,Middlebury,Middlebury Institute of International Studies at Monterey,middlebury,middlebury institute of international studies at monterey,fuzzy
+D3,Men,Tennis,2017,139658,Emory,Emory University,emory,emory university,fuzzy
+D3,Men,Tennis,2016,161004,Bowdoin,Bowdoin College,bowdoin,bowdoin college,fuzzy
+D3,Men,Tennis,2014,164465,Amherst,Amherst College,amherst,amherst college,fuzzy
+D3,Men,Tennis,2013,168342,Williams,Williams College,williams college,williams college,exact
+D3,Men,Tennis,2012,139658,Emory,Emory University,emory,emory university,fuzzy
+D3,Men,Tennis,2011,164465,Amherst,Amherst College,amherst,amherst college,fuzzy
+D3,Men,Tennis,2010,119058,Middlebury,Middlebury Institute of International Studies at Monterey,middlebury,middlebury institute of international studies at monterey,fuzzy
+D3,Men,Tennis,2009,110714,UC Santa Cruz,University of California-Santa Cruz,uc santa cruz,university of california santa cruz,alias
+D3,Men,Tennis,2007,110714,UC Santa Cruz,University of California-Santa Cruz,uc santa cruz,university of california santa cruz,alias
+D3,Men,Tennis,2006,139658,Emory,Emory University,emory,emory university,fuzzy
+D3,Men,Tennis,2005,110714,UC Santa Cruz,University of California-Santa Cruz,uc santa cruz,university of california santa cruz,alias
+D3,Men,Tennis,2004,119058,Middlebury,Middlebury Institute of International Studies at Monterey,middlebury,middlebury institute of international studies at monterey,fuzzy

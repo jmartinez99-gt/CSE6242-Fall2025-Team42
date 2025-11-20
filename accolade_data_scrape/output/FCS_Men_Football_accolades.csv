@@ -1,0 +1,21 @@
+Division,Gender,Sport,Year,UNITID,Champion,INSTNM,Champion_NORM,INSTNM_NORM,type_of_match
+FCS,Men,Football,2023,219356,South Dakota State,South Dakota State University,south dakota state,south dakota state university,fuzzy
+FCS,Men,Football,2022,219356,South Dakota State,South Dakota State University,south dakota state,south dakota state university,fuzzy
+FCS,Men,Football,2021,200332,North Dakota State,North Dakota State University-Main Campus,north dakota state,north dakota state university main campus,fuzzy
+FCS,Men,Football,2020,227881,Sam Houston,Sam Houston State University,sam houston,sam houston state university,fuzzy
+FCS,Men,Football,2019,200332,North Dakota State,North Dakota State University-Main Campus,north dakota state,north dakota state university main campus,fuzzy
+FCS,Men,Football,2018,200332,North Dakota State,North Dakota State University-Main Campus,north dakota state,north dakota state university main campus,fuzzy
+FCS,Men,Football,2017,200332,North Dakota State,North Dakota State University-Main Campus,north dakota state,north dakota state university main campus,fuzzy
+FCS,Men,Football,2016,232423,James Madison,James Madison University,james madison,james madison university,fuzzy
+FCS,Men,Football,2015,200332,North Dakota State,North Dakota State University-Main Campus,north dakota state,north dakota state university main campus,fuzzy
+FCS,Men,Football,2014,200332,North Dakota State,North Dakota State University-Main Campus,north dakota state,north dakota state university main campus,fuzzy
+FCS,Men,Football,2013,200332,North Dakota State,North Dakota State University-Main Campus,north dakota state,north dakota state university main campus,fuzzy
+FCS,Men,Football,2012,200332,North Dakota State,North Dakota State University-Main Campus,north dakota state,north dakota state university main campus,fuzzy
+FCS,Men,Football,2011,200332,North Dakota State,North Dakota State University-Main Campus,north dakota state,north dakota state university main campus,fuzzy
+FCS,Men,Football,2010,235097,Eastern Washington,Eastern Washington University,eastern washington,eastern washington university,fuzzy
+FCS,Men,Football,2009,216597,Villanova,Villanova University,villanova,villanova university,fuzzy
+FCS,Men,Football,2008,233374,Richmond,University of Richmond,richmond,university of richmond,fuzzy
+FCS,Men,Football,2007,197869,Appalachian State,Appalachian State University,appalachian state,appalachian state university,fuzzy
+FCS,Men,Football,2006,197869,Appalachian State,Appalachian State University,appalachian state,appalachian state university,fuzzy
+FCS,Men,Football,2005,197869,Appalachian State,Appalachian State University,appalachian state,appalachian state university,fuzzy
+FCS,Men,Football,2004,232423,James Madison,James Madison University,james madison,james madison university,fuzzy

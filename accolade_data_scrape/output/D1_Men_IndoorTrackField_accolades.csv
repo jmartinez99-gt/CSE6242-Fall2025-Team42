@@ -1,0 +1,20 @@
+Division,Gender,Sport,Year,UNITID,Champion,INSTNM,Champion_NORM,INSTNM_NORM,type_of_match
+D1,Men,Indoor Track & Field,2023,106245,Arkansas,University of Arkansas at Little Rock,arkansas,university of arkansas at little rock,fuzzy
+D1,Men,Indoor Track & Field,2022,228778,Texas,The University of Texas at Austin,university of texas at austin,university of texas at austin,exact
+D1,Men,Indoor Track & Field,2021,209551,Oregon,University of Oregon,university of oregon,university of oregon,exact
+D1,Men,Indoor Track & Field,2019,134130,Florida,University of Florida,university of florida,university of florida,exact
+D1,Men,Indoor Track & Field,2018,134130,Florida,University of Florida,university of florida,university of florida,exact
+D1,Men,Indoor Track & Field,2017,228723,Texas A&M,Texas A&M University-College Station,texas am university college station,texas am university college station,exact
+D1,Men,Indoor Track & Field,2016,209551,Oregon,University of Oregon,university of oregon,university of oregon,exact
+D1,Men,Indoor Track & Field,2015,209551,Oregon,University of Oregon,university of oregon,university of oregon,exact
+D1,Men,Indoor Track & Field,2014,209551,Oregon,University of Oregon,university of oregon,university of oregon,exact
+D1,Men,Indoor Track & Field,2013,106245,Arkansas,University of Arkansas at Little Rock,arkansas,university of arkansas at little rock,fuzzy
+D1,Men,Indoor Track & Field,2012,134130,Florida,University of Florida,university of florida,university of florida,exact
+D1,Men,Indoor Track & Field,2011,134130,Florida,University of Florida,university of florida,university of florida,exact
+D1,Men,Indoor Track & Field,2010,134130,Florida,University of Florida,university of florida,university of florida,exact
+D1,Men,Indoor Track & Field,2009,209551,Oregon,University of Oregon,university of oregon,university of oregon,exact
+D1,Men,Indoor Track & Field,2008,104151,Arizona State,Arizona State University Campus Immersion,arizona state,arizona state university campus immersion,fuzzy
+D1,Men,Indoor Track & Field,2007,238616,Wisconsin,Concordia University-Wisconsin,wisconsin,concordia university wisconsin,fuzzy
+D1,Men,Indoor Track & Field,2006,106245,Arkansas,University of Arkansas at Little Rock,arkansas,university of arkansas at little rock,fuzzy
+D1,Men,Indoor Track & Field,2005,106245,Arkansas,University of Arkansas at Little Rock,arkansas,university of arkansas at little rock,fuzzy
+D1,Men,Indoor Track & Field,2004,159391,LSU,Louisiana State University and Agricultural & Mechanical College,louisiana state university and agricultural mechanical college,louisiana state university and agricultural  mechanical college,fuzzy

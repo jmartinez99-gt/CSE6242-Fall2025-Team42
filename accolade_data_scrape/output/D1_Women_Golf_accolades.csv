@@ -1,0 +1,20 @@
+Division,Gender,Sport,Year,UNITID,Champion,INSTNM,Champion_NORM,INSTNM_NORM,type_of_match
+D1,Women,Golf,2023,199847,Wake Forest,Wake Forest University,wake forest,wake forest university,fuzzy
+D1,Women,Golf,2022,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+D1,Women,Golf,2021,176017,Ole Miss,University of Mississippi,university of mississippi,university of mississippi,exact
+D1,Women,Golf,2019,198419,Duke,Duke University,duke,duke university,fuzzy
+D1,Women,Golf,2018,104179,Arizona,University of Arizona,university of arizona,university of arizona,exact
+D1,Women,Golf,2017,104151,Arizona State,Arizona State University Campus Immersion,arizona state,arizona state university campus immersion,fuzzy
+D1,Women,Golf,2016,131469,Washington,George Washington University,washington,george washington university,fuzzy
+D1,Women,Golf,2015,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+D1,Women,Golf,2014,198419,Duke,Duke University,duke,duke university,fuzzy
+D1,Women,Golf,2013,123961,Southern California,University of Southern California,university of southern california,university of southern california,exact
+D1,Women,Golf,2012,100751,Alabama,The University of Alabama,university of alabama,university of alabama,exact
+D1,Women,Golf,2011,110662,UCLA,University of California-Los Angeles,university of california los angeles,university of california los angeles,exact
+D1,Women,Golf,2010,151102,Purdue,Purdue University Fort Wayne,purdue,purdue university fort wayne,fuzzy
+D1,Women,Golf,2009,104151,Arizona State,Arizona State University Campus Immersion,arizona state,arizona state university campus immersion,fuzzy
+D1,Women,Golf,2008,123961,Southern California,University of Southern California,university of southern california,university of southern california,exact
+D1,Women,Golf,2007,198419,Duke,Duke University,duke,duke university,fuzzy
+D1,Women,Golf,2006,198419,Duke,Duke University,duke,duke university,fuzzy
+D1,Women,Golf,2005,198419,Duke,Duke University,duke,duke university,fuzzy
+D1,Women,Golf,2004,110662,UCLA,University of California-Los Angeles,university of california los angeles,university of california los angeles,exact

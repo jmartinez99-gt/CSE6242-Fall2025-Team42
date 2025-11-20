@@ -1,0 +1,20 @@
+Division,Gender,Sport,Year,UNITID,Champion,INSTNM,Champion_NORM,INSTNM_NORM,type_of_match
+D1,Women,Outdoor Track & Field,2023,228778,Texas,The University of Texas at Austin,university of texas at austin,university of texas at austin,exact
+D1,Women,Outdoor Track & Field,2022,134130,Florida,University of Florida,university of florida,university of florida,exact
+D1,Women,Outdoor Track & Field,2021,123961,Southern California,University of Southern California,university of southern california,university of southern california,exact
+D1,Women,Outdoor Track & Field,2019,106245,Arkansas,University of Arkansas at Little Rock,arkansas,university of arkansas at little rock,fuzzy
+D1,Women,Outdoor Track & Field,2018,123961,Southern California,University of Southern California,university of southern california,university of southern california,exact
+D1,Women,Outdoor Track & Field,2017,209551,Oregon,University of Oregon,university of oregon,university of oregon,exact
+D1,Women,Outdoor Track & Field,2016,106245,Arkansas,University of Arkansas at Little Rock,arkansas,university of arkansas at little rock,fuzzy
+D1,Women,Outdoor Track & Field,2015,209551,Oregon,University of Oregon,university of oregon,university of oregon,exact
+D1,Women,Outdoor Track & Field,2014,228723,Texas A&M,Texas A&M University-College Station,texas am university college station,texas am university college station,exact
+D1,Women,Outdoor Track & Field,2013,155317,Kansas,University of Kansas,university of kansas,university of kansas,exact
+D1,Women,Outdoor Track & Field,2012,159391,#LSU,Louisiana State University and Agricultural & Mechanical College,louisiana state university and agricultural mechanical college,louisiana state university and agricultural  mechanical college,fuzzy
+D1,Women,Outdoor Track & Field,2011,228723,Texas A&M,Texas A&M University-College Station,texas am university college station,texas am university college station,exact
+D1,Women,Outdoor Track & Field,2010,228723,Texas A&M,Texas A&M University-College Station,texas am university college station,texas am university college station,exact
+D1,Women,Outdoor Track & Field,2009,228723,Texas A&M,Texas A&M University-College Station,texas am university college station,texas am university college station,exact
+D1,Women,Outdoor Track & Field,2008,159391,LSU,Louisiana State University and Agricultural & Mechanical College,louisiana state university and agricultural mechanical college,louisiana state university and agricultural  mechanical college,fuzzy
+D1,Women,Outdoor Track & Field,2007,104151,Arizona State,Arizona State University Campus Immersion,arizona state,arizona state university campus immersion,fuzzy
+D1,Women,Outdoor Track & Field,2006,100858,Auburn,Auburn University,auburn university,auburn university,exact
+D1,Women,Outdoor Track & Field,2005,228778,Texas,The University of Texas at Austin,university of texas at austin,university of texas at austin,exact
+D1,Women,Outdoor Track & Field,2004,110662,UCLA,University of California-Los Angeles,university of california los angeles,university of california los angeles,exact

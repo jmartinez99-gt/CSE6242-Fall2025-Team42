@@ -1,0 +1,15 @@
+Division,Gender,Sport,Year,UNITID,Champion,INSTNM,Champion_NORM,INSTNM_NORM,type_of_match
+D2,Men,Tennis,2023,132471,Barry,Barry University,barry,barry university,fuzzy
+D2,Men,Tennis,2022,132471,Barry,Barry University,barry,barry university,fuzzy
+D2,Men,Tennis,2021,132471,Barry,Barry University,barry,barry university,fuzzy
+D2,Men,Tennis,2019,132471,Barry,Barry University,barry,barry university,fuzzy
+D2,Men,Tennis,2018,139366,Columbus State,Columbus State University,columbus state,columbus state university,fuzzy
+D2,Men,Tennis,2017,138354,West Florida,University of West Florida,university of west florida,university of west florida,exact
+D2,Men,Tennis,2016,141644,Hawaii Pacific,Hawaii Pacific University,hawaii pacific,hawaii pacific university,fuzzy
+D2,Men,Tennis,2015,132471,Barry,Barry University,barry,barry university,fuzzy
+D2,Men,Tennis,2014,138354,West Florida,University of West Florida,university of west florida,university of west florida,exact
+D2,Men,Tennis,2013,132471,Barry,Barry University,barry,barry university,fuzzy
+D2,Men,Tennis,2011,141264,Valdosta State,Valdosta State University,valdosta state,valdosta state university,fuzzy
+D2,Men,Tennis,2010,132471,Barry,Barry University,barry,barry university,fuzzy
+D2,Men,Tennis,2007,132657,Lynn,Lynn University,lynn,lynn university,fuzzy
+D2,Men,Tennis,2006,141264,Valdosta State,Valdosta State University,valdosta state,valdosta state university,fuzzy
