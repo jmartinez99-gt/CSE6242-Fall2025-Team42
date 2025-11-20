@@ -1,0 +1,18 @@
+Division,Gender,Sport,Year,UNITID,Champion,INSTNM,Champion_NORM,INSTNM_NORM,type_of_match
+D1,Women,Cross Country,2020,230038,BYU,Brigham Young University,brigham young university,brigham young university,exact
+D1,Women,Cross Country,2019,106245,Arkansas,University of Arkansas at Little Rock,arkansas,university of arkansas at little rock,fuzzy
+D1,Women,Cross Country,2018,126580,Colorado,University of Colorado Colorado Springs,colorado,university of colorado colorado springs,fuzzy
+D1,Women,Cross Country,2017,187648,New Mexico,Eastern New Mexico University-Main Campus,new mexico,eastern new mexico university main campus,fuzzy
+D1,Women,Cross Country,2016,209551,Oregon,University of Oregon,university of oregon,university of oregon,exact
+D1,Women,Cross Country,2015,187648,New Mexico,Eastern New Mexico University-Main Campus,new mexico,eastern new mexico university main campus,fuzzy
+D1,Women,Cross Country,2014,171100,Michigan State,Michigan State University,michigan state,michigan state university,fuzzy
+D1,Women,Cross Country,2013,180258,Providence,University of Providence,providence,university of providence,fuzzy
+D1,Women,Cross Country,2012,209551,Oregon,University of Oregon,university of oregon,university of oregon,exact
+D1,Women,Cross Country,2011,131496,Georgetown,Georgetown University,georgetown,georgetown university,fuzzy
+D1,Women,Cross Country,2010,216597,Villanova,Villanova University,villanova,villanova university,fuzzy
+D1,Women,Cross Country,2009,216597,Villanova,Villanova University,villanova,villanova university,fuzzy
+D1,Women,Cross Country,2008,131469,Washington,George Washington University,washington,george washington university,fuzzy
+D1,Women,Cross Country,2007,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+D1,Women,Cross Country,2006,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+D1,Women,Cross Country,2005,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+D1,Women,Cross Country,2004,126580,Colorado,University of Colorado Colorado Springs,colorado,university of colorado colorado springs,fuzzy

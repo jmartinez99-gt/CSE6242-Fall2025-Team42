@@ -1,0 +1,16 @@
+Division,Gender,Sport,Year,UNITID,Champion,INSTNM,Champion_NORM,INSTNM_NORM,type_of_match
+D3,Men,Golf,2023,211440,Carnegie Mellon,Carnegie Mellon University,carnegie mellon,carnegie mellon university,fuzzy
+D3,Men,Golf,2022,198969,Methodist,Methodist University,methodist,methodist university,alias
+D3,Men,Golf,2021,145646,Illinois Wesleyan,Illinois Wesleyan University,illinois wesleyan,illinois wesleyan university,fuzzy
+D3,Men,Golf,2019,145646,Illinois Wesleyan,Illinois Wesleyan University,illinois wesleyan,illinois wesleyan university,fuzzy
+D3,Men,Golf,2018,198969,Methodist,Methodist University,methodist,methodist university,alias
+D3,Men,Golf,2017,206525,Wittenberg,Wittenberg University,wittenberg,wittenberg university,fuzzy
+D3,Men,Golf,2015,198969,Methodist,Methodist University,methodist,methodist university,alias
+D3,Men,Golf,2014,228042,Schreiner,Schreiner University,schreiner,schreiner university,fuzzy
+D3,Men,Golf,2012,140696,Oglethorpe,Oglethorpe University,oglethorpe,oglethorpe university,alias
+D3,Men,Golf,2011,198598,Greensboro,Greensboro College,greensboro,greensboro college,fuzzy
+D3,Men,Golf,2010,198969,Methodist,Methodist University,methodist,methodist university,alias
+D3,Men,Golf,2009,140696,Oglethorpe,Oglethorpe University,oglethorpe,oglethorpe university,alias
+D3,Men,Golf,2006,181446,Nebraska Wesleyan,Nebraska Wesleyan University,nebraska wesleyan,nebraska wesleyan university,fuzzy
+D3,Men,Golf,2005,198613,Guilford,Guilford College,guilford,guilford college,fuzzy
+D3,Men,Golf,2004,173647,Gustavus Adolphus,Gustavus Adolphus College,gustavus adolphus,gustavus adolphus college,fuzzy

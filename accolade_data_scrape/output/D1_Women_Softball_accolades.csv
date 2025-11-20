@@ -1,0 +1,20 @@
+Division,Gender,Sport,Year,UNITID,Champion,INSTNM,Champion_NORM,INSTNM_NORM,type_of_match
+D1,Women,Softball,2023,207500,*Oklahoma,University of Oklahoma-Norman Campus,university of oklahoma norman campus,university of oklahoma norman campus,exact
+D1,Women,Softball,2022,207500,*Oklahoma,University of Oklahoma-Norman Campus,university of oklahoma norman campus,university of oklahoma norman campus,exact
+D1,Women,Softball,2021,207500,Oklahoma,University of Oklahoma-Norman Campus,university of oklahoma norman campus,university of oklahoma norman campus,exact
+D1,Women,Softball,2019,110662,*UCLA,University of California-Los Angeles,university of california los angeles,university of california los angeles,exact
+D1,Women,Softball,2018,134097,*Florida State,Florida State University,florida state university,florida state university,exact
+D1,Women,Softball,2017,207500,*Oklahoma,University of Oklahoma-Norman Campus,university of oklahoma norman campus,university of oklahoma norman campus,exact
+D1,Women,Softball,2016,207500,Oklahoma,University of Oklahoma-Norman Campus,university of oklahoma norman campus,university of oklahoma norman campus,exact
+D1,Women,Softball,2015,134130,Florida,University of Florida,university of florida,university of florida,exact
+D1,Women,Softball,2014,134130,*Florida,University of Florida,university of florida,university of florida,exact
+D1,Women,Softball,2013,207500,*Oklahoma,University of Oklahoma-Norman Campus,university of oklahoma norman campus,university of oklahoma norman campus,exact
+D1,Women,Softball,2012,100751,Alabama,The University of Alabama,university of alabama,university of alabama,exact
+D1,Women,Softball,2011,104151,*Arizona State,Arizona State University Campus Immersion,arizona state,arizona state university campus immersion,fuzzy
+D1,Women,Softball,2010,110662,*UCLA,University of California-Los Angeles,university of california los angeles,university of california los angeles,exact
+D1,Women,Softball,2009,131469,Washington,George Washington University,washington,george washington university,fuzzy
+D1,Women,Softball,2008,104151,*Arizona State,Arizona State University Campus Immersion,arizona state,arizona state university campus immersion,fuzzy
+D1,Women,Softball,2007,104179,Arizona,University of Arizona,university of arizona,university of arizona,exact
+D1,Women,Softball,2006,104179,Arizona,University of Arizona,university of arizona,university of arizona,exact
+D1,Women,Softball,2005,170976,Michigan,University of Michigan-Ann Arbor,university of michigan ann arbor,university of michigan ann arbor,exact
+D1,Women,Softball,2004,110662,UCLA,University of California-Los Angeles,university of california los angeles,university of california los angeles,exact

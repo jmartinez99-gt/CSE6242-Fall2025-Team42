@@ -1,0 +1,19 @@
+Division,Gender,Sport,Year,UNITID,Champion,INSTNM,Champion_NORM,INSTNM_NORM,type_of_match
+D2,Women,Basketball,2023,201104,Ashland,Ashland University,ashland,ashland university,fuzzy
+D2,Women,Basketball,2022,237385,Glenville State,Glenville State University,glenville state,glenville state university,fuzzy
+D2,Women,Basketball,2021,226383,Lubbock Christian,Lubbock Christian University,lubbock christian,lubbock christian university,fuzzy
+D2,Women,Basketball,2019,226383,Lubbock Christian,Lubbock Christian University,lubbock christian,lubbock christian university,fuzzy
+D2,Women,Basketball,2018,176965,Central Missouri,University of Central Missouri,central missouri,university of central missouri,fuzzy
+D2,Women,Basketball,2017,201104,Ashland,Ashland University,ashland,ashland university,fuzzy
+D2,Women,Basketball,2016,226383,Lubbock Christian,Lubbock Christian University,lubbock christian,lubbock christian university,fuzzy
+D2,Women,Basketball,2015,498571,California (Pa.),Pennsylvania Western University,pennsylvania western university,pennsylvania western university,exact
+D2,Women,Basketball,2014,164739,Bentley,Bentley University,bentley,bentley university,alias
+D2,Women,Basketball,2013,201104,Ashland,Ashland University,ashland,ashland university,fuzzy
+D2,Women,Basketball,2012,199643,Shaw,Shaw University,shaw,shaw university,fuzzy
+D2,Women,Basketball,2010,155025,Emporia State,Emporia State University,emporia state,emporia state university,fuzzy
+D2,Women,Basketball,2009,173920,Minnesota State-Mankato,Minnesota State University-Mankato,minnesota state mankato,minnesota state university mankato,fuzzy
+D2,Women,Basketball,2008,157447,Northern Kentucky,Northern Kentucky University,northern kentucky,northern kentucky university,fuzzy
+D2,Women,Basketball,2007,130493,Southern Connecticut State,Southern Connecticut State University,southern connecticut state,southern connecticut state university,fuzzy
+D2,Women,Basketball,2006,170082,Grand Valley State,Grand Valley State University,grand valley state,grand valley state university,fuzzy
+D2,Women,Basketball,2005,156082,Washburn,Washburn University,washburn,washburn university,fuzzy
+D2,Women,Basketball,2004,498571,California (PA),Pennsylvania Western University,pennsylvania western university,pennsylvania western university,exact

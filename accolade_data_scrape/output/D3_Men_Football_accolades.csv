@@ -1,0 +1,18 @@
+Division,Gender,Sport,Year,UNITID,Champion,INSTNM,Champion_NORM,INSTNM_NORM,type_of_match
+D3,Men,Football,2023,196149,Cortland,State University of New York at Cortland,cortland,state university of new york at cortland,fuzzy
+D3,Men,Football,2021,226471,Mary Hardin-Baylor,University of Mary Hardin-Baylor,mary hardin baylor,university of mary hardin baylor,fuzzy
+D3,Men,Football,2018,226471,Mary Hardin-Baylor,University of Mary Hardin-Baylor,mary hardin baylor,university of mary hardin baylor,fuzzy
+D3,Men,Football,2017,204185,Mount Union,University of Mount Union,mount union,university of mount union,fuzzy
+D3,Men,Football,2016,226471,Mary Hardin-Baylor,University of Mary Hardin-Baylor,mary hardin baylor,university of mary hardin baylor,fuzzy
+D3,Men,Football,2015,204185,Mount Union,University of Mount Union,mount union,university of mount union,fuzzy
+D3,Men,Football,2014,240189,Wisconsin-Whitewater,University of Wisconsin-Whitewater,wisconsin whitewater,university of wisconsin whitewater,fuzzy
+D3,Men,Football,2013,240189,Wisconsin-Whitewater,University of Wisconsin-Whitewater,wisconsin whitewater,university of wisconsin whitewater,fuzzy
+D3,Men,Football,2012,204185,Mount Union,University of Mount Union,mount union,university of mount union,fuzzy
+D3,Men,Football,2011,240189,Wisconsin-Whitewater,University of Wisconsin-Whitewater,wisconsin whitewater,university of wisconsin whitewater,fuzzy
+D3,Men,Football,2010,240189,Wisconsin-Whitewater,University of Wisconsin-Whitewater,wisconsin whitewater,university of wisconsin whitewater,fuzzy
+D3,Men,Football,2009,240189,Wisconsin-Whitewater,University of Wisconsin-Whitewater,wisconsin whitewater,university of wisconsin whitewater,fuzzy
+D3,Men,Football,2008,204185,Mount Union,University of Mount Union,mount union,university of mount union,fuzzy
+D3,Men,Football,2007,240189,Wisconsin-Whitewater,University of Wisconsin-Whitewater,wisconsin whitewater,university of wisconsin whitewater,fuzzy
+D3,Men,Football,2006,204185,Mount Union,University of Mount Union,mount union,university of mount union,fuzzy
+D3,Men,Football,2005,204185,Mount Union,University of Mount Union,mount union,university of mount union,fuzzy
+D3,Men,Football,2004,209065,Linfield,Linfield University,linfield,linfield university,fuzzy

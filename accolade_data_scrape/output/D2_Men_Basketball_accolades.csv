@@ -1,0 +1,18 @@
+Division,Gender,Sport,Year,UNITID,Champion,INSTNM,Champion_NORM,INSTNM_NORM,type_of_match
+D2,Men,Basketball,2023,136215,Nova Southeastern,Nova Southeastern University,nova southeastern,nova southeastern university,fuzzy
+D2,Men,Basketball,2022,178624,Northwest Missouri State,Northwest Missouri State University,northwest missouri state,northwest missouri state university,fuzzy
+D2,Men,Basketball,2021,178624,Northwest Missouri State,Northwest Missouri State University,northwest missouri state,northwest missouri state university,fuzzy
+D2,Men,Basketball,2019,178624,Northwest Missouri State,Northwest Missouri State University,northwest missouri state,northwest missouri state university,fuzzy
+D2,Men,Basketball,2018,169910,Ferris State,Ferris State University,ferris state,ferris state university,fuzzy
+D2,Men,Basketball,2017,178624,Northwest Missouri St.,Northwest Missouri State University,northwest missouri st,northwest missouri state university,fuzzy
+D2,Men,Basketball,2015,134079,Florida Southern,Florida Southern College,florida southern,florida southern college,fuzzy
+D2,Men,Basketball,2014,176965,Central Missouri,University of Central Missouri,central missouri,university of central missouri,fuzzy
+D2,Men,Basketball,2013,177214,Drury,Drury University,drury,drury university,fuzzy
+D2,Men,Basketball,2012,237011,Western Washington,Western Washington University,western washington,western washington university,fuzzy
+D2,Men,Basketball,2011,156286,Bellarmine,Bellarmine University,bellarmine,bellarmine university,fuzzy
+D2,Men,Basketball,2009,202763,Findlay,The University of Findlay,findlay,university of findlay,fuzzy
+D2,Men,Basketball,2008,175272,Winona State,Winona State University,winona state,winona state university,fuzzy
+D2,Men,Basketball,2007,197911,Barton,Barton College,barton,barton college,fuzzy
+D2,Men,Basketball,2006,175272,Winona State,Winona State University,winona state,winona state university,fuzzy
+D2,Men,Basketball,2005,234164,Virginia Union,Virginia Union University,virginia union,virginia union university,fuzzy
+D2,Men,Basketball,2004,486840,Kennesaw State,Kennesaw State University,kennesaw state,kennesaw state university,fuzzy

@@ -1,0 +1,12 @@
+Division,Gender,Sport,Year,UNITID,Champion,INSTNM,Champion_NORM,INSTNM_NORM,type_of_match
+D2,Women,Softball,2023,482680,*North Georgia,University of North Georgia,north georgia,university of north georgia,fuzzy
+D2,Women,Softball,2022,207661,Rogers State,Rogers State University,rogers state,rogers state university,fuzzy
+D2,Women,Softball,2018,151306,*Southern Indiana,University of Southern Indiana,southern indiana,university of southern indiana,fuzzy
+D2,Women,Softball,2017,428453,*Minnesota State,Minnesota State Colleges and Universities System Office,minnesota state,minnesota state colleges and universities system office,alias
+D2,Women,Softball,2016,101879,North Alabama,University of North Alabama,north alabama,university of north alabama,fuzzy
+D2,Women,Softball,2015,482680,North Georgia,University of North Georgia,north georgia,university of north georgia,fuzzy
+D2,Women,Softball,2013,206941,*Central Oklahoma,University of Central Oklahoma,central oklahoma,university of central oklahoma,fuzzy
+D2,Women,Softball,2012,141264,Valdosta State,Valdosta State University,valdosta state,valdosta state university,fuzzy
+D2,Women,Softball,2010,141644,*Hawaii Pacific,Hawaii Pacific University,hawaii pacific,hawaii pacific university,fuzzy
+D2,Women,Softball,2005,132657,* **Lynn,Lynn University,lynn,lynn university,fuzzy
+D2,Women,Softball,2004,222831,Angelo State,Angelo State University,angelo state,angelo state university,alias

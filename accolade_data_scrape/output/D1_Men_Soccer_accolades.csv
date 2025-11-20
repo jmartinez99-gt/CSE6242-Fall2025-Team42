@@ -1,0 +1,20 @@
+Division,Gender,Sport,Year,UNITID,Champion,INSTNM,Champion_NORM,INSTNM_NORM,type_of_match
+D1,Men,Soccer,2023,217882,Clemson,Clemson University,clemson university,clemson university,exact
+D1,Men,Soccer,2022,196413,Syracuse,Syracuse University,syracuse university,syracuse university,exact
+D1,Men,Soccer,2021,217882,Clemson,Clemson University,clemson university,clemson university,exact
+D1,Men,Soccer,2020,237525,Marshall,Marshall University,marshall university,marshall university,exact
+D1,Men,Soccer,2019,131496,Georgetown,Georgetown University,georgetown,georgetown university,fuzzy
+D1,Men,Soccer,2018,163286,Maryland,University of Maryland-College Park,university of maryland college park,university of maryland college park,exact
+D1,Men,Soccer,2017,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+D1,Men,Soccer,2016,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+D1,Men,Soccer,2015,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+D1,Men,Soccer,2014,234076,Virginia,University of Virginia-Main Campus,university of virginia-main campus,university of virginia main campus,fuzzy
+D1,Men,Soccer,2013,152080,Notre Dame,University of Notre Dame,university of notre dame,university of notre dame,exact
+D1,Men,Soccer,2012,151351,Indiana,Indiana University-Bloomington,indiana university bloomington,indiana university bloomington,exact
+D1,Men,Soccer,2011,199120,North Carolina,University of North Carolina at Chapel Hill,university of north carolina at chapel hill,university of north carolina at chapel hill,exact
+D1,Men,Soccer,2010,200800,Akron,University of Akron Main Campus,university of akron main campus,university of akron main campus,exact
+D1,Men,Soccer,2009,234076,*Virginia,University of Virginia-Main Campus,university of virginia-main campus,university of virginia main campus,fuzzy
+D1,Men,Soccer,2008,163286,Maryland,University of Maryland-College Park,university of maryland college park,university of maryland college park,exact
+D1,Men,Soccer,2007,199847,Wake Forest,Wake Forest University,wake forest,wake forest university,fuzzy
+D1,Men,Soccer,2005,163286,Maryland,University of Maryland-College Park,university of maryland college park,university of maryland college park,exact
+D1,Men,Soccer,2004,151351,*Indiana,Indiana University-Bloomington,indiana university bloomington,indiana university bloomington,exact

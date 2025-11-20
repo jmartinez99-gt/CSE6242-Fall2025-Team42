@@ -1,0 +1,21 @@
+Division,Gender,Sport,Year,UNITID,Champion,INSTNM,Champion_NORM,INSTNM_NORM,type_of_match
+D1,Women,Soccer,2023,134097,Florida State,Florida State University,florida state university,florida state university,exact
+D1,Women,Soccer,2022,110662,UCLA,University of California-Los Angeles,university of california los angeles,university of california los angeles,exact
+D1,Women,Soccer,2021,134097,Florida State,Florida State University,florida state university,florida state university,exact
+D1,Women,Soccer,2020,122931,Santa Clara,Santa Clara University,santa clara,santa clara university,fuzzy
+D1,Women,Soccer,2019,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+D1,Women,Soccer,2018,134097,Florida State,Florida State University,florida state university,florida state university,exact
+D1,Women,Soccer,2017,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+D1,Women,Soccer,2016,123961,Southern California,University of Southern California,university of southern california,university of southern california,exact
+D1,Women,Soccer,2015,214777,Penn State,Pennsylvania State University-Main Campus,pennsylvania state university main campus,pennsylvania state university main campus,exact
+D1,Women,Soccer,2014,134097,Florida State,Florida State University,florida state university,florida state university,exact
+D1,Women,Soccer,2013,110662,UCLA,University of California-Los Angeles,university of california los angeles,university of california los angeles,exact
+D1,Women,Soccer,2012,199120,North Carolina,University of North Carolina at Chapel Hill,university of north carolina at chapel hill,university of north carolina at chapel hill,exact
+D1,Women,Soccer,2011,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+D1,Women,Soccer,2010,152080,Notre Dame,University of Notre Dame,university of notre dame,university of notre dame,exact
+D1,Women,Soccer,2009,199120,North Carolina,University of North Carolina at Chapel Hill,university of north carolina at chapel hill,university of north carolina at chapel hill,exact
+D1,Women,Soccer,2008,199120,North Carolina,University of North Carolina at Chapel Hill,university of north carolina at chapel hill,university of north carolina at chapel hill,exact
+D1,Women,Soccer,2007,123961,Southern California,University of Southern California,university of southern california,university of southern california,exact
+D1,Women,Soccer,2006,199120,North Carolina,University of North Carolina at Chapel Hill,university of north carolina at chapel hill,university of north carolina at chapel hill,exact
+D1,Women,Soccer,2005,209807,Portland,Portland State University,portland,portland state university,fuzzy
+D1,Women,Soccer,2004,152080,*Notre Dame,University of Notre Dame,university of notre dame,university of notre dame,exact

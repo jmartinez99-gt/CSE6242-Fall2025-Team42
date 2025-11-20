@@ -1,0 +1,10 @@
+Division,Gender,Sport,Year,UNITID,Champion,INSTNM,Champion_NORM,INSTNM_NORM,type_of_match
+D3,Men,Cross Country,2022,129774,MIT,Mitchell College,mit,mitchell college,fuzzy
+D3,Men,Cross Country,2015,240268,Wisconsin-Eau Claire,University of Wisconsin-Eau Claire,wisconsin eau claire,university of wisconsin eau claire,fuzzy
+D3,Men,Cross Country,2013,174844,St. Olaf,St Olaf College,st olaf,st olaf college,fuzzy
+D3,Men,Cross Country,2010,212911,Haverford,Haverford College,haverford,haverford college,fuzzy
+D3,Men,Cross Country,2008,196149,SUNY Cortland,State University of New York at Cortland,suny cortland,state university of new york at cortland,alias
+D3,Men,Cross Country,2007,193900,New York University,New York University,new york university,new york university,exact
+D3,Men,Cross Country,2006,169080,Calvin,Calvin University,calvin,calvin university,alias
+D3,Men,Cross Country,2005,240329,Wisconsin-La Crosse,University of Wisconsin-La Crosse,wisconsin la crosse,university of wisconsin la crosse,fuzzy
+D3,Men,Cross Country,2004,169080,Calvin,Calvin University,calvin,calvin university,alias

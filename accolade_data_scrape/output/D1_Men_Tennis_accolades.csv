@@ -1,0 +1,20 @@
+Division,Gender,Sport,Year,UNITID,Champion,INSTNM,Champion_NORM,INSTNM_NORM,type_of_match
+D1,Men,Tennis,2023,234076,Virginia,University of Virginia-Main Campus,university of virginia-main campus,university of virginia main campus,fuzzy
+D1,Men,Tennis,2022,234076,Virginia,University of Virginia-Main Campus,university of virginia-main campus,university of virginia main campus,fuzzy
+D1,Men,Tennis,2021,134130,Florida,University of Florida,university of florida,university of florida,exact
+D1,Men,Tennis,2019,228778,Texas,The University of Texas at Austin,university of texas at austin,university of texas at austin,exact
+D1,Men,Tennis,2018,199847,Wake Forest,Wake Forest University,wake forest,wake forest university,fuzzy
+D1,Men,Tennis,2017,234076,Virginia,University of Virginia-Main Campus,university of virginia-main campus,university of virginia main campus,fuzzy
+D1,Men,Tennis,2016,234076,Virginia,University of Virginia-Main Campus,university of virginia-main campus,university of virginia main campus,fuzzy
+D1,Men,Tennis,2015,234076,Virginia,University of Virginia-Main Campus,university of virginia-main campus,university of virginia main campus,fuzzy
+D1,Men,Tennis,2014,123961,Southern California,University of Southern California,university of southern california,university of southern california,exact
+D1,Men,Tennis,2013,234076,Virginia,University of Virginia-Main Campus,university of virginia-main campus,university of virginia main campus,fuzzy
+D1,Men,Tennis,2012,123961,Southern California,University of Southern California,university of southern california,university of southern california,exact
+D1,Men,Tennis,2011,123961,Southern California,University of Southern California,university of southern california,university of southern california,exact
+D1,Men,Tennis,2010,123961,Southern California,University of Southern California,university of southern california,university of southern california,exact
+D1,Men,Tennis,2009,123961,Southern California,University of Southern California,university of southern california,university of southern california,exact
+D1,Men,Tennis,2008,139959,Georgia,University of Georgia,university of georgia,university of georgia,exact
+D1,Men,Tennis,2007,139959,Georgia,University of Georgia,university of georgia,university of georgia,exact
+D1,Men,Tennis,2006,121150,Pepperdine,Pepperdine University,pepperdine,pepperdine university,fuzzy
+D1,Men,Tennis,2005,110662,UCLA,University of California-Los Angeles,university of california los angeles,university of california los angeles,exact
+D1,Men,Tennis,2004,223232,Baylor,Baylor University,baylor,baylor university,fuzzy

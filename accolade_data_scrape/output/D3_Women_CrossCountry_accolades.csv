@@ -1,0 +1,18 @@
+Division,Gender,Sport,Year,UNITID,Champion,INSTNM,Champion_NORM,INSTNM_NORM,type_of_match
+D3,Women,Cross Country,2023,173258,Carleton,Carleton College,carleton,carleton college,fuzzy
+D3,Women,Cross Country,2022,162928,Johns Hopkins,Johns Hopkins University,johns hopkins,johns hopkins university,alias
+D3,Women,Cross Country,2021,162928,Johns Hopkins,Johns Hopkins University,johns hopkins,johns hopkins university,alias
+D3,Women,Cross Country,2019,162928,Johns Hopkins,Johns Hopkins University,johns hopkins,johns hopkins university,alias
+D3,Women,Cross Country,2017,162928,Johns Hopkins,Johns Hopkins University,johns hopkins,johns hopkins university,alias
+D3,Women,Cross Country,2016,162928,Johns Hopkins,Johns Hopkins University,johns hopkins,johns hopkins university,alias
+D3,Women,Cross Country,2015,168342,Williams,Williams College,williams college,williams college,exact
+D3,Women,Cross Country,2014,162928,Johns Hopkins,Johns Hopkins University,johns hopkins,johns hopkins university,alias
+D3,Women,Cross Country,2013,162928,Johns Hopkins,Johns Hopkins University,johns hopkins,johns hopkins university,alias
+D3,Women,Cross Country,2012,162928,Johns Hopkins,Johns Hopkins University,johns hopkins,johns hopkins university,alias
+D3,Women,Cross Country,2010,119058,Middlebury,Middlebury Institute of International Studies at Monterey,middlebury,middlebury institute of international studies at monterey,fuzzy
+D3,Women,Cross Country,2009,240268,Wisconsin-Eau Claire,University of Wisconsin-Eau Claire,wisconsin eau claire,university of wisconsin eau claire,fuzzy
+D3,Women,Cross Country,2008,119058,Middlebury,Middlebury Institute of International Studies at Monterey,middlebury,middlebury institute of international studies at monterey,fuzzy
+D3,Women,Cross Country,2007,164465,Amherst,Amherst College,amherst,amherst college,fuzzy
+D3,Women,Cross Country,2006,119058,Middlebury,Middlebury Institute of International Studies at Monterey,middlebury,middlebury institute of international studies at monterey,fuzzy
+D3,Women,Cross Country,2005,196167,SUNY Geneseo,SUNY College at Geneseo,suny geneseo,suny college at geneseo,alias
+D3,Women,Cross Country,2004,168342,Williams,Williams College,williams college,williams college,exact

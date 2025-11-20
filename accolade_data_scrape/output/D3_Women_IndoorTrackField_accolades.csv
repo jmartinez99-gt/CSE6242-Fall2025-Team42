@@ -1,0 +1,17 @@
+Division,Gender,Sport,Year,UNITID,Champion,INSTNM,Champion_NORM,INSTNM_NORM,type_of_match
+D3,Women,Indoor Track & Field,2023,240329,Wisconsin-La Crosse,University of Wisconsin-La Crosse,wisconsin la crosse,university of wisconsin la crosse,fuzzy
+D3,Women,Indoor Track & Field,2022,153825,Loras,Loras College,loras,loras college,fuzzy
+D3,Women,Indoor Track & Field,2019,168342,Williams,Williams College,williams college,williams college,exact
+D3,Women,Indoor Track & Field,2016,201195,Baldwin Wallace,Baldwin Wallace University,baldwin wallace,baldwin wallace university,fuzzy
+D3,Women,Indoor Track & Field,2015,240329,Wisconsin-La Crosse,University of Wisconsin-La Crosse,wisconsin la crosse,university of wisconsin la crosse,fuzzy
+D3,Women,Indoor Track & Field,2014,240365,Wisconsin-Oshkosh,University of Wisconsin-Oshkosh,wisconsin oshkosh,university of wisconsin oshkosh,fuzzy
+D3,Women,Indoor Track & Field,2013,240365,Wisconsin-Oshkosh,University of Wisconsin-Oshkosh,wisconsin oshkosh,university of wisconsin oshkosh,fuzzy
+D3,Women,Indoor Track & Field,2012,154527,Wartburg,Wartburg College,wartburg,wartburg college,fuzzy
+D3,Women,Indoor Track & Field,2011,240365,Wisconsin-Oshkosh,University of Wisconsin-Oshkosh,wisconsin oshkosh,university of wisconsin oshkosh,fuzzy
+D3,Women,Indoor Track & Field,2010,154527,Wartburg,Wartburg College,wartburg,wartburg college,fuzzy
+D3,Women,Indoor Track & Field,2009,154527,Wartburg,Wartburg College,wartburg,wartburg college,fuzzy
+D3,Women,Indoor Track & Field,2008,145646,Illinois Wesleyan,Illinois Wesleyan University,illinois wesleyan,illinois wesleyan university,fuzzy
+D3,Women,Indoor Track & Field,2007,168342,Williams,Williams College,williams college,williams college,exact
+D3,Women,Indoor Track & Field,2006,240365,Wisconsin-Oshkosh,University of Wisconsin-Oshkosh,wisconsin oshkosh,university of wisconsin oshkosh,fuzzy
+D3,Women,Indoor Track & Field,2005,240365,Wisconsin-Oshkosh,University of Wisconsin-Oshkosh,wisconsin oshkosh,university of wisconsin oshkosh,fuzzy
+D3,Women,Indoor Track & Field,2004,240365,Wisconsin-Oshkosh,University of Wisconsin-Oshkosh,wisconsin oshkosh,university of wisconsin oshkosh,fuzzy

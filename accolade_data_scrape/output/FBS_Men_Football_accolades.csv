@@ -1,0 +1,21 @@
+Division,Gender,Sport,Year,UNITID,Champion,INSTNM,Champion_NORM,INSTNM_NORM,type_of_match
+FBS,Men,Football,2023,170976,Michigan,University of Michigan-Ann Arbor,university of michigan ann arbor,university of michigan ann arbor,exact
+FBS,Men,Football,2022,139959,Georgia,University of Georgia,university of georgia,university of georgia,exact
+FBS,Men,Football,2021,139959,Georgia,University of Georgia,university of georgia,university of georgia,exact
+FBS,Men,Football,2020,100751,Alabama,The University of Alabama,university of alabama,university of alabama,exact
+FBS,Men,Football,2019,159391,LSU,Louisiana State University and Agricultural & Mechanical College,louisiana state university and agricultural mechanical college,louisiana state university and agricultural  mechanical college,fuzzy
+FBS,Men,Football,2018,217882,Clemson,Clemson University,clemson university,clemson university,exact
+FBS,Men,Football,2017,100751,Alabama,The University of Alabama,university of alabama,university of alabama,exact
+FBS,Men,Football,2016,217882,Clemson,Clemson University,clemson university,clemson university,exact
+FBS,Men,Football,2015,100751,Alabama,The University of Alabama,university of alabama,university of alabama,exact
+FBS,Men,Football,2014,204796,Ohio State,Ohio State University-Main Campus,ohio state university main campus,ohio state university main campus,exact
+FBS,Men,Football,2013,134097,Florida State,Florida State University,florida state university,florida state university,exact
+FBS,Men,Football,2012,100751,Alabama,The University of Alabama,university of alabama,university of alabama,exact
+FBS,Men,Football,2011,100751,Alabama,The University of Alabama,university of alabama,university of alabama,exact
+FBS,Men,Football,2010,100858,Auburn,Auburn University,auburn university,auburn university,exact
+FBS,Men,Football,2009,100751,Alabama,The University of Alabama,university of alabama,university of alabama,exact
+FBS,Men,Football,2008,134130,Florida,University of Florida,university of florida,university of florida,exact
+FBS,Men,Football,2007,159391,LSU,Louisiana State University and Agricultural & Mechanical College,louisiana state university and agricultural mechanical college,louisiana state university and agricultural  mechanical college,fuzzy
+FBS,Men,Football,2006,134130,Florida,University of Florida,university of florida,university of florida,exact
+FBS,Men,Football,2005,228778,Texas,The University of Texas at Austin,university of texas at austin,university of texas at austin,exact
+FBS,Men,Football,2004,123961,Southern California*,University of Southern California,university of southern california,university of southern california,exact

@@ -1,0 +1,16 @@
+Division,Gender,Sport,Year,UNITID,Champion,INSTNM,Champion_NORM,INSTNM_NORM,type_of_match
+D3,Men,Basketball,2023,231712,Christopher Newport,Christopher Newport University,christopher newport,christopher newport university,fuzzy
+D3,Men,Basketball,2022,233295,Randolph-Macon,Randolph-Macon College,randolph macon,randolph macon college,alias
+D3,Men,Basketball,2019,240365,Wisconsin-Oshkosh,University of Wisconsin-Oshkosh,wisconsin oshkosh,university of wisconsin oshkosh,fuzzy
+D3,Men,Basketball,2018,181446,Nebraska Wesleyan,Nebraska Wesleyan University,nebraska wesleyan,nebraska wesleyan university,fuzzy
+D3,Men,Basketball,2017,164580,Babson,Babson College,babson,babson college,fuzzy
+D3,Men,Basketball,2015,240480,Wisconsin-Stevens Point,University of Wisconsin-Stevens Point,wisconsin stevens point,university of wisconsin stevens point,fuzzy
+D3,Men,Basketball,2014,240189,Wisconsin-Whitewater,University of Wisconsin-Whitewater,wisconsin whitewater,university of wisconsin whitewater,fuzzy
+D3,Men,Basketball,2013,164465,Amherst,Amherst College,amherst,amherst college,fuzzy
+D3,Men,Basketball,2012,240189,Wisconsin-Whitewater,University of Wisconsin-Whitewater,wisconsin whitewater,university of wisconsin whitewater,fuzzy
+D3,Men,Basketball,2011,137476,St. Thomas,St. Thomas University,st thomas,st thomas university,fuzzy
+D3,Men,Basketball,2010,240480,Wisconsin-Stevens Point,University of Wisconsin-Stevens Point,wisconsin stevens point,university of wisconsin stevens point,fuzzy
+D3,Men,Basketball,2007,164465,Amherst,Amherst College,amherst,amherst college,fuzzy
+D3,Men,Basketball,2006,234173,Virginia Wesleyan,Virginia Wesleyan University,virginia wesleyan,virginia wesleyan university,fuzzy
+D3,Men,Basketball,2005,240480,Wisconsin-Stevens Point,University of Wisconsin-Stevens Point,wisconsin stevens point,university of wisconsin stevens point,fuzzy
+D3,Men,Basketball,2004,240480,Wisconsin-Stevens Point,University of Wisconsin-Stevens Point,wisconsin stevens point,university of wisconsin stevens point,fuzzy

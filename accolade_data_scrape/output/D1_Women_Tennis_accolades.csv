@@ -1,0 +1,20 @@
+Division,Gender,Sport,Year,UNITID,Champion,INSTNM,Champion_NORM,INSTNM_NORM,type_of_match
+D1,Women,Tennis,2023,199120,North Carolina,University of North Carolina at Chapel Hill,university of north carolina at chapel hill,university of north carolina at chapel hill,exact
+D1,Women,Tennis,2022,228778,Texas,The University of Texas at Austin,university of texas at austin,university of texas at austin,exact
+D1,Women,Tennis,2021,228778,Texas,The University of Texas at Austin,university of texas at austin,university of texas at austin,exact
+D1,Women,Tennis,2019,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+D1,Women,Tennis,2018,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+D1,Women,Tennis,2017,134130,Florida,University of Florida,university of florida,university of florida,exact
+D1,Women,Tennis,2016,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+D1,Women,Tennis,2015,221999,Vanderbilt,Vanderbilt University,vanderbilt,vanderbilt university,fuzzy
+D1,Women,Tennis,2014,110662,UCLA,University of California-Los Angeles,university of california los angeles,university of california los angeles,exact
+D1,Women,Tennis,2013,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+D1,Women,Tennis,2012,134130,Florida,University of Florida,university of florida,university of florida,exact
+D1,Women,Tennis,2011,134130,Florida,University of Florida,university of florida,university of florida,exact
+D1,Women,Tennis,2010,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+D1,Women,Tennis,2009,198419,Duke,Duke University,duke,duke university,fuzzy
+D1,Women,Tennis,2008,110662,UCLA,University of California-Los Angeles,university of california los angeles,university of california los angeles,exact
+D1,Women,Tennis,2007,139755,Georgia Tech,Georgia Institute of Technology-Main Campus,georgia institute of technology main campus,georgia institute of technology main campus,exact
+D1,Women,Tennis,2006,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+D1,Women,Tennis,2005,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+D1,Women,Tennis,2004,243744,Stanford,Stanford University,stanford,stanford university,fuzzy

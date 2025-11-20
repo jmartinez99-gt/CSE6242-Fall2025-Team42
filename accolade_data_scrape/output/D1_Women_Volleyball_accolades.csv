@@ -1,0 +1,21 @@
+Division,Gender,Sport,Year,UNITID,Champion,INSTNM,Champion_NORM,INSTNM_NORM,type_of_match
+D1,Women,Volleyball,2023,228778,Texas,The University of Texas at Austin,university of texas at austin,university of texas at austin,exact
+D1,Women,Volleyball,2022,228778,Texas,The University of Texas at Austin,university of texas at austin,university of texas at austin,exact
+D1,Women,Volleyball,2021,238616,Wisconsin,Concordia University-Wisconsin,wisconsin,concordia university wisconsin,fuzzy
+D1,Women,Volleyball,2020,157085,Kentucky,University of Kentucky,university of kentucky,university of kentucky,exact
+D1,Women,Volleyball,2019,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+D1,Women,Volleyball,2018,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+D1,Women,Volleyball,2017,181464,Nebraska,University of Nebraska-Lincoln,university of nebraska lincoln,university of nebraska lincoln,exact
+D1,Women,Volleyball,2016,243744,Stanford,Stanford University,stanford,stanford university,fuzzy
+D1,Women,Volleyball,2015,181464,Nebraska,University of Nebraska-Lincoln,university of nebraska lincoln,university of nebraska lincoln,exact
+D1,Women,Volleyball,2014,214777,Penn State,Pennsylvania State University-Main Campus,pennsylvania state university main campus,pennsylvania state university main campus,exact
+D1,Women,Volleyball,2013,214777,Penn State,Pennsylvania State University-Main Campus,pennsylvania state university main campus,pennsylvania state university main campus,exact
+D1,Women,Volleyball,2012,228778,Texas,The University of Texas at Austin,university of texas at austin,university of texas at austin,exact
+D1,Women,Volleyball,2011,110662,UCLA,University of California-Los Angeles,university of california los angeles,university of california los angeles,exact
+D1,Women,Volleyball,2010,214777,Penn State,Pennsylvania State University-Main Campus,pennsylvania state university main campus,pennsylvania state university main campus,exact
+D1,Women,Volleyball,2009,214777,Penn State,Pennsylvania State University-Main Campus,pennsylvania state university main campus,pennsylvania state university main campus,exact
+D1,Women,Volleyball,2008,214777,Penn State,Pennsylvania State University-Main Campus,pennsylvania state university main campus,pennsylvania state university main campus,exact
+D1,Women,Volleyball,2007,214777,Penn State,Pennsylvania State University-Main Campus,pennsylvania state university main campus,pennsylvania state university main campus,exact
+D1,Women,Volleyball,2006,181464,Nebraska,University of Nebraska-Lincoln,university of nebraska lincoln,university of nebraska lincoln,exact
+D1,Women,Volleyball,2005,131469,Washington,George Washington University,washington,george washington university,fuzzy
+D1,Women,Volleyball,2004,243744,Stanford,Stanford University,stanford,stanford university,fuzzy

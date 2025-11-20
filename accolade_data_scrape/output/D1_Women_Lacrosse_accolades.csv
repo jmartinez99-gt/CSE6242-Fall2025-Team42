@@ -1,0 +1,20 @@
+Division,Gender,Sport,Year,UNITID,Champion,INSTNM,Champion_NORM,INSTNM_NORM,type_of_match
+D1,Women,Lacrosse,2023,147767,Northwestern,Northwestern University,northwestern,northwestern university,fuzzy
+D1,Women,Lacrosse,2022,199120,North Carolina,University of North Carolina at Chapel Hill,university of north carolina at chapel hill,university of north carolina at chapel hill,exact
+D1,Women,Lacrosse,2021,164924,Boston College,Boston College,boston college,boston college,exact
+D1,Women,Lacrosse,2019,163286,Maryland,University of Maryland-College Park,university of maryland college park,university of maryland college park,exact
+D1,Women,Lacrosse,2018,232423,James Madison,James Madison University,james madison,james madison university,fuzzy
+D1,Women,Lacrosse,2017,163286,Maryland,University of Maryland-College Park,university of maryland college park,university of maryland college park,exact
+D1,Women,Lacrosse,2016,199120,North Carolina,University of North Carolina at Chapel Hill,university of north carolina at chapel hill,university of north carolina at chapel hill,exact
+D1,Women,Lacrosse,2015,163286,Maryland,University of Maryland-College Park,university of maryland college park,university of maryland college park,exact
+D1,Women,Lacrosse,2014,163286,Maryland,University of Maryland-College Park,university of maryland college park,university of maryland college park,exact
+D1,Women,Lacrosse,2013,199120,North Carolina,University of North Carolina at Chapel Hill,university of north carolina at chapel hill,university of north carolina at chapel hill,exact
+D1,Women,Lacrosse,2012,147767,Northwestern,Northwestern University,northwestern,northwestern university,fuzzy
+D1,Women,Lacrosse,2011,147767,Northwestern,Northwestern University,northwestern,northwestern university,fuzzy
+D1,Women,Lacrosse,2010,163286,Maryland,University of Maryland-College Park,university of maryland college park,university of maryland college park,exact
+D1,Women,Lacrosse,2009,147767,Northwestern,Northwestern University,northwestern,northwestern university,fuzzy
+D1,Women,Lacrosse,2008,147767,Northwestern,Northwestern University,northwestern,northwestern university,fuzzy
+D1,Women,Lacrosse,2007,147767,Northwestern,Northwestern University,northwestern,northwestern university,fuzzy
+D1,Women,Lacrosse,2006,147767,Northwestern,Northwestern University,northwestern,northwestern university,fuzzy
+D1,Women,Lacrosse,2005,147767,Northwestern,Northwestern University,northwestern,northwestern university,fuzzy
+D1,Women,Lacrosse,2004,234076,Virginia,University of Virginia-Main Campus,university of virginia-main campus,university of virginia main campus,fuzzy

@@ -1,0 +1,19 @@
+Division,Gender,Sport,Year,UNITID,Champion,INSTNM,Champion_NORM,INSTNM_NORM,type_of_match
+D2,Men,Baseball,2023,222831,*Angelo State,Angelo State University,angelo state,angelo state university,alias
+D2,Men,Baseball,2022,218441,*North Greenville,North Greenville University,north greenville,north greenville university,fuzzy
+D2,Men,Baseball,2021,199962,Wingate,Wingate University,wingate,wingate university,fuzzy
+D2,Men,Baseball,2019,137847,*Tampa,The University of Tampa,tampa,university of tampa,fuzzy
+D2,Men,Baseball,2017,216764,*West Chester,West Chester University of Pennsylvania,west chester,west chester university of pennsylvania,fuzzy
+D2,Men,Baseball,2016,136215,*Nova Southeastern,Nova Southeastern University,nova southeastern,nova southeastern university,fuzzy
+D2,Men,Baseball,2015,137847,Tampa,The University of Tampa,tampa,university of tampa,fuzzy
+D2,Men,Baseball,2014,151306,Southern Indiana,University of Southern Indiana,southern indiana,university of southern indiana,fuzzy
+D2,Men,Baseball,2013,137847,Tampa,The University of Tampa,tampa,university of tampa,fuzzy
+D2,Men,Baseball,2012,216764,West Chester,West Chester University of Pennsylvania,west chester,west chester university of pennsylvania,fuzzy
+D2,Men,Baseball,2011,138354,West Florida,University of West Florida,university of west florida,university of west florida,exact
+D2,Men,Baseball,2010,151306,Southern Indiana,University of Southern Indiana,southern indiana,university of southern indiana,fuzzy
+D2,Men,Baseball,2009,132657,Lynn,Lynn University,lynn,lynn university,fuzzy
+D2,Men,Baseball,2008,199069,*Mount Olive,University of Mount Olive,mount olive,university of mount olive,fuzzy
+D2,Men,Baseball,2007,137847,*Tampa,The University of Tampa,tampa,university of tampa,fuzzy
+D2,Men,Baseball,2006,137847,*Tampa,The University of Tampa,tampa,university of tampa,fuzzy
+D2,Men,Baseball,2005,134079,Florida Southern,Florida Southern College,florida southern,florida southern college,fuzzy
+D2,Men,Baseball,2004,175616,Delta State,Delta State University,delta state,delta state university,fuzzy

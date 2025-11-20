@@ -1,0 +1,19 @@
+Division,Gender,Sport,Year,UNITID,Champion,INSTNM,Champion_NORM,INSTNM_NORM,type_of_match
+D2,Men,Golf,2023,136215,Nova Southeastern,Nova Southeastern University,nova southeastern,nova southeastern university,fuzzy
+D2,Men,Golf,2022,164748,Lee,Berklee College of Music,lee,berklee college of music,fuzzy
+D2,Men,Golf,2021,106467,Arkansas Tech,Arkansas Tech University,arkansas tech,arkansas tech university,fuzzy
+D2,Men,Golf,2019,132657,Lynn,Lynn University,lynn,lynn university,fuzzy
+D2,Men,Golf,2018,132657,Lynn,Lynn University,lynn,lynn university,fuzzy
+D2,Men,Golf,2017,134079,Florida Southern,Florida Southern College,florida southern,florida southern college,fuzzy
+D2,Men,Golf,2016,137032,Saint Leo,Saint Leo University,saint leo,saint leo university,fuzzy
+D2,Men,Golf,2015,136215,Nova Southeastern,Nova Southeastern University,nova southeastern,nova southeastern university,fuzzy
+D2,Men,Golf,2014,132471,Barry,Barry University,barry,barry university,fuzzy
+D2,Men,Golf,2013,132471,Barry,Barry University,barry,barry university,fuzzy
+D2,Men,Golf,2012,136215,Nova Southeastern,Nova Southeastern University,nova southeastern,nova southeastern university,fuzzy
+D2,Men,Golf,2010,134079,Florida Southern,Florida Southern College,florida southern,florida southern college,fuzzy
+D2,Men,Golf,2009,123572,Sonoma State,Sonoma State University,sonoma state,sonoma state university,fuzzy
+D2,Men,Golf,2008,138354,West Florida,University of West Florida,university of west florida,university of west florida,exact
+D2,Men,Golf,2007,132471,Barry,Barry University,barry,barry university,fuzzy
+D2,Men,Golf,2006,218645,South Carolina Aiken,University of South Carolina Aiken,south carolina aiken,university of south carolina aiken,fuzzy
+D2,Men,Golf,2005,218645,South Carolina Aiken,University of South Carolina Aiken,south carolina aiken,university of south carolina aiken,fuzzy
+D2,Men,Golf,2004,218645,South Carolina Aiken,University of South Carolina Aiken,south carolina aiken,university of south carolina aiken,fuzzy

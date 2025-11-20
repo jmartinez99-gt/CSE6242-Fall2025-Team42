@@ -1,0 +1,19 @@
+Division,Gender,Sport,Year,UNITID,Champion,INSTNM,Champion_NORM,INSTNM_NORM,type_of_match
+D1,Men,Outdoor Track & Field,2023,134130,Florida,University of Florida,university of florida,university of florida,exact
+D1,Men,Outdoor Track & Field,2022,134130,Florida,University of Florida,university of florida,university of florida,exact
+D1,Men,Outdoor Track & Field,2021,159391,LSU,Louisiana State University and Agricultural & Mechanical College,louisiana state university and agricultural mechanical college,louisiana state university and agricultural  mechanical college,fuzzy
+D1,Men,Outdoor Track & Field,2019,229115,Texas Tech,Texas Tech University,texas tech,texas tech university,fuzzy
+D1,Men,Outdoor Track & Field,2018,139959,Georgia,University of Georgia,university of georgia,university of georgia,exact
+D1,Men,Outdoor Track & Field,2017,134130,Florida,University of Florida,university of florida,university of florida,exact
+D1,Men,Outdoor Track & Field,2016,134130,Florida,University of Florida,university of florida,university of florida,exact
+D1,Men,Outdoor Track & Field,2015,209551,Oregon,University of Oregon,university of oregon,university of oregon,exact
+D1,Men,Outdoor Track & Field,2014,209551,Oregon,University of Oregon,university of oregon,university of oregon,exact
+D1,Men,Outdoor Track & Field,2012,134130,Florida,University of Florida,university of florida,university of florida,exact
+D1,Men,Outdoor Track & Field,2011,228723,Texas A&M,Texas A&M University-College Station,texas am university college station,texas am university college station,exact
+D1,Men,Outdoor Track & Field,2010,228723,Texas A&M,Texas A&M University-College Station,texas am university college station,texas am university college station,exact
+D1,Men,Outdoor Track & Field,2009,228723,Texas A&M,Texas A&M University-College Station,texas am university college station,texas am university college station,exact
+D1,Men,Outdoor Track & Field,2008,134097,Florida State,Florida State University,florida state university,florida state university,exact
+D1,Men,Outdoor Track & Field,2007,134097,&Florida State,Florida State University,florida state university,florida state university,exact
+D1,Men,Outdoor Track & Field,2006,134097,Florida State,Florida State University,florida state university,florida state university,exact
+D1,Men,Outdoor Track & Field,2005,106245,&Arkansas,University of Arkansas at Little Rock,arkansas,university of arkansas at little rock,fuzzy
+D1,Men,Outdoor Track & Field,2004,106245,&Arkansas,University of Arkansas at Little Rock,arkansas,university of arkansas at little rock,fuzzy

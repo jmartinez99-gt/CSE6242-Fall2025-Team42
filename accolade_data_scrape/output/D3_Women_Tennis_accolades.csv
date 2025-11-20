@@ -1,0 +1,16 @@
+Division,Gender,Sport,Year,UNITID,Champion,INSTNM,Champion_NORM,INSTNM_NORM,type_of_match
+D3,Women,Tennis,2021,139658,Emory,Emory University,emory,emory university,fuzzy
+D3,Women,Tennis,2017,168342,Williams,Williams College,williams college,williams college,exact
+D3,Women,Tennis,2016,139658,Emory,Emory University,emory,emory university,fuzzy
+D3,Women,Tennis,2015,168342,Williams,Williams College,williams college,williams college,exact
+D3,Women,Tennis,2014,139658,Emory,Emory University,emory,emory university,fuzzy
+D3,Women,Tennis,2013,168342,Williams,Williams College,williams college,williams college,exact
+D3,Women,Tennis,2012,168342,Williams,Williams College,williams college,williams college,exact
+D3,Women,Tennis,2011,168342,Williams,Williams College,williams college,williams college,exact
+D3,Women,Tennis,2010,168342,Williams,Williams College,williams college,williams college,exact
+D3,Women,Tennis,2009,168342,Williams,Williams College,williams college,williams college,exact
+D3,Women,Tennis,2008,168342,Williams,Williams College,williams college,williams college,exact
+D3,Women,Tennis,2007,234207,Washington and Lee,Washington and Lee University,washington and lee,washington and lee university,fuzzy
+D3,Women,Tennis,2006,139658,Emory,Emory University,emory,emory university,fuzzy
+D3,Women,Tennis,2005,139658,Emory,Emory University,emory,emory university,fuzzy
+D3,Women,Tennis,2004,139658,Emory,Emory University,emory,emory university,fuzzy
