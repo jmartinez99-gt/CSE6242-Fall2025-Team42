@@ -33,12 +33,8 @@ for gz_path in gz_files:
 
 print("\n=== Compressing existing .csv files ===")
 for csv_path in csv_files:
-    # For safety, ignore any that were actually .csv.gz originally
-    # (rglob('*.csv') doesn't match *.csv.gz, so this is just extra clarity)
-    if csv_path.suffix != ".csv":
-        continue
 
-    gz_path = csv_path.with_suffix(csv_path.suffix + ".gz")  # .csv.gz
+    gz_path = csv_path.with_suffix(csv_path.suffix + ".gz")
 
     if gz_path.exists():
         print(f"Skip (already compressed): {gz_path}")
