@@ -1,4 +1,4 @@
-name: DVA
+name: DVA_Final_Project
 channels:
   - defaults
   - conda-forge
@@ -14,4 +14,3 @@ dependencies:
   - pyproj
   - shapely
   - geopandas
-prefix: /Users/abibstopher/opt/anaconda3/envs/DVA
