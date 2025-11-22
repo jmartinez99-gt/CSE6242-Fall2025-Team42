@@ -1,0 +1,17 @@
+name: DVA
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - scikit-learn
+  - jupyter
+  - pandas
+  - tableauscraper
+  - openpyxl
+  - xlrd
+  - matplotlib
+  - rtree
+  - pyproj
+  - shapely
+  - geopandas
+prefix: /Users/abibstopher/opt/anaconda3/envs/DVA
