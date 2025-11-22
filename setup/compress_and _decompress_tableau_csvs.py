@@ -4,14 +4,12 @@ import shutil
 
 ROOT_DIR = Path("../data/tableau")
 
-# Take a snapshot of files *before* we start so we don't re-process
 csv_files = list(ROOT_DIR.rglob("*.csv"))
 gz_files  = list(ROOT_DIR.rglob("*.csv.gz"))
 
 print("=== Decompressing existing .csv.gz files ===")
 for gz_path in gz_files:
-    # .csv.gz -> .csv
-    csv_path = gz_path.with_suffix("")  # removes only .gz
+    csv_path = gz_path.with_suffix("")
 
     if csv_path.exists():
         print(f"Skip (already decompressed): {csv_path}")
